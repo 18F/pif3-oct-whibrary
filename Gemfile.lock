@@ -2,7 +2,12 @@ GEM
   remote: https://rubygems.org/
   specs:
     docsplit (0.7.5)
+    pg (0.17.1)
     rake (10.3.2)
+    sequel (4.13.0)
+    sequel_pg (1.6.10)
+      pg (>= 0.8.0)
+      sequel (>= 3.39.0)
 
 PLATFORMS
   ruby
@@ -10,3 +15,5 @@ PLATFORMS
 DEPENDENCIES
   docsplit
   rake
+  sequel
+  sequel_pg
