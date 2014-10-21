@@ -1,0 +1,2269 @@
+Title 29: Labor
+
+PART 776—INTERPRETATIVE BULLETIN ON THE GENERAL COVERAGE OF THE WAGE AND
+HOURS PROVISIONS OF THE FAIR LABOR STANDARDS ACT OF 1938
+Contents
+Subpart A—General
+§776.0 Subpart limited to individual employee coverage.
+INDIVIDUAL EMPLOYEE COVERAGE
+§776.0a Introductory statement.
+HOW COVERAGE IS DETERMINED
+§776.1 General interpretative guides.
+§776.2 Employee basis of coverage.
+§776.3 Persons engaging in both covered and noncovered activities.
+§776.4 Workweek standard.
+§776.5 Coverage not dependent on method of compensation.
+§776.6 Coverage not dependent on place of work.
+§776.7 Geographical scope of coverage.
+ENGAGING “IN COMMERCE”
+§776.8 The statutory provisions.
+§776.9 General scope of “in commerce” coverage.
+§776.10 Employees participating in the actual movement of commerce.
+§776.11 Employees doing work related to instrumentalities of commerce.
+§776.12 Employees traveling across State lines.
+§776.13 Commerce crossing international boundaries.
+ENGAGING IN “THE PRODUCTION OF GOODS FOR COMMERCE”
+§776.14 Elements of “production” coverage.
+§776.15 “Production.”
+§776.16 Employment in “producing, * * * or in any other manner working on” goods.
+§776.17 Employment in a “closely related process or occupation directly essential to” production of goods.
+§776.18 Employees of producers for commerce.
+§776.19 Employees of independent employers meeting needs of producers for commerce.
+§776.20 “Goods.”
+§776.21 “For” commerce.
+Subpart B—Construction Industry
+§776.22 Subpart limited to individual employee coverage.
+ENTERPRISE COVERAGE
+§776.22a Extension of coverage to employment in certain enterprises.
+INDIVIDUAL EMPLOYEE COVERAGE IN THE CONSTRUCTION INDUSTRY
+§776.22b Guiding principles.
+§776.23 Employment in the construction industry.
+§776.24 Travel in connection with construction projects.
+§776.25 Regular and recurring activities as basis of coverage.
+§776.26 Relationship of the construction work to the covered facility.
+§776.27 Construction which is related to covered production.
+§776.28 Covered preparatory activities.
+§776.29 Instrumentalities and channels of interstate commerce.
+§776.30 Construction performed on temporarily idle facilities.
+
+AUTHORITY: 52 Stat. 1060, as amended; 29 U.S.C. 201-219.
+
+Subpart A—General
+SOURCE: 15 FR 2925, May 17, 1950, unless otherwise noted.
+
+§776.0 Subpart limited to individual employee coverage.
+This subpart, which was adopted before the amendments of 1961 and 1966 to the Fair Labor Standards Act, is
+limited to discussion of general coverage of the Act on the traditional basis of engagement by individual employees
+“in commerce or in the production of goods for commerce”. The 1961 and 1966 amendments broadened coverage
+by extending it to other employees on an “enterprise” basis, when “employed in an enterprise engaged in commerce
+or in the production of goods for commerce” as defined in section 3 (r), (s), of the present Act. Employees covered
+under the principles discussed in this subpart remain covered under the Act as amended; however, an employee who
+would not be individually covered under the principles discussed in this subpart may now be subject to the Act if he
+is employed in a covered enterprise as defined in the amendments. Questions of “enterprise coverage” not answered
+in published statements of the Department of Labor may be addressed to the Administrator of the Wage and Hour
+Division, Department of Labor, Washington, DC 20210 or assistance may be requested from any of the Regional or
+District Offices of the Division.
+[35 FR 5543, Apr. 3, 1970]
+
+INDIVIDUAL EMPLOYEE COVERAGE
+§776.0a Introductory statement.
+(a) Scope and significance of this part. (1) The Fair Labor Standards Act of 19381 (hereinafter referred to as
+the Act), brings within the general coverage of its wage and hours provisions every employee who is “engaged in
+commerce or in the production of goods for commerce.”2 What employees are so engaged must be ascertained in the
+light of the definitions of “commerce”, “goods”, and “produced” which are set forth in the Act as amended by the
+Fair Labor Standards Amendments of 1949,3 giving due regard to authoritative interpretations by the courts and to
+the legislative history of the Act, as amended. Interpretations of the Administrator of the Wage and Hour Division
+with respect to this general coverage are set forth in this part to provide “a practical guide to employers and
+employees as to how the office representing the public interest in its enforcement will seek to apply it.”4 These
+interpretations with respect to the general coverage of the wage and hours provisions of the Act, indicate the
+construction of the law which the Administrator believes to be correct and which will guide him in the performance
+of his administrative duties under the Act unless and until he is otherwise directed by authoritative decisions of the
+courts or concludes, upon reexamination of an interpretation, that it is incorrect.
+1
+Pub. L. 718, 75th Cong., 3d sess. (52 Stat. 1060), as amended by the Act of June 26, 1940 (Pub. Res. No. 88, 76th Cong.,
+3d sess., 54 Stat. 616); by Reorganization Plan No. 2 (60 Stat. 1095), effective July 16, 1946; by the Portal-to-Portal Act of 1947,
+approved May 14, 1947 (61 Stat. 84); and by the Fair Labor Standards Amendments of 1949, approved October 26, 1949 (Pub.
+L. 393, 81st Cong., 1st sess., 63 Stat. 910); by Reorganization Plan No. 6 of 1950 (15 FR 3174), effective May 24, 1950; and by
+the Fair Labor Standards Amendments of 1955, approved August 12, 1955 (Pub. L. 381, 84th Cong., 1st sess., C. 867, 69 Stat.
+711).
+
+2
+The requirement of section 6 as to minimum wages is: “Every employer shall pay to each of his employees who is
+engaged in commerce or in the production of goods for commerce wages at the following rates—” (not less than $1.00 an hour,
+except in Puerto Rico and the Virgin Islands to which special provisions apply).
+
+The requirement of section 7 as to maximum hours which an employee may work without receiving extra pay for overtime
+is: “no employer shall employ any of his employees who is engaged in commerce or in the production of goods for commerce for
+a workweek longer than forty hours, unless such employee receives compensation for his employment in excess of the hours
+above specified at a rate not less than one and one-half times the regular rate at which he is employed.”
+
+3
+Pub. L. 393, 81st Cong., 1st sess. (63 Stat. 910). These amendments, effective January 25, 1950, leave the existing law
+unchanged except as to provisions specifically amended and the addition of certain new provisions. Section 3(b) of the Act,
+defining “commerce”, and section 3(j), defining “produced”, were specifically amended as explained in §§776.13 and 776.17(a)
+herein.
+
+4
+
+Skidmore v. Swift & Co., 323 U.S. 134, 138.
+
+(2) Under the Portal-to-Portal Act of 1947,5 interpretations of the Administrator may, under certain
+circumstances, be controlling in determining the rights and liabilities of employers and employees. The
+interpretations contained in this bulletin are interpretations on which reliance may be placed as provided in section
+10 of the Portal-to-Portal Act, so long as they remain effective and are not modified, amended, rescinded, or
+determined by judicial authority to be incorrect. However, the omission to discuss a particular problem in this part or
+in interpretations supplementing it should not be taken to indicate the adoption of any position by the Administrator
+with respect to such problem or to constitute an administrative interpretation or practice or enforcement policy.
+5
+
+Pub. L. 49, 80th Cong., 1st sess. (61 Stat. 84), discussed in part 790 of this chapter.
+
+(b) Exemptions and child labor provisions not discussed. This part does not deal with the various specific
+exemptions provided in the statute, under which certain employees engaged in commerce or in the production of
+goods for commerce and thus within the general coverage of the wage and hours provisions are wholly or partially
+excluded from the protection of the Act's minimum-wage and overtime-pay requirements. Some of these exemptions
+are self-executing; others call for definitions or other action by the Administrator. Regulations and interpretations
+relating to specific exemptions may be found in other parts of this chapter. Coverage and exemptions under the child
+labor provisions of the Act are discussed in a separate interpretative bulletin (§§570.101 to 570.121 of this chapter)
+issued by the Secretary of Labor.
+(c) Earlier interpretations superseded. All general and specific interpretations issued prior to July 11, 1947,
+with respect to the general coverage of the wage and hours provisions of the Act were rescinded and withdrawn by
+§776.0(b) of the general statement on this subject, published in the FEDERAL REGISTER on that date as part 776 of
+this chapter (12 FR 4583). To the extent that interpretations contained in such general statement or in releases,
+opinion letters, and other statements issued on or after July 11, 1947, are inconsistent with the provisions of the Fair
+Labor Standards Amendments of 1949, they do not continue in effect after January 24, 1950.6 Effective on the date
+of its publication in the FEDERAL REGISTER, subpart A of this interpretative bulletin replaces and supersedes the
+general statement previously published as part 776 of this chapter, which statement is withdrawn. All other
+administrative rulings, interpretations, practices and enforcement policies relating to the general coverage of the
+wages and hours provisions of the Act and not withdrawn prior to such date are, to the extent that they are
+inconsistent with or in conflict with the principles stated in this interpretative bulletin, hereby rescinded and
+withdrawn.
+6
+
+Section 16(c) of the Fair Labor Standards Amendments of 1949 (63 Stat. 910) provides:
+
+“Any order, regulation, or interpretation of the Administrator of the Wage and Hour Division or of the Secretary of Labor,
+and any agreement entered into by the Administrator or the Secretary, in effect under the provisions of the Fair Labor Standards
+Act of 1938, as amended, on the effective date of this Act, shall remain in effect as an order, regulation, interpretation, or
+agreement of the Administrator or the Secretary, as the case may be, pursuant to this Act, except to the extent that any such order,
+regulation, interpretation, or agreement may be inconsistent with the provisions of this Act, or may from time to time be
+amended, modified, or rescinded by the Administrator or the Secretary, as the case may be, in accordance with the provisions of
+this Act.”
+[15 FR 2925, May 17, 1950, as amended at 21 FR 1448, Mar. 6, 1956. Redesignated at 35 FR 5543, Apr. 3, 1970]
+
+HOW COVERAGE IS DETERMINED
+§776.1 General interpretative guides.
+
+The congressional policy under which employees “engaged in commerce or in the production of goods for
+commerce” are brought within the general coverage of the Act's wage and hours provisions is stated in section 2 of
+the Act. This section makes it clear that the congressional power to regulate interstate and foreign commerce is
+exercised in this Act in order to remedy certain evils, namely, “labor conditions detrimental to the maintenance of
+the minimum standards of living necessary for health, efficiency, and the general well being of workers” which
+Congress found “(a) causes commerce and the channels and instrumentalities of commerce to be used to perpetuate
+such labor conditions among the workers of the several States; (b) burdens commerce and the free flow of goods in
+commerce; (c) constitutes an unfair method of competition in commerce; (d) leads to labor disputes burdening and
+obstructing commerce and the free flow of goods in commerce and (e) interferes with the orderly and fair marketing
+of goods in commerce.” In carrying out these broad remedial purposes, however, the Congress did not choose to
+make the scope of the Act coextensive in all respects with the limits of its power over commerce or to apply it to all
+activities affecting commerce.7 Congress delimited the area in which the Act operates by providing for certain
+exceptions and exemptions, and by making wage-hour coverage applicable only to employees who are “engaged in”
+either “commerce”, as defined in the Act, or “production” of “goods” for such commerce, within the meaning of the
+Act's definitions of these terms. The Fair Labor Standards Amendments of 1949 indicate an intention to restrict
+somewhat the category of employees within the reach of the Act under the former definition of “produced” and to
+expand to some extent the group covered under the former definition of “commerce.” In his interpretations, the
+Administrator will endeavor to give effect to both the broad remedial purposes of the Act and the limitations on its
+application, seeking guidance in his task from the terms of the statute, from authoritative court decisions, and from
+the legislative history of the Act, as amended.8
+7
+Kirschbaum v. Walling, 316 U.S. 517; Walling v. Jacksonville Paper Co., 317 U.S. 564; 10 East 40th St. Bldg. Co. v.
+Callus, 325 U.S. 578; A. H. Phillips, Inc. v. Walling, 324 U.S. 490; Fleming v. Hawkeye Pearl Button Co., 113 F. 2d 52 (C.A. 8);
+Armstrong v. Walling, 161 F. 2d 515 (C.A. 1); Bowie v. Gonzalez, 117 F. 2d 11 (C.A. 1).
+
+8
+Footnote references to some of the relevant court decisions are made for the assistance of readers who may be interested
+in such decisions.
+
+Footnote reference to the legislative history of the 1949 amendments are made at points in this part where it is believed
+they may be helpful. References to the Statement of the Managers on the part of the House, appended to the Conference Report
+on the amendments (H. Rept. No. 1453, 81st Cong., 1st sess.) are abbreviated: H. Mgrs. St. 1949, p. __. References to the
+Statement of a majority of the Senate Conferees, 95 Cong. Rec., October 19, 1949 at 15372-15377 are abbreviated: Sen. St., 1949
+Cong. Rec. References to the Congressional Record are to the 1949 daily issues, the permanent volumes being unavailable at the
+time this part was prepared.
+
+§776.2 Employee basis of coverage.
+(a) The coverage of the Act's wage and hours provisions as described in sections 6 and 7 does not deal in a
+blanket way with industries as a whole. Thus, in section 6, it is provided that every employer shall pay the statutory
+minimum wage to “each of his employees who is engaged in commerce or in the production of goods for
+commerce.” It thus becomes primarily an individual matter as to the nature of the employment of the particular
+employee. Some employers in a given industry may have no employees covered by the Act; other employers in the
+industry may have some employees covered by the Act, and not others; still other employers in the industry may
+have all their employees within the Act's coverage. If, after considering all relevant factors, employees are found to
+be engaged in covered work, their employer cannot avoid his obligations to them under the Act on the ground that
+he is not “engaged in commerce or in the production of goods for commerce.” To the extent that his employees are
+so engaged, he is himself so engaged.9
+Kirschbaum v. Walling, 316 U.S. 517. See also Walling v. Jacksonville Paper Co., 317 U.S. 564; McLeod v. Threlkeld,
+319 U.S. 491; Mabee v. White Plains Pub. Co., 327 U.S. 178.
+9
+
+(b) In determining whether an individual employee is within the coverage of the wage and hours provisions,
+however, the relationship of an employer's business to commerce or to the production of goods for commerce may
+sometimes be an important indication of the character of the employee's work.10 It is apparent, too, from the 1949
+amendment to the definition of “produced” and its legislative history that an examination of the character of the
+
+employer's business will in some borderline situations be necessary in determining whether the employees'
+occupation bears the requisite close relationship to production for commerce.11
+10
+Borden Co. v. Borella, 325 U.S. 679; 10 E. 40th St. Bldg. Co. v. Callus, 325 U.S. 578; Armour & Co. v. Wantock, 323
+U.S. 126; Donovan v. Shell Oil Co., 168 F. 2d 229 (C.A. 4); Hertz Driveurself Stations v. United States, 150 F. 2d 923 (C.A. 8);
+Horton v. Wilson & Co., 223 N.C. 71, 25 S.E. 2d 437.
+
+H. Mgrs. St., 1949, pp. 14, 15; Sen. St. 1949 Cong. Rec. 15372.
+
+11
+
+§776.3 Persons engaging in both covered and noncovered activities.
+The Act applies to employees “engaged in commerce or in the production of goods for commerce” without
+regard to whether such employees, or their employer, are also engaged in other activities which would not bring
+them within the coverage of the Act. The Act makes no distinction as to the percentage, volume, or amount of
+activities of either employee or employer which constitute engaging in commerce or in the production of goods for
+commerce. Sections 6 and 7 refer to “each” and “any” employee so engaged, and section 15(a)(1) prohibits the
+introduction into the channels of interstate or foreign commerce of “any” goods in the production of which “any”
+employee was employed in violation of section 6 or section 7. Although employees doing work in connection with
+mere isolated, sporadic, or occasional shipments in commerce of insubstantial amounts of goods will not be
+considered covered by virtue of that fact alone, the law is settled that every employee whose engagement in
+activities in commerce or in the production of goods for commerce, even though small in amount, is regular and
+recurring, is covered by the Act.12 This does not, however, necessarily mean that an employee who at some particular
+time may engage in work which brings him within the coverage of the Act is, by reason of that fact, thereafter
+indefinitely entitled to its benefits.
+12
+United States v. Darby, 312 U.S. 100; Mabee v. White Plains Pub. Co., 327 U.S. 178; Schmidt v. Peoples Telephone
+Union of Maryville, Missouri, 138 F. 2d 13 (C.A. 8); New Mexico Public Service Co. v. Engel, 145 F. 2d 636 (C.A. 10); Sun Pub.
+Co. v. Walling, 140 F. 2d 445 (C.A. 6), certiorari denied 322 U.S. 728; Davis v. Goodman Lumber Co., 133 F. 2d 52 (C.A. 4).
+
+§776.4 Workweek standard.
+(a) The workweek is to be taken as the standard in determining the applicability of the Act.13 Thus, if in any
+workweek an employee is engaged in both covered and noncovered work he is entitled to both the wage and hours
+benefits of the Act for all the time worked in that week, unless exempted therefrom by some specific provision of
+the Act. The proportion of his time spent by the employee in each type of work is not material. If he spends any part
+of the workweek in covered work he will be considered on exactly the same basis as if he had engaged exclusively
+in such work for the entire period. Accordingly, the total number of hours which he works during the workweek at
+both types of work must be compensated for in accordance with the minimum wage and overtime pay provisions of
+the Act.
+13
+See Gordon's Transports v. Walling, 162 F. 2d 203 (C.A. 6), certiorari denied 332 U.S. 774; Walling v. Fox-Pelletier
+Detective Agency, 4 W.H. Cases 452 (W.D. Tenn.), 8 Labor Cases 62,219; Walling v. Black Diamond Coal Mining Co., 59 F.
+Supp. 348 (W.D. Ky.); Fleming v. Knox, 42 F. Supp. 948 (S.D. Ga.); Roberg v. Henry Phipps Estate, 156 F. 2d 958 (C.A. 2). For
+a definition of the workweek, see §778.2(c) of this chapter.
+
+(b) It is thus recognized that an employee may be subject to the Act in one workweek and not in the next. It is
+likewise true that some employees of an employer may be subject to the Act and others not. But the burden of
+effecting segregation between covered and noncovered work as between particular workweeks for a given employee
+or as between different groups of employees is upon the employer. Where covered work is being regularly or
+recurrently performed by his employees, and the employer seeks to segregate such work and thereby relieve himself
+of his obligations under sections 6 and 7 with respect to particular employees in particular workweeks, he should be
+prepared to show, and to demonstrate from his records, that such employees in those workweeks did not engage in
+any activities in interstate or foreign commerce or in the production of goods for such commerce, which would
+necessarily include a showing that such employees did not handle or work on goods or materials shipped in
+commerce or used in production of goods for commerce, or engage in any other work closely related and directly
+
+essential to production of goods for commerce.14 The Division's experience has indicated that much so-called
+“segregation” does not satisfy these tests and that many so-called “segregated” employees are in fact engaged in
+commerce or in the production of goods for commerce.
+See Guess v. Montague, 140 F. 2d 500 (C.A. 4).
+
+14
+
+§776.5 Coverage not dependent on method of compensation.
+The Act's individual employee coverage is not limited to employees working on an hourly wage. The
+requirements of section 6 as to minimum wages are that “each” employee described therein shall be paid wages at a
+rate not less than a specified rate “an hour”.15 This does not mean that employees cannot be paid on a piecework
+basis or on a salary, commission, or other basis; it merely means that whatever the basis on which the workers are
+paid, whether it be monthly, weekly, or on a piecework basis, they must receive at least the equivalent of the
+minimum hourly rate. “Each” and “any” employee obviously and necessarily includes one compensated by a unit of
+time, by the piece, or by any other measurement.16 Regulations prescribed by the Administrator (part 516 of this
+chapter) provide for the keeping of records in such form as to enable compensation on a piecework or other basis to
+be translated into an hourly rate.17
+Special exceptions are made for Puerto Rico, the Virgin Islands, and American Samoa.
+
+15
+
+United States v. Rosenwasser, 323 U.S. 360.
+
+16
+
+17
+For methods of translating other forms of compensation into an hourly rate for purposes of sections 6 and 7, see parts 531
+and 778 of this chapter.
+
+[35 FR 5543, Apr. 3, 1970]
+
+§776.6 Coverage not dependent on place of work.
+Except for the general geographical limitations discussed in §776.7, the Act contains no prescription as to the
+place where the employee must work in order to come within its coverage. It follows that employees otherwise
+coming within the terms of the Act are entitled to its benefits whether they perform their work at home, in the
+factory, or elsewhere.18 The specific provisions of the Act relative to regulation of homework serve to emphasize this
+fact.19
+18
+Walling v. American Needlecrafts, 139 F. 2d 60 (C.A. 6); Walling v. Twyeffort Inc., 158 F. 2d 944 (C.A. 2); McComb v.
+Homeworkers' Handicraft Cooperative, 176 F. 2d 633 (C.A. 4).
+
+See 6(a)(2); Sec. 11(d).
+
+19
+
+§776.7 Geographical scope of coverage.
+(a) The geographical areas within which the employees are to be deemed “engaged in commerce or in the
+production of goods for commerce” within the meaning of the Act, and thus within its coverage are governed by
+definitions in section 3 (b), (c), and (j). In the definition of “produced” in section 3(j), “production” is expressly
+confined to described employments “in any State.” (See §776.15 (a).) “Commerce” is defined to mean described
+activities “among the several States or between any State and any place outside thereof.” (See §776.8.) “State” is
+defined in section 3(c) to mean “any State of the United States or the District of Columbia or any Territory or
+possession of the United States.”
+(b) Under the definitions in paragraph (a) of this section, employees within the District of Columbia; Puerto
+Rico; the Virgin Islands; Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345,
+67 Stat. 462, 43 U.S.C. 1331); American Samoa; Guam; Wake Island; Enewetok Atoll; Kwajalein Atoll; Johnston
+Island; and the Canal Zone are dealt with on the same basis as employees working in any of the 50 States.20 Congress
+
+did not exercise the national legislative power over the District of Columbia or the Territories or possessions
+referred to by extending the Act to purely local commerce within them.
+20
+An amendment to the Fair Labor Standards Act of 1938, 71 Stat. 514 (approved Aug. 30, 1957) provides that no
+employer shall be subject to any liability or punishment under the Act with respect to work performed at any time in work places
+excluded from the Act's coverage by this law or for work performed prior to Nov. 29, 1957, on Guam, Wake Island, or the Canal
+Zone; or for work performed prior to the establishment, by the Secretary, of a minimum wage rate applicable to such work in
+American Samoa. Work performed by employees in “a work place within a foreign country or within territory under the
+jurisdiction of the United States” other than those enumerated in this paragraph is exempt by this amendment from coverage
+under the Act. When part of the work performed by an employee for an employer in any workweek is covered work performed in
+any State, it makes no difference where the remainder of such work is performed; the employee is entitled to the benefits of the
+Act for the entire workweek unless he comes within some specific exemption. The reference in 71 Stat. 514 to liability for work
+performed in American Samoa is an extension of the relief granted by the American Samoa Labor Standards Amendments of
+1956 (29 U.S.C. Supp. IV, secs. 206, 213, and 216).
+
+[15 FR 2925, May 17, 1950, as amended at 35 FR 5543, Apr. 3, 1970]
+
+ENGAGING “IN COMMERCE”
+§776.8 The statutory provisions.
+(a) The activities constituting “commerce” within the meaning of the phrase “engaged in commerce” in
+sections 6 and 7 of the Act are defined in section 3(b) as follows:
+Commerce means trade, commerce, transportation, transmission, or communication among the several States, or between
+any State and any place outside thereof.21
+21
+
+As amended by section 3(a) of the Fair Labor Standards Amendments of 1949.
+
+As has been noted in §776.7, the word “State” in this definition refers not only to any of the fifty States but also to
+the District of Columbia and to any Territory or possession of the United States.
+(b) It should be observed that the term commerce is very broadly defined. The definition does not limit the
+term to transportation, or to the “commercial” transactions involved in “trade,” although these are expressly
+included. Neither is the term confined to commerce in “goods.” Obviously, “transportation” or “commerce” between
+any State and any place outside its boundaries includes a movement of persons as well as a movement of goods. And
+“transmission” or “communication” across State lines constitutes “commerce” under the definition, without
+reference to whether anything so transmitted or communicated is “goods.”22
+“Goods” is, however, broadly defined in the Act. See §776.20(a).
+
+22
+
+The inclusion of the term “commerce” in the definition of the same term as used in the Act implies that no special or
+limited meaning is intended; rather, that the scope of the term for purposes of the Act is at least as broad as it would
+be under concepts of “commerce” established without reference to this definition.
+§776.9 General scope of “in commerce” coverage.
+Under the definitions quoted above, it is clear that the employees who are covered by the wage and hours
+provisions of the Act as employees “engaged in commerce” are employees doing work involving or related to the
+movement of persons or things (whether tangibles or intangibles, and including information and intelligence)
+“among the several States or between any State and any place outside thereof.”23 Although this does not include
+employees engaged in activities which merely “affect” such interstate or foreign commerce, the courts have made it
+clear that coverage of the Act based on engaging in commerce extends to every employee employed “in the channels
+of” such commerce or in activities so closely related to such commerce, as a practical matter, that they should be
+considered a part of it.24 The courts have indicated that the words “in commerce” should not be so limited by
+
+construction as to defeat the purpose of Congress, but should be interpreted in a manner consistent with their
+practical meaning and effect in the particular situation. One practical question to be asked is whether, without the
+particular service, interstate or foreign commerce would be impeded, impaired, or abated;25 others are whether the
+service contributes materially to the consummation of transactions in interstate or foreign commerce26 or makes it
+possible for existing instrumentalities of commerce27 to accomplish the movement of such commerce effectively and
+to free it from burdens or obstructions.28
+23
+“Any place outside thereof” is not limited in meaning to another State or country. Any movement between a State and a
+place “outside thereof” is “commerce” for purposes of the Act, such as ship-to-shore communication, or transportation out of a
+State by ship of food, fuel, or ice to be consumed at sea before arrival at another port.
+
+24
+Walling v. Jacksonville Paper Co., 317 U.S. 564; Overstreet v. North Shore Corp., 318 U.S. 125; McLeod v. Threlkeld,
+319 U.S. 491; Boutell v. Walling, 327 U.S. 463; Pedersen v. J. F. Fitzgerald Constr. Co., 318 U.S. 740 and 324 U.S. 720.
+
+Republic Pictures Corp. v. Kappler, 151 F. 2d 543 (C.A. 8), affirmed 327 U.S. 757; New Mexico Public Service Co. v.
+Engel, 145 F. 2d 636 (C.A. 10).
+25
+
+Walling v. Sondock, 132 F. 2d 77 (C.A. 5), certiorari denied 318 U.S. 772. See also Horton v. Wilson & Co., 223 N.C. 71,
+25 S.E. 2d 437, in which the court stated that an employee is engaged “in commerce” if his services—not too remotely but
+substantially and directly—aid in such commerce as defined in the Act.
+26
+
+For a list of such instrumentalities, see §776.11.
+
+27
+
+28
+Overstreet v. North Shore Corp., 318 U.S. 125; J. F. Fitzgerald Constr. Co. v. Pedersen, 324 U.S. 720; Ritch v. Puget
+Sound Bridge & Dredging Co., 156 F. 2d 334 (C.A. 9); Walling v. McCrady Constr. Co., 156 F. 2d 932 (C.A. 3); Bennett v. V. P.
+Loftis, 167 F. 2d 286 (C.A. 4); Walling v. Patton-Tully Transp. Co., 134 F. 2d 945 (C.A. 6).
+
+§776.10 Employees participating in the actual movement of commerce.
+(a) Under the principles stated in §776.9, the wage and hours provisions of the Act apply typically, but not
+exclusively, to employees such, as those in the telephone,29 telegraph,30 television, radio,31 transportation and
+shipping32 industries, since these industries serve as the actual instrumentalities and channels of interstate and foreign
+commerce. Similarly, employees of such businesses as banking, insurance, newspaper publishing,33 and others which
+regularly utilize the channels of interstate and foreign commerce in the course of their operations, are generally
+covered by the Act.
+29
+Schmidt v. Peoples Telephone Union of Maryville, Mo., 138 F. 2d 13 (C.A. 8); North Shore Corp. v. Barnett, 143 F. 2d
+172 (C.A. 5); Strand v. Garden Valley Telephone Co., 51 F. Supp. 898 (D. Minn.).
+
+30
+Western Union Telegraph Co. v. Lenroot, 323 U.S. 490; Western Union Telegraph Co. v. McComb, 165 F. 2d 65 (C.A.
+6), certiorari denied 333 U.S. 862; Moss v. Postal Telegraph Cable Co., 42 F. Supp. 807 (M.D. Ga.).
+
+Wilson v. Shuman, 140 F. 2d 644 (C.A. 8); Wabash Radio Corp. v. Walling, 162 F. 2d 391 (C.A. 6).
+
+31
+
+Overnight Motor Co. v. Missel, 316 U.S. 572; Hargis v. Wabash R. Co., 163 F. 2d 607 (C.A. 7); Rockton & Rion R.R. v.
+Walling 146 F. 2d 111 (C.A. 4), certiorari denied 334 U.S. 880; Walling v. Keansburg Steamboat Co., 162 F. 2d 405 (C.A. 3);
+Knudsen v. Lee & Simmons, 163 F. 2d 95 (C.A. 2); Walling v. Southwestern Greyhound Lines, 65 F. Supp. 52 (W.D. Mo.);
+Walling v. Atlantic Greyhound Corp., 61 F. Supp. 992 (E.D. S.C.).
+32
+
+33
+Sun Pub. Co. v. Walling, 140 F. 2d 445 (C.A. 6), certiorari denied 322 U.S. 728. See also Oklahoma Press Pub. Co. v.
+Walling, 327 U.S. 186, and McComb v. Dessau, 9 W.H. Cases 332 (S.D. Calif.) 17 Labor Cases, 65, 643.
+
+(b) Employees whose work is an essential part of the stream of interstate or foreign commerce, in whatever
+type of business they are employed, are likewise engaged in commerce and within the Act's coverage. This would
+include, for example, employees of a warehouse whose activities are connected with the receipt or distribution of
+
+goods across State lines.34 Also, since “commerce” as used in the Act includes not only “transmission” of
+communications but “communication” itself, employees whose work involves the continued use of the interstate
+mails, telegraph, telephone or similar instrumentalities for communication across State lines are covered by the
+Act.35 This does not mean that any use by an employee of the mails and other channels of communication is
+sufficient to establish coverage. But if the employee, as a regular and recurrent part of his duties, uses such
+instrumentalities in obtaining or communicating information or in sending or receiving written reports or messages,
+or orders for goods or services, or plans or other documents across State lines, he comes within the scope of the Act
+as an employee directly engaged in the work of “communication” between the State and places outside the State.
+Phillips Co. v. Walling, 324 U.S. 490; Clyde v. Broderick, 144 F. 2d 348 (C.A. 10).
+
+34
+
+McComb v. Weller, 9 W.H. Cases 53 (W.D. Tenn.); Yunker v. Abbye Employment Agency, 32 N.Y.S. 2d 715; (Munic. Ct.
+N.Y.C.); Phillips v. Meeker Coop. Light & Power Asso., 63 F. Supp. 733 (D. Minn.); Anderson Bros. Corp. v. Flynn, 218 S.W.
+2d 653 (C.A. Ky.).
+35
+
+[15 FR 2925, May 17, 1950, as amended at 22 FR 5684, July 18, 1957]
+
+§776.11 Employees doing work related to instrumentalities of commerce.
+(a) Another large category of employees covered as “engaged in commerce” is comprised of employees
+performing the work involved in the maintenance, repair, or improvement of existing instrumentalities of commerce.
+(See the cases cited in footnote 28 to §776.9. See also the discussion of coverage of employees engaged in building
+and construction work, in subpart B of this part.) Typical illustrations of instrumentalities of commerce include
+railroads, highways, city streets, pipe lines, telephone lines, electrical transmission lines, rivers, streams, or other
+waterways over which interstate or foreign commerce more or less regularly moves; airports; railroad, bus, truck, or
+steamship terminals; telephone exchanges, radio and television stations, post offices and express offices; bridges and
+ferries carrying traffic moving in interstate or foreign commerce (even though within a single State); bays, harbors,
+piers, wharves and docks used for shipping between a State and points outside; dams, dikes, revetments and levees
+which directly facilitate the uninterrupted movement of commerce by enhancing or improving the usefulness of
+waterways, railways, and highways through control of water depth, channels or flow in streams or through control of
+flood waters; warehouses or distribution depots devoted to the receipt and shipment of goods in interstate or foreign
+commerce; ships, vehicles, and aircraft regularly used in transportation of persons or goods in commerce; and
+similar fixed or movable facilities on which the flow of interstate and foreign commerce depends.
+(b) It is well settled that the work of employees involved in the maintenance, repair, or improvement of such
+existing instrumentalities of commerce is so closely related to interstate or foreign commerce as to be in practice and
+in legal contemplation a part of it. Included among the employees who are thus “engaged in commerce” within the
+meaning of the Act are employees of railroads, telephone companies, and similar instrumentalities who are engaged
+in maintenance-of-way work;36 employees (including office workers, guards, watchmen, etc.) engaged in work on
+contracts or projects for the maintenance, repair, reconstruction or other improvement of such instrumentalities of
+commerce as the transportation facilities of interstate railroads, highways, waterways, or other interstate
+transportation facilities, or interstate telegraph, telephone, or electrical transmission facilities (see subpart B of this
+part); and employees engaged in the maintenance or alteration and repair of ships37 or trucks38 used as
+instrumentalities of interstate or foreign commerce. Also, employees have been held covered as engaged in
+commerce where they perform such work as watching or guarding ships or vehicles which are regularly used in
+commerce39 or maintaining, watching, or guarding warehouses, railroad or equipment yards, etc., where goods
+moving in interstate commerce are temporarily held,40 or acting as porters, janitors, or in other maintenance
+capacities in bus stations, railroad stations, airports, or other transportation terminals.41
+36
+Davis v. Rockton & Rion R.R., 65 F. Supp. 67 affirmed in 159 F. 2d 291 (C.A. 4); North Shore Corp. v. Barnett, 143 F.
+2d 172 (C.A. 5); Palmer v. Howard, 12 Lab. Cas. (CCH) par. 63, 756 (W.D. Tenn.); Williams v. Atlantic Coast Lines R.R. Co., 1
+W.M. Cases 289 (E.D. N.C. 1940), 2 Labor Cases (CCH) par. 18, 564.
+
+Slover v. Wathen, 140 F. 2d 258 (C.A. 4); Walling v. Keansburg Steamboat Co., 162 F. 2d 405 (C.A. 3).
+
+37
+
+38
+Boutell v. Walling, 327 U.S. 463; Morris v. McComb, 332 U.S. 422; Skidmore v. John J. Casale, Inc., 160 F. 2d 527
+(C.A. 2), certiorari denied 331 U.S. 812; Hertz Drivurself Stations v. United States, 150 F. 2d 923 (C.A. 8); Walling v. Sturm &
+Sons, Inc., 6 W.H. Cases 131 (D.N.J.) 10 Labor Cases (CCH) par. 62, 980.
+
+As to exemptions from the overtime requirements for mechanics employed by motor carriers, see part 782 of this chapter.
+For exemptions applicable to retail or service establishments, see part 779 of this chapter.
+39
+Slover v. Wathen, 140 F. 2d 258 (C.A. 4); Agosto v. Rocafort, 5 W.H. Cases 176 (D.P.R.), 9 Labor Cases (CCH) par. 62,
+610; Cannon v. Miller, 155 F. 2d 500 (S. Ct. Wash.).
+
+Engebretson v. E. J. Albrecht Co., 150 F. 2d 602 (C.A. 7); Mid-Continent Petroleum Corp. v. Keen, 157 F. 2d 310 (C.A.
+8); Walling v. Mutual Wholesale Food & Supply Co., 141 F. 2d 331 (C.A. 8); Walling v. Sondock, 132 F. 2d 77 (C.A. 5);
+certiorari denied 318 U.S. 772; Reliance Storage & Insp. Co. v. Hubbard, 50 F. Supp. 1012 (W.D. Va.); Walling v. Fox-Pelletier
+Detective Agency, 4 W.H. Cases 452 (W.D. Tenn. 1944); 8 Labor Cases (CCH) par. 62, 219; McComb v. Russell Co., 9 W.H.
+Cases 258 (D. Miss. 1949), 17 Labor Cases (CCH) par. 65, 519.
+40
+
+41
+Mornford v. Andrews, 151 F. 2d 511 (C.A. 5); Hargis v. Wabash R. Co. 163 F. 2d 607 (C.A. 7); Walling v. Atlantic
+Greyhound Corp., 61 F. Supp. 992 (E.D. S.C.); Rouch v. Continental Oil Co., 55 F. Supp. 315 (D. Kans.); see also Williams v.
+Jacksonville Terminal Co., 315 U.S. 386.
+
+(c) On the other hand, work which is less immediately related to the functioning of instrumentalities of
+commerce than is the case in the foregoing examples may be too remote from interstate or foreign commerce to
+establish coverage on the ground that the employee performing it is “engaged in commerce.” This has been held
+true, for example, of a cook preparing meals for workmen who are repairing tracks over which interstate trains
+operate,42 and of a porter caring for washrooms and lockers in a garage which is not an instrumentality of commerce,
+where trucks used both in intrastate and interstate commerce are serviced.43
+McLeod v. Threlkeld, 319 U.S. 491.
+
+42
+
+43
+Skidmore v. John J. Casale, Inc., 160 F. 2d 527, certiorari denied 331 U.S. 812 (use in interstate commerce of trucks
+serviced was from 10 to 25 percent of total use).
+
+(d) There are other situations in which employees are engaged “in commerce” and therefore within the
+coverage of the Act because they contribute directly to the movement of commerce by providing goods or facilities
+to be used or consumed by instrumentalities of commerce in the direct furtherance of their activities of
+transportation, communication, transmission, or other movement in interstate or foreign commerce. Thus, for
+example, employees are considered engaged “in commerce” where they provide to railroads, radio stations, airports,
+telephone exchanges, or other similar instrumentalities of commerce such things as electric energy,44 steam, fuel, or
+water, which are required for the movement of the commerce carried by such instrumentalities.45 Such work is “so
+related to the actual movement of commerce as to be considered an essential and indispensable part thereof, and
+without which it would be impeded or impaired.”46
+New Mexico Public Service Co. v. Engel, 145 F. 2d 636 (C.A. 10); Walling v. Connecticut Co., 154 F. 2d 552 (C.A. 2).
+
+44
+
+45
+Such employees would also be covered as engaged in the production of goods for commerce. See Lewis v. Florida Power
+& Light Co., 154 F. 2d 751 (C.A. 5); Walling v. Connecticut Co., 154 F. 2d 552 (C.A. 2); also §776.21(b).
+
+New Mexico Public Service Co. v. Engel, 145 F. 2d 636, 640 (C.A. 10).
+
+46
+
+§776.12 Employees traveling across State lines.
+Questions are frequently asked as to whether the fact that an employee crosses State lines in connection with
+his employment brings him within the Act's coverage as an employee “engaged in commerce.” Typical of the
+employments in which such questions arise are those of traveling service men, traveling buyers, traveling
+construction crews, collectors, and employees of such organizations as circuses, carnivals, road shows, and
+
+orchestras. The area of coverage in such situations cannot be delimited by any exact formula, since questions of
+degree are necessarily involved. If the employee transports material or equipment or other persons across State lines
+or within a particular State as a part of an interstate movement, it is clear of course, that he is engaging in
+commerce.47 And as a general rule, employees who are regularly engaged in traveling across State lines in the
+performance of their duties (as distinguished from merely going to and from their homes or lodgings in commuting
+to a work place) are engaged in commerce and covered by the Act.48 On the other hand, it is equally plain that an
+employee who, in isolated or sporadic instances, happens to cross a State line in the course of his employment,
+which is otherwise intrastate in character, is not, for that sole reason, covered by the Act. Nor would a man who
+occasionally moves to another State in order to pursue an essentially local trade or occupation there become an
+employee “engaged in commerce” by virtue of that fact alone. Doubtful questions arising in the area between the
+two extremes must be resolved on the basis of the facts in each individual case.
+47
+The employee may, however, be exempt from the overtime provisions of the Act under section 13(b)(1). See part 792 of
+this chapter.
+
+Reck v. Zarmocay, 264 App. Div. 520, 36 N.Y.S. 2d 394; Colbeck v. Dairyland Creamery Co., 17 N.W. 2d 262 (S. Ct.
+
+48
+
+S.D.).
+
+§776.13 Commerce crossing international boundaries.
+Under the Act, as amended, an employee engaged in “trade commerce, transportation, transmission, or
+communication” between any State and any place outside thereof is covered by the Act regardless of whether the
+“place outside” is another State or is a foreign country or is some other place. Before the amendment to section 3(b)
+which became effective January 25, 1950, employees whose work related solely to the flow of commerce into a
+State from places outside it which were not “States” as defined in the Act were not employees engaged in
+“commerce” for purposes of the Act, although employees whose work was concerned with the flow of commerce
+out of the State to such places were so engaged.49 This placed employees of importers in a less favorable position
+under the Act than the employees of exporters. This inequality was removed by the amendment to section 3(b).50
+Accordingly, employees performing work in connection with the importation of goods from foreign countries are
+engaged “in commerce” and covered by the Act, as amended. The coverage of such employees, as of those
+performing work in connection with the exportation of goods to foreign countries, is determined by the same
+principles as in the case of employees whose work is connected with goods procured from or sent to other States.
+49
+The definition of “commerce” previously referred to commerce “from any State to any place outside thereof.” The
+amendment substituted “between” for “from” and “and” for “to” in this clause.
+
+H. Mgrs. St., 1949, pp. 13, 14.
+
+50
+
+ENGAGING IN “THE PRODUCTION OF GOODS FOR COMMERCE”
+§776.14 Elements of “production” coverage.
+Sections 6 and 7 of the Act, as has been noted, cover not only employees who are engaged “in commerce” as
+explained above, but also “each” and “any” employee who is engaged in the “production” of “goods” for
+“commerce”. What employees are so engaged can be determined only by references to the very comprehensive
+definitions which Congress has supplied to make clear what is meant by “production”, by “goods,” and by
+“commerce” as those words are used in sections 6 and 7. In the light of these definitions, there are three interrelated
+elements of coverage to be considered in determining whether an employee is engaged in the production of goods
+for commerce: (a) There must be “production”; (b) such production must be of “goods”; (c) such production of
+goods must be “for commerce”; all within the meaning of the Act.51 The three elements of “production” coverage are
+discussed in order in the sections following.
+51
+These elements need not be considered if the employee would be covered in any event because engaged “in commerce”
+under the principles discussed in preceding sections of this part.
+
+§776.15 “Production.”
+(a) The statutory provisions. The activities constituting “production” within the meaning of the phrase
+“engaged in * * * production of goods for commerce” are defined in the Act52 as follows:
+Act, section 3(j). This definition is also applicable in determining coverage of the child labor provisions of the Act. See
+part 4 of this title.
+52
+
+Produced means produced, manufactured, mined, handled, or in any other manner worked on in any State; and for the
+purposes of this Act an employee shall be deemed to have been engaged in the production of goods if such employee was
+employed in producing, manufacturing, mining, handling, transporting, or in any other manner working on such goods, or in any
+closely related process or occupation directly essential to the production thereof, in any State.
+
+The Act bars from interstate commerce “any” goods in the production of which “any” employee was employed in
+violation of the minimum-wage or overtime-pay provisions,53 and provides that in determining, for purposes of this
+provision, whether an employee was employed in the production of such goods:
+53
+Act, section 15(a)(1). The only exceptions are stated in the section itself, which provides that “it shall be unlawful for any
+person—(1) to transport, offer for transportation, ship, deliver, or sell in commerce, or to ship, deliver, or sell with knowledge
+that shipment or delivery or sale thereof in commerce is intended, any goods in the production of which any employee was
+employed in violation of section 6 or section 7, or in violation of any regulation or order of the Administrator issued under
+section 14; except that no provision of this Act shall impose any liability upon any common carrier for the transportation in
+commerce in the regular course of its business of any goods not produced by such common carrier, and no provision of this Act
+shall excuse any common carrier from its obligation to accept any goods for transportation; and except that any such
+transportation, offer, shipment, delivery, or sale of such goods by a purchaser who acquired them in good faith in reliance on
+written assurance from the producer that the goods were produced in compliance with the requirements of the Act, and who
+acquired such goods for value without notice of any such violation, shall not be deemed unlawful;”
+
+* * * proof that any employee was employed in any place of employment where goods shipped or sold in commerce were
+produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that
+such employee was engaged in the production of such goods.54
+54
+
+Act, sec. 15(b).
+
+(b) General scope of “production” coverage. The statutory provisions quoted in paragraph (a) of this section,
+show that for purposes of the Act, wherever goods are being produced for interstate or foreign commerce, the
+employees who are covered as “engaged in the production” of such goods, include, in general, all those whose work
+may fairly be said to be a part of their employer's production of such goods,55 and include those whose work is
+closely related and directly essential thereto,56 whether employed by the same or a different employee. (See §§776.17
+to 776.19.) Typically, but not exclusively, this includes that large group of employees engaged in mines, oil fields,
+quarries, and manufacturing, processing, or distributing plants where goods are produced for commerce. The
+employees covered as engaged in “production” are not limited, however, to those engaged in actual physical work
+on the product itself or to those in the factories, mines, warehouses, or other place of employment where goods
+intended for commerce are being produced. If the requisite relationship to production of such goods is present, an
+employee is covered, regardless of whether his work brings him into actual contact with such goods or into the
+establishments where they are produced, and even though his employer may be someone other than the producer of
+the goods for commerce.57 As explained more fully in the sections following, the Act's “production” coverage
+embraces many employees who serve productive enterprises in capacities which do not involve working directly on
+goods produced but which are nevertheless closely related and directly essential to successful operations in
+producing goods for interstate or foreign commerce. And as a general rule, in conformity with the provisions of the
+Act quoted in paragraph (a) of this section, an employee will be considered to be within the general coverage of the
+wage and hours provisions if he is working in a place of employment where goods sold or shipped in interstate
+commerce or foreign commerce are being produced, unless the employer maintains the burden of establishing that
+the employee's functions are so definitely segregated from such production that they should not be regarded as
+closely related and directly essential thereto.58
+
+Borden Co. v. Borella, 325 U.S. 679; Armour & Co. v. Wantock, 323 U.S. 126. See also paragraph (c) of this section.
+
+55
+
+56
+Kirschbaum v. Walling, 316 U.S. 517; Roland Electrical Co. v. Walling, 326 U.S. 657; H. Mgrs. St., 1949, p. 14; Sen. St.
+1949 Cong. Rec. p. 15372.
+
+57
+Borden Co. v. Borella, 325 U.S. 679; Roland Electrical Co. v. Walling. 326 U.S. 657; Kirschbaum v. Walling, 316 U.S.
+517; Walton v. Southern Package Corp. 320 U.S. 540.
+
+Guess v. Montague, 140 F. 2d 500 (C.A. 4). Cf. Armour & Co. v. Wantock, 323 U.S. 126.
+
+58
+
+§776.16 Employment in “producing, * * * or in any other manner working on” goods.
+(a) Coverage in general. Employees employed in “producing, manufacturing, mining, handling, or in any
+other manner working on” goods (as defined in the Act, including parts or ingredients thereof) for interstate or
+foreign commerce are considered actually engaged in the “production” of such goods, within the meaning of the
+Act. Such employees have been within the general coverage of the wage and hours provisions since enactment of the
+Act in 1938, and remain so under the Fair Labor Standards Amendments of 1949.59
+H. Mgrs. St., 1949, p. 14; Sen. St., 1949 Cong. Rec., p. 15372.
+
+59
+
+(b) Activities constituting actual “production” under statutory definition. It will be noted that the actual
+productive work described in this portion of the definition of “produced” includes not only the work involved in
+making the products of mining, manufacturing, or processing operations, but also includes “handling, transporting,
+or in any other manner working on” goods. This is so, regardless of whether the goods are to be further processed or
+are so-called “finished goods.” The Supreme Court has stated that this language of the definition brings within the
+scope of the term “production,” as used in the Act, “every step in putting the subject to commerce in a state to enter
+commerce,” including “all steps, whether manufacture or not, which lead to readiness for putting goods into the
+stream of commerce,” and “every kind of incidental operation preparatory to putting goods into the stream of
+commerce.”60
+60
+Western Union Tel. Co. v. Lenroot, 323 U.S. 490. See, to the same effect, Walling v. Friend, 156 F. 2d 429 (C.A. 8);
+Walling v. Commet Carriers, 151 F. 2d 107 (C.A. 2); Phillips v. Star Overall Dry Cleaning Laundry Co., 149 F. 2d 416 (C.A. 2);
+certiorari denied 327 U.S. 780; Walling v. Griffin Cartage Co., 62 F. Supp. 396, affirmed in 153 F. 2d 587 (C.A. 6). For
+examples, see paragraphs (c) and (d) of this section. Employees who are not engaged in the actual production Activities described
+in section 3(j) of the Act are not engaged in “production” unless their work is “closely related” and “directly essential” to such
+production. See §§776.17-776.19.
+
+However, where employees of a common carrier, by handling or working on goods, accomplish the interstate transit
+or movement in commerce itself, such handling or working on the goods is not “production.” The employees in that
+event are covered only under the phrase “engaged in commerce.”61
+Western Union Tel. Co. v. Lenroot, 323 U.S. 490. For examples, see paragraph (c) of this section.
+
+61
+
+(c) Physical labor. It is clear from the principles stated in paragraphs (a) and (b) of this section, that
+employees in shipping rooms, warehouses, distribution yards, grain elevators, etc., who sort, screen, grade, store,
+pack, label, address or otherwise handle or work on goods in preparation for shipment of the goods out of the State
+are engaged in the production of goods for commerce within the meaning of the Act.62 The same has been held to be
+true of employees doing such work as handling ingredients (scrap iron) of steel used in building ships which will
+move in commerce;63 handling and caring for livestock at stockyards where the livestock are destined for interstate
+shipment as such64 or as meat products;65 handling or transporting containers to be used in shipping products
+interstate;66 transporting, within a single State, oil to a refinery67 or lumber to a mill,68 where products of the refinery
+or mill will be sent out of the State; transporting parts or ingredients of other types of goods or the finished goods
+themselves between processors, manufacturers, and storage places located in a single State, where goods so
+transported will leave the State in the same or an altered form;69 and repairing or otherwise working on ships,70
+vehicles,71 machinery,72 clothing,73 or other goods which may be expected to move in interstate commerce.
+
+62
+McComb v. Wyandotte Furn. Co., 169 F. 2d 766 (C.A. 8); Walling v. Mutual Wholesale Food & Supply Co., 141 F. 2d
+331 (C.A. 8); West Kentucky Coal Co. v. Walling, 153 F. 2d 582 (C.A. 6); Walling v. Home Loose Leaf Tobacco Warehouse Co.,
+51 F. Supp. 914 (E.D. Ky.); Walling v. Yeakley, 3 W.H. Cases 27, modified and affirmed in 140 F. 2d 830 (C.A. 10); Shain v.
+Armour & Co., 50 F. Supp. 907 (W.D. Ky.); Walling v. McCracken County Peach Growers Assn., 50 F. Supp. 900 (W.D. Ky).
+See also Clyde v. Broderick, 144 F. 2d 348 (C.A. 10).
+
+Bracey v. Luray, 138 F. 2d 8 (C.A. 4).
+
+63
+
+Walling v. Friend, 156 F. 2d 429 (C.A. 8).
+
+64
+
+Fleming v. Swift & Co., 41 F. Supp. 825, affirmed in 131 F. 2d 249 (C.A. 7); McComb v. Benz Co., 9 W.H. Cases 277
+(S.D. Ind.).
+65
+
+Walling v. Villaume Box & Lbr. Co., 58 F. Supp. 150 (D. Minn.).
+
+66
+
+67
+Mid-Continent Pipe Line Co. v. Hargrave, 129 F. 2d 655 (C.A. 10); Boling v. R. J. Allison Co., Inc., 4 W.H. Cases 500
+(N.D. Okla.).
+
+Hanson v. Lagerstrom, 133 F. 2d 120 (C.A. 8).
+
+68
+
+69
+Walling v. Griffin Cartage Co., 62 F. Supp. 696, affirmed in 153 F. 2d 587 (C.A. 6); Walling v. Comet Carriers, 151 F.
+2d 107 (C.A. 2).
+
+Slover v. Walthen, 140 F. 2d 258 (C.A. 4).
+
+70
+
+71
+Hertz Drivurself Stations v. United States, 150 F. 2d 923 (C.A. 8); Walling v. Armbruster, 51 F. Supp. 166 (W.D. Ark.);
+McComb v. Weller, 9. W.H. Cases 53 (W.D. Tenn.), 17 Labor Cases (CCH) par. 65, 332; Walling v. Strum & Sons, 6 W.H. Cases
+131 (D. N.J.), 11 Labor Cases (CCH) par. 63, 249.
+
+Engebretson v. Albrecht, 150 F. 2d 602 (C.A. 7); Guess v. Montague, 140 F. 2d 500 (C.A. 4).
+
+72
+
+73
+Walling v. Belikoff, 147 F. 2d 1008 (C.A. 2); Campbell v. Zavelo, 243 Ala. 361, 10 So. 2d 29; Phillips v. Star Overall
+Dry Cleaning Laundry Co., 149 F. 2d 416 (C.A. 2), certiorari denied 327 U.S. 780.
+
+These examples are, of course, illustrative rather than exhaustive. Some of them relate to situations in which the
+handling or working on goods for interstate or foreign commerce may constitute not only “production for
+commerce” but also engaging “in commerce” because the activities are so closely related to commerce as to be for
+all practical purposes a part of it.74 However, as noted in paragraph (b) of this section, handling or working on goods
+constitutes engagement in “commerce” only and not engagement in “production” of the goods when it is done by
+employees of a common carrier and is itself the means whereby interstate transit or movement of the goods by the
+carrier is accomplished. Thus, employees of a telegraph company preparing messages for interstate transmission,
+television cameramen photographing sports or news events for simultaneous viewing at television receiving sets in
+other State, and railroad train crews or truck drivers hauling goods from one State to another are not engaged in the
+“production” of goods by virtue of such activities, but are covered by the Act only as employees “engaged in
+commerce.”
+74
+Slover v. Walthen, 140 F. 2d 258 (C.A. 4); Hertz Drivurself Stations v. United States, 150 F. 2d 923 (C.A. 8);
+Engebretson v. Albrecht, 150 F. 2d 602 (C.A. 7); Walling v. Strum & Sons, 6 W.H. Cases 131 (D. N.J.).
+
+(d) Nonmanual work. The “production” described by the phrase “producing * * * or in any other manner
+working on” goods includes not only the manual, physical labor involved in processing and working on the tangible
+products of a producing enterprise, but equally the administration, planning, management, and control of the various
+physical processes together with the accompanying accounting and clerical activities.75 An enterprise producing
+goods for commerce does not accomplish the actual production of such goods solely with employees performing
+physical labor on them. Other employees may be equally important in actually producing the goods, such as
+
+employees who conceive and direct policies of the enterprise; employees who dictate, control, and coordinate the
+steps involved in the physical production of goods; employees who maintain detailed and meticulous supervision of
+productive activities; and employees who direct the purchase of raw materials and supplies, the methods of
+production, the amounts to be produced, the quantity and character of the labor, the safety measures, the budgeting
+and financing, the labor policies, and the maintenance of the plants and equipment. (For regulations governing
+exemption from the wage and hours provisions of employees employed in a bona fide executive, administrative, or
+professional capacity, see part 541 of this chapter.) Employees who perform these and similar activities are an
+integral part of the coordinated productive pattern of a modern industrial organization. The Supreme Court of the
+United States has held that from a productive standpoint and for purposes of the Act the employees who perform
+such activities “are actually engaged in the production of goods for commerce just as much as are those who process
+and work on the tangible products” in the manufacturing plant or other producing facilities of the enterprise.76
+75
+Borden Co. v. Borella, 325 U.S. 679; Hertz Drivurself Stations. v. United States, 150 F. 2d 923 (C.A. 8); Callus v. 10 E.
+40th St. Bldg., 146 F. 2d 438 (C.A. 2), reversed on other grounds in 325 U.S. 578.
+
+Borden Co. v. Borella, 325 U.S. 679, 683.
+
+76
+
+§776.17 Employment in a “closely related process or occupation directly essential to” production of goods.
+(a) Coverage in general. Employees who are not actually “producing * * * or in any other manner working
+on” goods for commerce are, nevertheless, engaged in the “production” of such goods within the meaning of the Act
+and therefore within its general coverage if they are employed “in any closely related process or occupation directly
+essential to the production thereof, in any State.”77 Prior to the Fair Labor Standards Amendments of 1949, this was
+true of employees engaged “in any process or occupation necessary to the production” of goods for commerce. The
+amendments deleted the word “necessary” and substituted the words “closely related” and “directly essential”
+contained in the present law. The words “directly essential” were adopted by the Conference Committee in lieu of
+the word “indispensable” contained in the amendments as first passed by the House of Representatives. Under the
+amended language, an employee is covered if the process or occupation in which he is employed is both “closely
+related” and “directly essential” to the production of goods for interstate or foreign commerce.
+If coverage of an employee is determined to exist on either basis, it is, of course, not necessary to determine whether the
+employee would also be covered on the other ground. See Warren-Bradshaw Drilling Co. v. Hall, 124 F. 2d 42 (C.A. 5),
+affirmed in 317 U.S. 88.
+77
+
+The legislative history shows that the new language in the final clause of section 3(j) of the Act is intended to
+narrow, and to provide a more precise guide to, the scope of its coverage with respect to employees (engaged neither
+“in commerce” nor in actually “producing or in any other manner working on” goods for commerce) whose
+coverage under the Act formerly depended on whether their work was “necessary” to the production of goods for
+commerce. Some employees whose work might meet the “necessary” test are now outside the coverage of the Act
+because their work is not “closely related” and “directly essential” to such production; others, however, who would
+have been excluded if the indispensability of their work to production had been made the test, remain within the
+coverage under the new language.78
+The scope of coverage under the “closely related” and “directly essential” language is discussed in the paragraphs
+following. In the light of explanations provided by managers of the legislation in Congress78 including expressions of
+their intention to leave undisturbed the areas of coverage established under court decisions containing similar
+language,79 this new language should provide a more definite guide to the intended coverage under the final clause of
+section 3(j) than did the earlier “necessary” test. However, while the coverage or noncoverage of many employees
+may be determined with reasonable certainty, no precise line for inclusion or exclusion may be drawn; there are
+bound to be borderline problems of coverage under the new language which cannot be finally determined except by
+authoritative decisions of the courts.
+78
+H. Mgrs. St., 1949, p. 14; Sen. St., 1949 Cong. Rec. p. 15372; Statement of the Chairman of the Committee on Education
+and Labor explaining the conference agreement to the House of Representatives, 1949 Cong. Rec., p. 15135; colloquy between
+
+Representatives McConnell and Javits, 1949 Cong. Rec., p. 15129; of statements of Representative Barden (1949 Cong. Rec. p.
+15131), Representative Brehm (1949 Cong. Rec. p. 15132), and Senator Taft (1950 Cong. Rec., p. A-1162).
+See Kirschbaum Co. v. Walling, 316 U.S. 517.
+
+79
+
+(b) Meaning of “closely related” and “directly essential”. The terms “closely related” and “directly essential”
+are not susceptible of precise definition; as used in the Act they together describe a situation in which, under all the
+facts and circumstances, the process or occupation in which the employee is employed bears a relationship to the
+production of goods for interstate or foreign commerce: (1) Which may reasonably be considered close, as
+distinguished from remote or tenuous, and (2) in which the work of the employee directly aids production in a
+practical sense by providing something essential to the carrying on in an effective, efficient, and satisfactory manner
+of an employer's operations in producing such goods.80
+See H. Mgrs. St. 1949, pp. 14, 15; Sen. St., 1949 Cong. Rec., p. 15372; cf. Kirschbaum Co. v. Walling, 316 U.S. 517.
+
+80
+
+Not all activities that are “closely related” to production will be “directly essential” to it, nor will all activities
+“directly essential” to production meet the “closely related” test. For example, employees employed by an employer
+in an enterprise, or portion thereof, which is devoted to the production of goods for interstate or foreign commerce
+will, as a general rule, be considered engaged in work “closely related” to such production, but some such
+employees may be outside the coverage of the Act because their work is not “directly essential” to production of the
+goods. (For a discussion of this point and specific illustration, see §776.18(b).) Similarly, there are some situations
+in which an employee performing work “directly essential” to production by an employer other than his own may
+not be covered because the kind of work and the circumstances under which it is performed show the employee's
+activities to be so much a part of an essentially local business operated by his employer that it would be unrealistic
+to consider them “closely related” to the productive activities of another. (For a more detailed discussion and
+specific illustrations see §776.19.)
+(c) Determining whether activities are “closely related” and “directly essential”. (1) The close relationship of
+an activity to production, which may be tested by a wide variety of relevant factors, is to be distinguished from its
+direct essentiality to production, which is dependent solely on considerations of need or function of the activity in
+the productive enterprise. The words “directly essential” refer only to the relationship of the employee's work to
+production. Work “directly essential” to production remains so no matter whose employee does it and regardless of
+the nature or purpose of the employer's business. It seems clear, on the other hand, that the criteria for determining
+whether a process or occupation is “closely related” to production cannot be limited to those which show its
+closeness in terms of need or function.81 It may also be important to ascertain, for instance, whether the activity of
+the employee bears a relationship to production which is close in terms either of the place or the time of its
+performance, or in terms of the purposes with which the activity is performed by the particular employer through the
+employee, or in terms of relative directness or indirectness of the activity's effect in relation to such production, or in
+terms of employment within or outside the productive enterprise. (Examples of the application of these principles
+may be found in §§776.18 and 776.19.)
+Of course, if the need of function of the activity in production is such that the tie between them is both close and
+immediate (cf. Kirschbaum Co. v. Walling, 316 U.S. 517), as for example, where an employee is employed to repair electric
+motors which are used in factories in the production of goods for commerce, this fact may be sufficient to show both the direct
+essentiality and the close relationship of the employee's work to production. See Roland Electrical Co. v. Walling, 326 U.S. 657.
+See also §776.19 and H. Mgrs. St., 1949, pp. 14, 15.
+81
+
+(2) The determination of whether an activity is closely or only remotely related to production may thus
+involve consideration of such factors, among others, as the contribution which the activity makes to the production;
+who performs the activity; where, when and how it is performed in relation to the production to which it pertains;
+whether its performance is with a view to aiding production or for some different purpose; how immediate or
+delayed its effect on production is; the number and nature of any intervening operations or processes between the
+activity and the production in question; and, in an appropriate case, the characteristics and purposes of the
+employer's business.82 Moreover, in some cases where particular work “directly essential” to production is performed
+by an employer other than the producer the degree of such essentiality may be a significant factor in determining
+
+whether the work is also “closely related” to such production. (See §776.19.) No one of the factors listed in this
+paragraph is necessarily controlling, and other factors may assume importance. Some may have more significance
+than others in particular cases, depending upon the facts. They are merely useful guides for determining whether the
+total situation in respect to a particular process or occupation demonstrates the requisite “close and immediate tie”83
+to the production of goods for interstate or foreign commerce. It is the sum of the factors relevant to each case that
+determines whether the particular activity is “closely related” to such production. The application of the principles in
+this paragraph is further explained and illustrated in §§776.18 and 776.19.
+Cf. Kirschbaum Co. v. Walling, 316 U.S. 517; 10 E. 40th St. Bldg. v. Callus, 325 U.S. 578; Schulte Co. v. Gangi, 328
+U.S. 108; Borden Co. v. Borella, 325 U.S. 679; Armour & Co. v. Wantock, 323 U.S. 126.
+82
+
+See Kirschbaum Co. v. Walling, 316 U.S. 517.
+
+83
+
+(3) In determining whether an activity is “directly essential” to production, a practical judgment is required as
+to whether, in terms of the function and need of such activity in successful production operations, it is “essential”
+and “directly” so to such operations. These are questions of degree; even “directly” essential activities (for example,
+machinery repair, custodial, and clerical work in a producing plant) (for other examples, see §§776.18(a) and
+776.19) will vary in the degree of their essentiality and in the directness of the aid which they provide to production.
+An activity may be “directly essential” without being indispensable in the sense that it cannot be done without; yet
+some activities which, in a long chain of causation, might be indispensable to production, such as the manufacture of
+brick for a new factory, or even the construction of the new factory itself, are not “directly” essential.84 An activity
+which provides something essential to meet the immediate needs of production, as, for example, the manufacture of
+articles like machinery or tools or dies for use in the production of goods for commerce (see §776.19(b)) will,
+however, be no less “directly” essential because intervening activities must be performed in the distribution,
+transportation, and installation of such products before they can be used in production.85 The application of the
+principles in this paragraph is further explained and illustrated in §§776.18 and 776.19.
+Cf. 10 E. 40th St. Bldg. v. Callus, 325 U.S. 578; Sen. St. 95 Cong. Rec., October 19, 1949, at 15372.
+
+84
+
+See Walling v. Hamner, 64 F. Supp. 690 (W.D. Va.).
+
+85
+
+§776.18 Employees of producers for commerce.
+(a) Covered employments illustrated. Some illustrative examples of the employees employed by a producer of
+goods for interstate or foreign commerce who are or are not engaged in the “production” of such goods within the
+meaning of the Act have already been given. Among the other employees of such a producer, doing work in
+connection with his production of goods for commerce, who are covered because their work, if not actually a part of
+such production, is “closely related” and “directly essential” to it,86 are such employees as bookkeepers,
+stenographers, clerks, accountants and auditors, employees doing payroll, timekeeping and time study work,
+draftsmen, inspectors, testers and research workers, industrial safety men, employees in the personnel, labor
+relations, advertising, promotion, and public relations activities of the producing enterprise, work instructors, and
+other office and white collar workers; employees maintaining, servicing, repairing or improving the buildings,87
+machinery, equipment, vehicles, or other facilities used in the production of goods for commerce,88 and such
+custodial and protective employees as watchmen, guards, firemen, patrolmen, caretakers, stockroom workers, and
+warehousemen; and transportation workers bringing supplies, materials, or equipment to the producer's premises,
+removing slag or other waste materials therefrom, or transporting materials or other goods, or performing such other
+transportation activities, as the needs of production may require. These examples are intended as illustrative, rather
+than exhaustive of the group of employees of a producer who are “engaged in the production” of goods for
+commerce, within the meaning of the Act, and who are therefore entitled to its wage and hours benefits unless
+specifically exempted by some provision of the Act.
+See H. Mgrs. St., 1949, p. 14; Sen. St., 1949 Cong. Rec., p. 15372. See also Borden Co. v. Borella, 325 U.S. 679.
+
+86
+
+87
+No distinction of economic or statutory significance can be drawn between such work in a building where the production
+of goods is carried on physically and in one where such production is administered, managed, and controlled. Borden Co. v.
+Borella, 324 U.S. 679.
+
+88
+Such mechanics and laborers as machinists, carpenters, electricians, plumbers, steamfitters, plasters, glaziers, painters,
+metal workers, bricklayers, hod carriers, roofers, stationary engineers, their apprentices and helpers, elevator starters and
+operators, messengers, janitors, charwomen, porters, handy men, and other maintenance workers would come within this
+category.
+
+(b) Employments not directly essential to production distinguished. Employees of a producer of goods for
+commerce are not covered as engaged in such production if they are employed solely in connection with essentially
+local activities which are undertaken by the employer independently of his productive operations or at most as a
+dispensable, collateral incident to them and not with a view to any direct function which the activities serve in
+production. It is clear, for example, that an employee would not be covered merely because he works as a domestic
+servant in the home of an employer whose factory produces goods for commerce, even though he is carried on the
+factory payroll. To illustrate further, a producer may engage in essentially local activities as a landlord,
+restauranteur, or merchant in order to utilize the opportunity for separate and additional profit from such ventures or
+to provide a convenient means of meeting personal needs of his employees. Employees exclusively employed in
+such activities of the producer are not engaged in work “closely related” and “directly essential” to his production of
+goods for commerce merely because they provide residential, eating, or other living facilities for his employees who
+are engaged in the production of such goods.89 Such employees are to be distinguished from employees like cooks,
+cookees, and bull cooks in isolated lumber camps or mining camps, where the operation of a cookhouse may in fact
+be “closely related” and “directly essential” or, indeed, indispensable to the production of goods for commerce.90
+H. Mgrs. St., 1949, pp. 14, 15; see also Brogan v. National Surety Co., 246 U.S. 257. Cf. Sen. St., 1949 Cong. Rec., p.
+
+89
+
+15372.
+See Brogan v. National Surety Co., 246 U.S. 257; Consolidated Timber Co. v. Womack, 132 F. 2d 101 (C.A. 9); Hanson
+v. Lagerstrom, 133 F. 2d 120 (C.A. 8); cf. H. Mgrs. St., 1949, pp. 14, 15 and Sen. St., 1949 Cong. Rec., p. 15372.
+90
+
+Some specific examples of the application of these principles may be helpful. Such services as watching, guarding,
+maintaining or repairing the buildings, facilities, and equipment used in the production of goods for commerce are
+“directly essential” as well as “closely related” to such production as it is carried on in modern industry.91 But such
+services performed with respect to private dwellings tenanted by employees of the producer, as in a mill village,
+would not be “directly essential” to production merely because the dwellings were owned by the producer and
+leased to his employees.92 Similarly, employees of the producer or of an independent employer who are engaged
+only in maintaining company facilities for entertaining the employer's customers, or in providing food, refreshments,
+or recreational facilities, including restaurants, cafeterias, and snack bars, for the producer's employees in a factory,
+or in operating a children's nursery for the convenience of employees who leave young children there during
+working hours, would not be doing work “directly essential” to the production of goods for commerce.93
+H. Mgrs. St., 1949, p. 14; Sen. St., 1949 Cong. Rec., p. 15372; Kirschbaum v. Walling, 316 U.S. 517; Borden Co. v.
+Borella, 325 U.S. 679; Walton v. Southern Package Corp. 320 U.S. 540; Armour & Co. v. Wantock, 325 U.S. 126.
+91
+
+92
+H. Mgrs. St., 1949, pp. 14, 15; Morris v. Beaumont Mfg. Co., 84 F. Supp. 909 (W.D. S.C.); cf. Wilson v. Reconstruction
+Finance Corp., 158 F. 2d 564 (C.A. 5), certiorari denied, 331 U.S. 810. Cf. Brogan v. National Surety Co., 246 U.S. 257;
+Consolidated Timber Co. v. Womack, 132 F. 2d 101 (C.A. 9); Hanson v. Lagerstrom, 133 F. 2d 120 (C.A. 8).
+
+Cf. H. Mgrs. St., 1949, pp. 14, 15.
+
+93
+
+§776.19 Employees of independent employers meeting needs of producers for commerce.
+(a) General statement. (1) If an employee of a producer of goods for commerce would not, while performing
+particular work, be “engaged in the production” of such goods for purposes of the Act under the principles
+heretofore stated, an employee of an independent employer performing the same work on behalf of the producer
+
+would not be so engaged. Conversely, as shown in the paragraphs following, the fact that employees doing
+particular work on behalf of such a producer are employed by an independent employer rather than by the producer
+will not take them outside the coverage of the Act if their work otherwise qualifies as the “production” of “goods”
+for “commerce.”
+(2) Of course, in view of the Act's definition of “goods” as including “any part or ingredient” of goods (see
+§776.20 (a), (c)), employees of an independent employer providing other employers with materials or articles which
+become parts or ingredients of goods produced by such other employers for commerce are actually employed by a
+producer of goods for commerce and their coverage under the Act must be considered in the light of this fact. For
+example, an employee of such an independent employer who handles or in any manner works on the goods which
+become parts or ingredients of such other producer's goods is engaged in actual production of goods (parts of
+ingredients) for commerce, and the question of his coverage is determined by this fact without reference to whether
+his work is “closely related” and “directly essential” to the production by the other employer of the goods in which
+such parts or ingredients are incorporated. So also, if the employee is not engaged in the actual production of such
+parts or ingredients, his coverage will depend on whether as an employee of a producer of goods for commerce, his
+work is “closely related” and “directly essential” to the production of the parts or ingredients, rather than on the
+principles applicable in determining the coverage of employees of an independent employer who does not himself
+produce the goods for commerce.94
+94
+Bracey v. Luray, 138 F. 2d 8 (C.A. 4); Walling v. Peoples Packing Co., 132 F. 2d 236 (C.A. 10), certiorari denied 318
+U.S. 774; Mid-Continent Pipe Line Co. v. Hargrave, 129 F. 2d 655 (C.A. 10); Walling v. W. D. Haden Co., 153 F. 2d 196 (C.A.
+5).
+
+(3) Where the work of an employee would be “closely related” and “directly essential” to the production of
+goods for commerce if he were employed by a producer of the goods, the mere fact that the employee is employed
+by an independent employer will not justify a different answer.95 This does not necessarily mean that such work in
+every case will remain “closely related” to production when performed by employees of an independent employer. It
+will, of course, be as “directly essential” to production in the one case as in the other. (See §776.17(c)). But in
+determining whether an employee's work is “closely” or only remotely related to the production of goods for
+commerce by an employer other than his own, the nature and purpose of the business in which he is employed and
+in the course of which he performs the work may sometimes become important.
+See Kirschbaum Co. v. Walling, 316 U.S. 517; Roland Electrical Co. v. Walling, 326 U.S. 657; Farmers Reservoir Co. v.
+McComb, 337 U.S. 755; H. Mgrs. St., 1949, p. 14. See also Sen. St., 1949 Cong. Rec., p. 15372.
+95
+
+Such factors may prove decisive in particular situations where the employee's work, although “directly essential” to
+the production of goods by someone other than his employer, is not far from the borderline between those activities
+which are “directly essential” and those which are not. In such a situation, it may appear that his performance of the
+work is so much a part of an essentially local business carried on by his employer without any intent or purpose of
+aiding production of goods for commerce by others that the work, as thus performed, may not reasonably be
+considered “closely related” to such production.96 In other situations, however, where the degree to which the work
+is directly essential to production by the producer is greater the fact that the independent employer is engaged in a
+business having local aspects may not be sufficient to negate a close relationship between his employees' work and
+such production.97 And it seems clear that where the independent employer operates a business which, unlike that of
+the ordinary local merchant, is directed to providing producers with materials or services directly essential to the
+production of their goods for commerce, the activities of such a business may be found to be “closely related” to
+such production.98 In such event, all the employees of the independent employer whose work is part of his integrated
+effort to meet such needs of producers are covered as engaged in work closely related and directly essential to
+production of goods for commerce.99
+M. Mgrs. St., 1949, pp. 14, 15, 10 E. 40th St. Bldg. Co. v. Callus, 325 U.S. 578.
+
+96
+
+H. Mgrs. St., 1949, p. 14; Kirschbaum Co. v. Walling, 316 U.S. 517; Warren-Bradshaw Drilling Co. v. Hall, 317 U.S. 88.
+
+97
+
+See H. Mgrs. St., p. 14, and 10 E. 40th St. Bldg. Co. v. Callus, 325 U.S. 578.
+
+98
+
+99
+Kirschbaum Co. v. Walling, 316 U.S. 517 (Stationary engineers and firemen, watchmen, elevator operators, electricians,
+carpenters, carpenters' helper, engaged in maintaining and servicing loft building for producers); Roland Electrical Co. v.
+Walling, 326 U.S. 657 (foremen, trouble shooters, mechanics, helpers, and office employees of company selling and servicing
+electric motors, generators, and equipment for commercial and industrial firms); Meeker Coop. Light & Power Assn. v. Phillips,
+158 F. 2d 698 (C.A. 8) (outside employees and office employees of light and power company serving producers); Walling v. New
+Orleans Private Patrol Service, 57 F. Supp. 143 (E. D. La.) (guards, watchmen, and office employees of company providing
+patrol service for producers); Walling v. Thompson, 65 F. Supp. 686 (S.D. Cal.) (installation and service men, shopmen,
+bookkeeper, salesman, dispatcher of company supplying burglar alarm service to producers).
+
+In H. Mgrs. St., 1949, p. 14 it is said, “Employees engaged in such maintenance, custodial and clerical work will remain
+subject to the Act, notwithstanding they are employed by an independent employer performing such work on behalf of the
+manufacturer, mining company, or other producer for commerce. All such employees perform activities that are closely related
+and directly essential to the production of goods for commerce.”
+
+(b) Extent of coverage under “closely related” and “directly essential” clause illustrated. In paragraphs (b)(1)
+to (5) of this section, the principles discussed above are illustrated by reference to a number of typical situations in
+which goods or services are provided to producers of goods for commerce by the employees of independent
+employers. These examples are intended not only to answer questions as to coverage in the particular situations
+discussed, but to provide added guideposts for determining whether employees in other situations are doing work
+closely related and directly essential to such production.
+(1) Many local merchants sell to local customers within the same State goods which do not become a part or
+ingredient (as to parts or ingredients, see §776.20(c)) of goods produced by any of such customers. Such a merchant
+may sell to his customers, including producers for commerce, such articles, for example, as paper towels, or record
+books, or paper clips, or filing cabinets, or automobiles and trucks, or paint, or hardware, not specially designed for
+use in the production of other goods.
+Where such a merchant's business is essentially local in nature, selling its goods to the usual miscellany of local
+customers without any particular intent or purpose of aiding production of other goods for commerce by such
+customers, the local merchant's employees are not doing work both “closely related” and “directly essential” to
+production, so as to bring them within the reach of the Act, merely “because some of the customers * * * are
+producing goods for interstate [or foreign] commerce.”1 Therefore, if they do not otherwise engage “in commerce”
+(see §§776.8 to 776.13) or in the “production” of goods for commerce, they are not covered by the Act.
+1
+
+H. Mgrs. St., 1949, pp. 14, 15.
+
+In such a situation, moreover, even where the work done by the employees is “directly essential” to such production
+by their employer's customers, it may not meet the “closely related” test. But the more directly essential to the
+production of goods for commerce such work is, the more likely it is that a close and immediate tie between it and
+such production exists which will be sufficient, notwithstanding the local aspect of the employer's business, to bring
+the employees within the coverage of the Act on the ground that their work is “closely related” as well as “directly
+essential” to production by the employer's customers.
+Such a close and immediate tie with production exists, for example, where the independent employer, through his
+employees, supplies producers of goods for commerce with things as directly essential to production as electric
+motors or machinery or machinery parts for use in producing the goods of a manufacturer, for mining operations, or
+for production of oil, or for other production operations or the power, water, or fuel required in such production
+operations, to mention a few typical examples.2 The fact that these needs of producers are supplied through the
+agency of businesses having certain local aspects cannot alter the obvious fact that the employees of such businesses
+who supply these needs are doing work both “closely related” and “directly essential” to production by the
+employer's customers. As the United States Supreme Court has stated: “Such sales and services must be
+immediately available to * * * [the customers] or their production will stop.”3
+See H. Mgrs. St., 1949, p. 14; Sen. St., 95 Cong. Rec., October 19, 1949, at 15372; Statement of the Chairman of the
+Committee on Education and Labor explaining the conference agreement to the House of Representatives, 1949 Cong. Rec., p.
+15135; Roland Electrical Co. v. Walling, 326 U.S. 657; Reynolds v. Salt River Valley Water Users Assn., 143 F. 2d 863 (C.A. 9);
+2
+
+Meeker Coop. Light & Power Assn. v. Phillips, 158 F. 2d 698 (C.A. 8); Walling v. Hammer, 64 F. Supp. 690 (W.D. Va.);
+Holland v. Amoskeag Machine Co., 44 F. Supp. 884 (D. N.H.); Princeton Mining Co. v. Veach, 63 N.E. 2d 306 (Ind. App.).
+3
+
+Roland Electrical Co. v. Walling, 326 U.S. 657, 664.
+
+It should be noted that employees of independent employers providing such essential goods and services to
+producers will not be removed from coverage because an unsegregated portion of their work is performed for
+customers other than producers of goods for commerce. For example, employees of public utilities, furnishing gas,
+electricity or water to firms within the State engaged in manufacturing, mining, or otherwise producing goods for
+commerce, are subject to the Act notwithstanding such gas, electricity or water is also furnished to consumers who
+do not produce goods for commerce.4
+Meeker Coop. Light & Power Assn. v. Phillips, 158 F. 2d 698 (C.A. 8); H. Mgrs. St., 1949, p. 14. For another illustration
+see H. Mgrs. St., 1949, p. 26, with reference to industrial laundries.
+4
+
+(2) On similar principles, employees of independent employers providing to manufacturers, mining
+companies, or other producers such goods used in their production of goods for commerce as tools and dies,
+patterns, designs, or blueprints are engaged in work “closely related” as well as “directly essential” to the production
+of the goods for commerce;5 the same is true of employees of an independent employer engaged in such work as
+producing and supplying to a steel mill, sand meeting the mill's specifications for cast shed, core, and molding sands
+used in the production by the mill of steel for commerce.6 Another illustration of such covered work, according to
+managers of the bill in Congress, is that of employees of industrial laundry and linen supply companies serving the
+needs of customers engaged in manufacturing or mining goods for commerce.7
+5
+
+H. Mgrs. St., 1949, p. 14; Sen. St., 1949 Cong. Rec., p. 15372.
+
+6
+
+Walling v. Amidon, 153 F. 2d 159 (C.A. 10); Sen. St., 95 Cong. Rec., October 19, 1949, at 15372.
+
+7
+H. Mgrs. St., 1949, p. 26; Sen. St., 95 Cong. Rec., October 19, 1949, at 15372. See also Koerner v. Associated Linen
+Laundry Suppliers, 270 App. Div. 986, 62 N.Y.S. 2d 774.
+
+On the other hand, the legislative history makes it clear that employees of a “local architectural firm” are not
+brought within the coverage of the Act by reason of the fact that their activities “include the preparation of plans for
+the alteration of buildings within the State which are used to produce goods for interstate commerce.” Such activities
+are not “directly essential” enough to the production of goods in the buildings to establish the required close
+relationship between their performance and such production when they are performed by employees of such a
+“local” firm.8 Of course, this result is even more apparent where the activities of the employees of such a “local”
+business may not be viewed as “directly essential” to production. It is clear, for example, that Congress did not
+believe “employees of an independently owned and operated restaurant” should be brought under the coverage of
+the Act because the restaurant is “located in a factory.” To establish coverage on “production” grounds, an employee
+must be “shown to have a closer and more direct relationship to the producing * * * activity” than this.9
+8
+
+H. Mgrs. St., 1949, p. 15. See also McComb v. Turpin, 81 F. Supp. 86, 1948 (D. Md.).
+
+9
+
+H. Mgrs. St., 1949, p. 14. Cf. Bayer v. Courtemanche, 76 F. Supp. 193 (D. Conn.). See also §776.18(b).
+
+(3) Some further examples may help to clarify the line to be drawn in such cases. The work of employees
+constructing a dike to prevent the flooding of an oil field producing oil for commerce would clearly be work not
+only “directly essential” but also “closely related” to the production of the oil. However, employees of a
+materialman quarrying, processing, and transporting stone to the construction site for use in the dike would be doing
+work too far removed from production of the oil to be considered “closely related” thereto.10 Similarly, the sale of
+sawmill equipment to a producer of mine props which are in turn sold to mines within the same State producing coal
+for commerce is too remote from production of the coal to be considered “closely related” thereto, but production of
+the mine props, like the manufacture of tools, dies, or machinery for use in producing goods for commerce, has such
+
+a close and immediate tie with production of the goods for commerce that it meets the “closely related” (as well as
+the “directly essential”) test.11
+See E. C. Schroeder Co. v. Clifton, 153 F. 2d 385 (C.A. 10) (opinion of Judge Phillips) and H. Mgrs. St., 1949, p. 15.
+
+10
+
+11
+See Wailing v. Hamner, 64 F. Supp. 690 (W.D. Va.), and statement of the Chairman of the Committee on Education and
+Labor explaining the conference agreement to the House of Representatives, 1949 Cong. Rec., p. 15135.
+
+(4) A further illustration of the distinction between work that is, and work that is not, “closely related” to the
+production of goods for commerce may be found in situations involving activities which are directly essential to the
+production by farmers of farm products which are shipped in commerce. Employees of an employer furnishing to
+such farmers, within the same State, water for the irrigation of their crops, power for use in their agricultural
+production for commerce, or seed from which the crops grow, are engaged in work “closely related” as well as
+“directly essential” to the production of goods for commerce.12 On the other hand, it is apparent from the legislative
+history that Congress did not regard, as “closely related” to the production of farm products for commerce, the
+activities of employees in a local fertilizer plant producing fertilizer for use by farmers within the same State to
+improve the productivity of the land used in growing such products.13 Fertilizer is ordinarily thought to be
+assimilated by the soil rather than by the crop and, in the ordinary case, may be considered less directly essential to
+production of farm products than the water or seed, without which such production would not be possible. Probably
+the withdrawal from coverage of such employees (who were held “necessary” to production of goods for commerce
+under the Act prior to the 1949 amendments14) rests wholly or in part on the principles stated in paragraph (a)(3) of
+this section and paragraph (b)(1) of this section. Heretofore the Department has taken the position that producing or
+supplying feed for poultry and livestock to be used by farmers within the State in the production of poultry or cattle
+for commerce was covered. The case of Mitchell v. Garrard Mills15 has reached a contrary conclusion as to a local
+producer of such feed in a situation where all of the feed was sold to farmers and dealers for use exclusively within
+the State. For the time being, and until further clarification from the courts, the Divisions will not assert the position
+that coverage exists under the factual situation which existed in this case.
+12
+See Farmers Reservoir Co. v. McComb, 337 U.S. 755; Reynolds v. Salt River Valley Water Users Assn., 143 F. 2d 863
+(C.A. 9); Meeker Coop. Light & Power Assn. v. Phillips, 158 F. 2d 698 (C.A. 8).
+
+Reference should be made to section 13 (a) (6) of the Act providing an exemption from the wage and hours provisions for
+employees employed in agriculture and for certain employees of nonprofit and sharecrop irrigation companies.
+H. Mgrs. St. 1949, p. 15.
+
+13
+
+McComb v. Super-A Fertilizer Works, 165 F. 2d 824 (C.A. 1).
+
+14
+
+241 F. 2d 249 (C.A. 6).
+
+15
+
+(5) Managers of the legislation in Congress stated that all maintenance, custodial, and clerical employees of
+manufacturers, mining companies, and other producers of goods for commerce perform activities that are both
+“closely related” and “directly essential” to the production of goods for commerce, and that the same is true of
+employees of an independent employer performing such maintenance, custodial, and clerical work “on behalf of”
+such producers.
+Typical of the employees in this covered group are those repairing or maintaining the machinery or buildings used
+by the producer in his production of goods for commerce and employees of a watchman or guard or patrol or burglar
+alarm service protecting the producer's premises.16 On the other hand, the House managers of the bill made it clear
+that employees engaged in cleaning windows or cutting grass at the plant of a producer of goods for commerce were
+not intended to be included as employees doing work “closely related” to production on “on behalf of” the producer
+where they were employed by a “local window-cleaning company” or a “local independent nursery concern,”
+merely because the customers of the employer happen to include producers of goods for commerce.17 A similar view
+was expressed with respect to employees of a “local exterminator service firm” working wholly within the State
+
+exterminating pests in private homes, in a variety of local establishments, “and also in buildings within the State
+used to produce goods for interstate commerce.”17
+16
+See H. Mgrs. St., 1949, p. 14; Sen. St. 1949 Cong. Rec. p. 15372; Kirschbaum Co. v. Walling, 316 U.S. 517; Roland
+Electrical Co. v. Walling, 326 U.S. 657; Walling v. Sondock, 132 F. 2d 77 (C.A. 5); Holland v. Amoskeag Machine Co., 44 F.
+Supp. 884 (D.N.H.).
+
+H. Mgrs. St., 1949, page 15.
+
+17
+
+[15 FR 2925, May 17, 1950, as amended at 22 FR 9692, Dec. 4, 1957]
+
+§776.20 “Goods.”
+(a) The statutory provision. An employee is covered by the wage and hours provisions of the Act if he is
+engaged in the “production” (as explained in §§776.15 through 776.19) “for commerce” (as explained in §776.21) of
+anything defined as “goods” in section 3(i) of the Act. This definition is:
+Goods means goods (including ships and marine equipment), wares, products, commodities, merchandise, or articles or
+subjects of commerce of any character, or any part or ingredient thereof, but does not include goods after their delivery into the
+actual physical possession of the ultimate consumer thereof other than a producer, manufacturer, or processor thereof.
+
+(b) “Articles or subjects of commerce of any character.” It will be observed that “goods” as defined in the Act
+are not limited to commercial goods or articles of trade, or, indeed, to tangible property, but include “articles or
+subjects of commerce of any character (emphasis supplied).18 It is well settled that things such as “ideas, * * *
+orders, and intelligence” are “subjects of commerce.” Telegraphic messages have, accordingly, been held to be
+“goods” within the meaning of the Act.19 Other articles or subjects of commerce which fall within the definition of
+“goods” include written materials such as newspapers, magazines, brochures, pamphlets, bulletins, and
+announcements;20 written reports, fiscal and other statements and accounts, correspondence, lawyers' briefs and other
+documents;21 advertising, motion picture, newspaper and radio copy, artwork and manuscripts for publication;22
+sample books;23 letterheads, envelopes, shipping tags, labels, check books, blank books, book covers, advertising
+circulars and candy wrappers.24 Insurance policies are “goods” within the meaning of the Act;25 so are bonds, stocks,
+bills of exchange, bills of lading, checks, drafts, negotiable notes and other commercial paper.26 “Goods” includes
+gold;27 livestock;28 poultry and eggs;29 vessels;30 vehicles;31 aircraft;32 garments being laundered or rented;33 ice;34
+containers, as, for example, cigar boxes or wrapping paper and packing materials for other goods shipped in
+commerce;35 electrical energy or power, gas, etc.;36 and by-products,37 to mention only a few illustrations of the
+articles or subjects of “trade, commerce, transportation, transmission, or communication among the several States, or
+between any State and any place outside thereof” which the Act refers to as “goods.” The Act's definitions do not,
+however, include as “goods” such things as dams, river improvements, highways and viaducts, or railroad lines.38
+18
+As pointed out in Lenroot v. Western Union Tel. Co., 141 F. 2d 400 (C.A. 2), the legislative history shows that the
+definition was originally narrower, and that subjects of commerce were added by a Senate amendment.
+
+Western Union Tel. Co. v. Lenroot 323 U.S. 490.
+
+19
+
+Mabee v. White Plains Pub. Co., 327 U.S. 178; Yunker v. Abbye Employment Agency, 32 N.Y.S. 2d 715; Berry v. 34
+Irving Place Corp., 52 F. Supp. 875 (S.D. N.Y.); Ullo v. Smith, 62 F. Supp. 757, affirmed in 177 F. 2d 101 (C.A. 2); see also
+opinion of the four dissenting justices in 10 E. 40th St. Bldg. v. Callus, 325 U.S. at p. 586.
+20
+
+Waste paper collected for shipment in commerce is goods. See Fleming v. Schiff, 1 W.H. Cases 893 (D. Colo.), 15 Labor
+Cases (CCH) par. 60,864.
+Phillips v. Meeker Coop. Light & Power Asso., 63 F. Supp. 733, affirmed in 158 F. 2d 698 (C.A. 8); Lofther v. First Nat.
+Bank of Chicago, 48 F. Supp. 692 (N.D. Ill.) See also Rausch v. Wolf, 72 F. Supp. 658 (N.D. Ill). There are other cases (e.g.,
+Kelly v. Ford, Bacon & Davis, 162 F. 2d 555 (C.A. 3) and Bozant v. Bank of New York, 156 F. 2d 787 (C.A. 2) which suggest
+21
+
+that such things are “goods” only when they are articles of trade. Although the Supreme Court has not settled the question, such a
+view appears contrary to the express statutory definitions of “goods” and “commerce”.
+Robert v. Henry Phipps Estate, 156 F. 2d 958 (C.A. 2); Baldwin v. Emigrant Industrial Sav. Bank, 150 F. 2d 524 (C.A.
+2), certiorari denied 326 U.S. 757; Bittner v. Chicago Daily News Ptg. Co., 4 W.H. Cases 837 (N.D. Ill.), 29 Labor Cases (CCH)
+par. 62,479; Schinck v. 386 Fourth Ave. Corp., 49 N.Y.S. 2d 872.
+22
+
+Walling v. Higgins, 47 F. Supp. 856 (E.D. Pa.).
+
+23
+
+24
+McAdams v. Connelly, 8 W.H. Cases 498 (W.D. Ark.), 16 Labor Cases (CCH) par. 64,963; Walling v. Lacy, 51 F. Supp.
+1002 (D. Colo.); Tobin v. Grant 8 W.H. Cases 361 (N.D. Calif.). See also Walling v. Sieving, 5 W.H. Cases 1009 (N.D. Ill.), 11
+Labor Cases (CCH) par. 63,098.
+
+Darr v. Mutual Life Ins. Co., 169 F. 2d 262 (C.A. 2), certiorari denied 335 U.S. 871.
+
+25
+
+Bozant v. Bank of New York, 156 F. 2d 787 (C.A. 2).
+
+26
+
+Walling v. Haile Gold Mines, 136 F. 2d 102 (C.A. 4); Fox v. Summit King Mines, 143 F. 2d 926 (C.A. 9).
+
+27
+
+Walling v. Friend, 156 F. 2d 429 (C.A. 8).
+
+28
+
+Walling v. DeSoto Creamery & Produce Co., 51 F. Supp. 938 (D. Minn).
+
+29
+
+Slover v. Wathen, 140 F. 2d 258 (C.A. 4).
+
+30
+
+Hertz Drivurself Stations v. United States, 150 F. 2d 923 (C.A. 8).
+
+31
+
+Jackson v. Northwest Airlines, 75 F. Supp. 32 (D. Minn.).
+
+32
+
+Phillips v. Star Overall Dry Cleaning Laundry Co., 149 F. 2d 416 (C.A. 2).
+
+33
+
+Hamlet Ice Co. v. Fleming, 127 F. 2d 165 (C.A. 4); Atlantic Co. v. Walling, 131 F. 2d 518 (C.A. 5).
+
+34
+
+35
+Enterprise Box Co. v. Fleming, 125 F. 2d 897 (C.A. 5), certiorari denied, 316 U.S. 704; Fleming v. Schiff, 1 W.H. Cases
+883 (D. Colo.), 5 Labor Cases (CCH) par. 60,864.
+
+Walling v. Connecticut Co.; 62 F. Supp. 733 (D. Conn.), affirmed 154 F. 2d 552 (C.A. 2).
+
+36
+
+Walling v. Peoples Packing Co., 132 F. 2d 236 (C.A. 10), certiorari denied 318 U.S. 774.
+
+37
+
+Engebretsen v. Albrecht, 150 F. 2d 602 (C.A. 7); Kenny v. Wigton-Abbott Corp., 80 F. Supp. 489 (D. N.J.).
+
+38
+
+(c) “Any part or ingredient.” Section 3(i) draws no distinction between goods and their ingredients and in fact
+defines goods to mean “goods” * * * or any part or ingredient thereof.” The fact that goods are processed or
+changed in form by several employers before going into interstate or foreign commerce does not affect the character
+of the original product as “goods” produced for commerce. Thus, if a garment manufacturer sends goods to an
+independent contractor within the State to have them sewn, after which he further processes and ships them in
+interstate commerce, the division of the production functions between the two employees does not alter the fact that
+the employees of the independent contractor are actually producing (“working on”) the “goods” (parts or ingredients
+of goods) which enter the channels of commerce.39
+Schulte Co. v. Gangi, 328 U.S. 108.
+
+39
+
+Similarly, if a manufacturer of buttons sells his products within the State to a manufacturer of shirts, who ships the
+shirts in interstate commerce, the employees of the button manufacturer would be engaged in the production of
+goods for commerce; or, if a lumber manufacturer sells his lumber locally to a furniture manufacturer who sells
+furniture in interstate commerce, the employees of the lumber manufacturer would likewise come within the scope
+of the Act. Any employee who is engaged in the “production” (as explained in §776.15) of any part or ingredient of
+goods produced for trade, commerce, transportation, transmission, or communication among the several States or
+between any State and any place outside thereof is engaged in the production of “goods” for commerce within the
+meaning of the Act.40
+Roland Electrical Co. v. Walling, 326 U.S. 657; Bracy v. Luray, 138 F. 2d 8 (C.A. 4); Walling v. W. J. Haden Co., 153 F.
+2d 196 (C.A. 5); Mid-Continent Pipe Line Co. v. Hargrave, 129 F. 2d 655 (C.A. 10); Boiling v. Allison, 4 W. H. Cases 500 (N.D.
+Okla.); Hanson v. Lagerstrom, 133 F. 2d 120 (C.A. 8); Walling v. Comet Carriers, 151 F. 2d 107 (C.A. 2); Walling v. Griffin
+Cartage Co., 62 F. Supp. 396, affirmed in 153 F. 2d 587 (C.A. 6); Walling v. Kerr, 47 F. Supp. 852 (E.D. Pa.).
+40
+
+(d) Effect of the exclusionary clause. The exclusionary clause in the definition that excepts “goods after their
+delivery into the actual physical possession of the ultimate consumer thereof other than a producer, manufacturer, or
+processor thereof,” is intended to protect ultimate consumers other than producers, manufacturers, or processors of
+the goods in question41 from the “hot goods” provisions of section 15(a)(1) of the Act.42 Section 15(a)(1) makes it
+unlawful for any person “to transport * * * (or * * * ship * * * in commerce * * * any goods” produced in
+violation of the wage and hours standards established by the Act. (Exceptions are made subject to specified
+conditions for common carriers and for certain purchasers acting in good faith reliance on written statements of
+compliance. See footnote 53 to §776.15(a).) By defining “goods” in section 3(i) so as to exclude goods after their
+delivery into the actual physical possession of the ultimate consumer (other than a producer, manufacturer, or
+processor thereof) Congress made it clear that it did not intend to hold the ultimate consumer as a violator of section
+15(a)(1) if he should transport “hot goods” across a State line.43 Thus, if a person purchases a pair of shoes for
+himself from a retail store44 and carries the shoes across a State line, the purchaser is not guilty of a violation of
+section 15(a)(1) if the shoes were produced in violation of the wage or hours provisions of the statute. But the fact
+that goods produced for commerce lose their character as “goods” after they come into the actual physical
+possession of an ultimate consumer who does not further process or work on them, does not affect their character as
+“goods” while they are still in the actual physical possession of the producer, manufacturer or processor who is
+handling or working on them with the intent or expectation that they will subsequently enter interstate or foreign
+commerce.45 Congress clearly did not intend to permit an employer to avoid the minimum wage and maximum hours
+standards of the Act by making delivery within the State into the actual physical possession of the ultimate
+consumer who transports or ships the goods outside of the State. Thus, employees engaged in building a boat for
+delivery to the purchaser at the boatyard are considered within the coverage of the Act if the employer, at the time
+the boat is being built, intends, hopes, or has reason to believe that the purchase will sail it outside the State.46
+41
+Southern Advance Bag & Paper Co. v. United States, 183 F. 2d 449 (C.A. 5); Phillips v. Star Overall Dry Cleaning
+Laundry Co, 149 F. 2d 485 (C.A. 2), certiorari denied 327 U.S. 780.
+
+Jackson v. Northwest Airlines, 70 F. Supp. 501.
+
+42
+
+Hamlet Ice Co. v. Fleming, 127 F. 2d 165 (C.A. 4), certiorari denied 317 U.S. 634.
+
+43
+
+44
+Note that the retail or service establishment exemption in section 13(a)(2) does not protect the retail store from a violation
+of the “hot goods” provision if it sells in interstate commerce goods produced in violation of section 6 or 7.
+
+See cases cited above in footnotes 41, 42, 43, this section.
+
+45
+
+46
+Walling v. Lowe, 5 W.H. Cases (S.D. Fla.), 10 Labor Cases (CCH) 63,033. See also Walling v. Armbruster, 51 F. Supp.
+166 (W.D. Ark.); Joshua Hendy Corp. v. Mills, 169 F. 2d 898 (C.A. 9); St. Johns River Shipbuilding Co. v. Adams, 164 F. 2d
+1012 S. (C.A. 5).
+
+§776.21 “For” commerce.
+
+(a) General principles. As has been made clear previously, where “goods” (as defined in the Act) are produced
+“for commerce,” every employee engaged in the “production” (as explained in §§776.15 through 776.19) of such
+goods (including any part or ingredient thereof) is within the general coverage of the wage and hours provisions of
+the Act. Goods are produced for “commerce” if they are produced for “trade, commerce, transporation,
+transmission, or communication among the several States or between any State and any place outside thereof.”47
+Goods are produced “for” such commerce where the employer intends, hopes, expects, or has reason to believe that
+the goods or any unsegregated part of them will move (in the same or in an altered form or as a part or ingredient of
+other goods) in such interstate or foreign commerce.48 If such movement of the goods in commerce can be
+reasonably anticipated by the employer when his employees perform work defined in the Act as “production” of
+such goods, it makes no difference whether he himself, or a subsequent owner or possessor of the goods, put the
+goods in interstate or foreign commerce.49 The fact that goods do move in interstate or foreign commerce is strong
+evidence that the employer intended, hoped, expected, or had reason to believe that they would so move.
+Fair Labor Standards Act, section 3(b).
+
+47
+
+48
+United States v. Darby, 312 U.S. 100; Warren-Bradshaw Drilling Co. v. Hall, 371 U.S. 88; Schulte Co. v. Gangi, 328
+U.S. 108.
+
+Schulte Co. v. Gangi, 328 U.S. 108; Warren-Bradshaw Drilling Co. v. Hall, 417 U.S. 88. See paragraph (d) of this
+
+49
+
+section.
+
+Although it is generally well understood that goods are produced “for” commerce if they are produced for
+movement in commerce to points outside the State, questions have been raised as to whether work done on goods
+may constitute production “for” commerce even though the goods do not ultimately leave the State. As is explained
+more fully in the paragraphs following, there are certain situations in which this may be true, either under the
+principles above stated (see paragraph (c) of this section), or because it appears that the goods are produced “for”
+commerce in the sense that they are produced for use directly in the furtherance, within the particular State, of the
+actual movement to, from, or across such State or interstate or foreign commerce. (See paragraph (b) of this section).
+(b) Goods produced for direct furtherance of interstate movement. (1) The Act's definition of “commerce,” as
+has been seen, describes a movement, among the several States or between any State and any outside place, of trade,
+commerce, transportation, transmission, or communication.” Whenever goods are produced “for” such movement,
+such goods are produced “for commerce,” whether or not there is any expectation or reason to anticipate that the
+particular goods will leave the State.50
+Fleming v. Atlantic Co., 40 F. Supp. 654, affirmed in 131 F. 2d 518 (C.A. 5).
+
+50
+
+(2) The courts have held that particular goods are produced “for” commerce when they are produced with a
+view to their use, whether within or without the State, in the direct furtherance of the movement of interstate or
+foreign commerce. Thus, it is well settled that ice is produced “for” commerce when it is produced for use by
+interstate rail or motor carriers in the refrigeration or cooling of the equipment in which the interstate traffic actually
+moves, even though the particular ice may melt before the equipment in which it is placed leaves the State.51 The
+goods (ice) produced for such use “enter into the very means of transportation by which the burdens of traffic are
+borne.”52 The same may be said of electrical energy produced and sold within a single State for such uses as lighting
+and operating signals on railroads and at airports to guide interstate traffic, lighting and operating radio stations
+transmitting programs interstate, and lighting and message transmission of telephone and telegraph companies.53
+Similar principles would apply to the production of fuel or water for use in the operation of railroads with which
+interstate and foreign commerce is carried on; the production of radio or television scripts which provide the basis
+for programs transmitted interstate; the production of telephone and telegraph poles for use in the necessary repair,
+maintenance, or improvement of interstate communication systems; the production of crushed rock, ready-mixed
+concrete, cross-ties, concrete culvert pipe, bridge timbers, and similar items for use in the necessary repair,
+maintenance, or improvement of railroad roadbeds and bridges which serve as the instrumentalities over which
+interstate traffic moves.
+
+51
+Hamlet Ice Co. v. Fleming, 127 F. 2d 165 (C.A. 4), certiorari denied 317 U.S. 634; Atlantic Co. v. Walling, 131 F. 2d 518
+(C.A. 5); Chapman v. Home Ice Co.; 136 F. 2d 353 (C.A. 6) certiorari denied 320 U.S. 761; Southern United Ice Co. v. Hendrix,
+153 F. 2d 689 (C.A. 6); Hansen v. Salinas Valley Ice Co., 62 Cal. App. 357, 144 F. 2d 896.
+
+Hamlet Ice Co. v. Fleming, 127 F. 2d 165 (C.A. 4).
+
+52
+
+Lewis v. Florida Power & Light Co., 154 F. 2d 751 (C.A. 5); see also Walling v. Connecticut Co., 154 F. 2d 552 (C.A. 2).
+
+53
+
+Similarly, in the case of highways, pipe lines, and waterways which serve as instrumentalities of interstate and
+foreign commerce, the production of goods for use in the direct furtherance of the movement of commerce thereon
+would be the production of goods “for commerce.” The production of materials54 for use in the necessary
+maintenance, repair, or improvement of the instrumentality so that the flow of commerce will not be impeded or
+impaired is an example of this. Thus, stone or ready-mixed concrete, crushed rock, sand, gravel, and similar
+materials for bridges or dams; like materials or bituminous aggregate or oil for road surfacing; concrete or
+galvanized pipe for road drainage; bridge planks and timbers; paving blocks; and other such materials may be
+produced “for” commerce even though they do not leave the State.
+54
+Walling v. Staffen, 5 W.H. Cases 1002 (W.D. N.Y.), 11 Labor Cases (CCH) par. 63, 102; McCombs v. Carter, 8 W.H.
+Cases 498 (E.D. Va.), 16 Labor Cases (CCH) par. 64, 964. Contra, McComb v. Trimmer, 85 F. Supp. 565 (D. N.J.). Cf.
+Engebretson v. Albrecht, 150 F. 2d 602 (C.A. 7).
+
+(3) This does not, however, necessarily mean that the production of such materials within a State is always
+production “for” commerce when the materials are used in the same State for the maintenance, repair, or
+improvement of highways or other instrumentalities carrying interstate traffic. In determining whether the
+production is actually “for” commerce in a situation where there is no reason to believe that the goods will leave the
+State, a practical judgment is required. Some illustrations may be helpful.
+On the one hand, there are situations where there is little room for doubt that the goods are produced “for”
+commerce in the sense that the goods are intended for the direct furtherance of the movement of commerce over the
+instrumentalities of transportation and communication. The most obvious illustration is that of special-purpose
+goods such as cross-ties for railroads, telephone or telegraph poles, or concrete pipe designed for highway use.
+Another illustration is sand and gravel for highway repair or reconstruction which is produced from a borrow pit
+opened expressly for that purpose, or from the pits of an employer whose business operations are conducted wholly
+or in the substantial part with the intent or purpose of filling highway contracts. (The fact that a substantial portion
+of the employer's gross income is derived from supplying such materials for highway repair and reconstruction
+would be one indication that a substantial part of his business is directed to the purpose of meeting such needs of
+commerce.)
+On the other hand, there are situations where materials or other goods used in maintaining, repairing, or
+reconstructing instrumentalities of commerce are produced and supplied by local materialmen under circumstances
+which may require the conclusion that the goods are not produced “for” commerce. Thus, a materialman may be
+engaged in an essentially local business serving the usual miscellany of local customers, without any substantial part
+of such business being directed to meeting the needs of highway repair or reconstruction. If, on occasion, he happens
+to produce or supply some materials which are used within the State to meet such highway needs, and he does so as
+a mere incident of his essentially local business, the Administrator will not consider that his employees handling or
+working on such materials are producing goods “for” commerce. This is, rather, a typically local activity of the kind
+the Act was not intended to cover. The same may be said of the production of ice by an essentially local ice plant
+where the only basis of coverage is the delivery of ice for the water cooler in the community railroad station. The
+employees producing ice in the ice plant for local use would not by reason of this be covered as engaged in the
+production of goods “for” commerce.
+Other illustrations might be given but these should emphasize the essential distinction which must be kept in mind.
+Borderline cases will, of course, arise. In each such case the facts must be examined and a determination made as to
+whether or not the goods may fairly be viewed as produced “for” use in the direct furtherance of the movement of
+interstate or foreign commerce, and thus “for” commerce.
+
+(c) Controlling effect of facts at time “production” occurs. (1) Whether employees are engaged in the
+production of goods “for” commerce depends upon circumstances as they exist at the time the goods are being
+produced, not upon some subsequent event. Thus, if a lumber manufacturer produces lumber to fill an out-of-State
+order, the employees working on the lumber are engaged in the production of goods for commerce and within the
+coverage of the Act's wage and hours provisions, even though the lumber does not ultimately leave the State because
+it is destroyed by fire before it can be shipped. Similarly, employees drilling for oil which the employer expects to
+leave the State either as crude oil or refined products are engaged in the production of goods for commerce while the
+drilling operations are going on and are entitled to be paid on that basis notwithstanding some of the wells drilled
+may eventually prove to be dry holes.55
+Culver v. Bell & Loffland, 146 F. 2d 29 (C.A. 9); see also Warren-Bradshaw Drilling Co. v. Hall, 317 U.S. 88.
+
+55
+
+(2) On the other hand, if the lumber manufacturer first mentioned produces lumber to fill the order of a local
+contractor in the expectation that it will be used to build a schoolhouse within the State, the employees producing
+the lumber are not engaged in the production of goods “for” commerce and are not covered by the Act. This would
+remain true notwithstanding the contractor subsequently goes bankrupt and the lumber is sold to a purchaser who
+moves it to another State; the status of the employees for purposes of coverage cannot in this situation, any more
+than in the others, be retroactively changed by the subsequent event.
+(d) Goods disposed of locally to persons who place them in commerce. It is important to remember that if, at
+the time when employees engage in activities which constitute “production of goods” within the meaning of the Act,
+their employer intends, hopes, expects, or has reason to believe that such goods will be taken or sent out of the State
+by a subsequent purchaser or other person into whose possession the goods will come, this is sufficient to establish
+that such employees are engaged in the production of such goods “for” commerce and covered by the Act. Whether
+the producer passes title to the goods to another within the State is immaterial.56 The goods are produced “for”
+commerce in such a situation whether they are purchased f.o.b. the factory and are taken out of the State by the
+purchaser, or whether they are sold within the State to a wholesaler or retailer or manufacturer or processor who in
+turn sells them, either in the same form or after further processing, in interstate or foreign commerce. The same is
+true where the goods worked on by the producer's employees are not owned by the producer and are returned, after
+the work is done, to the possession of the owner who takes or sends them out of the State.57 Similarly, employees are
+engaged in the production of goods “for” commerce when they are manufacturing, handling, working on, or
+otherwise engaging in the production of boxes, barrels, bagging, crates, bottles, or other containers, wrapping or
+packing material which their employer has reason to believe will be used to hold the goods of other producers which
+will be sent out of the State in such containers or wrappings. It makes no difference that such other producers are
+located in the same State and that the containers are sold and delivered to them there.58
+Hamlet Ice Co. v. Fleming, 127 F. 2d 165 (C.A. 4). certiorari denied 317 U.S. 634; Bracey v. Luray, 138 F. 2d 8 (C.A. 4).
+
+56
+
+57
+Schulte Co. v. Gangi, 328 U.S. 108; Warren-Bradshaw Drilling Co. v. Hall, 317 U.S. 88; Walling v. Kerr, 47 F. Supp.
+852 (E.D. Pa.).
+
+Enterprise Box Co. v. Fleming, 125 F. 2d 897 (C.A. 5), certiorari denied 316 U.S. 704; Dize v. Maddrix, 144 F. 2d 584
+(C.A. 4), affirmed 324 U.S. 697; Walling v. Burch, 5 W. H. Cases 323 (S.D. Ga.); 9 Labor Cases (CCH) par. 62, 613; Fleming v.
+Schiff, 1 W.H. Cases 893 (D. Colo.), 5 Labor Cases (CCH) par. 60, 864.
+58
+
+It should be noted that where empty containers are purchased, loaded, or transported within a single State as a part of their
+movement, as empty containers, out of the State, an employee engaged in such purchasing, loading, or transporting operations is
+covered by the Act as engaged “in commerce.” Atlantic Co. v. Weaver, 150 F. 2d 843 (C.A. 4); Klotz v. Ippolito, 40 F. Supp. 422
+(S.D. Tex.); Orange Crush Bottling Co. v. Tuggle, 70 Ga. App. 144, 27 S.E. 2d 769.
+
+Subpart B—Construction Industry
+SOURCE: 21 FR 5439, July 20, 1956, unless otherwise noted.
+
+§776.22 Subpart limited to individual employee coverage.
+
+This subpart, which was adopted before the amendments of 1961 and 1966 to the Fair Labor Standards Act, is
+limited to discussion of the traditional general coverage of employees employed in activities of the character
+performed in the construction industry, which depends on whether such employees are, individually, “engaged in
+commerce or in the production of goods for commerce” within the meaning of the Act. The 1961 and 1966
+amendments broadened coverage by extending it to other employees of the construction industry on an “enterprise”
+basis, as explained in §776.22a. Employees covered under the principles discussed in this subpart remain covered
+under the Act as amended; however, an employee who would not be individually covered under the principles
+discussed in this subpart may now be subject to the Act if he is employed in an enterprise engaged in covered
+construction as defined in the amendments.
+[35 FR 5543, Apr. 3, 1970]
+
+ENTERPRISE COVERAGE
+§776.22a Extension of coverage to employment in certain enterprises.
+Whether or not individually covered on the traditional basis, an employee is covered on an “enterprise” basis
+by the Act as amended in 1961 and 1966 if he is “employed in an enterprise engaged in commerce or in the
+production of goods for commerce” as defined in section 3 (r), (s), of the Act. “Enterprise” is defined generally by
+section 3(r) to mean “the related activities performed (either through unified operation or common control) by any
+person or persons for a common business purpose, and includes all such activities whether performed in one or more
+establishments or by one or more corporate or other organizational units.” If an “enterprise” as thus defined is an
+“enterprise engaged in commerce or in the production of goods for commerce” as defined and described in section
+3(s) of the Act as amended, any employee employed in such enterprise is subject to the provisions of the Act to the
+same extent as if he were individually engaged “in commerce or in the production of goods for commerce”, unless
+specifically exempt, section 3(s), insofar as pertinent to the construction industry, reads as follows:
+Enterprise engaged in commerce or in the production of goods for commerce means an enterprise which has employees
+engaged in commerce or in the production of goods for commerce, including employees handling, selling, or otherwise working
+on goods that have been moved in or produced for commerce by any person, and which:
+
+* * * * *
+(3) Is engaged in the business of construction or reconstruction, or both.
+
+Questions of “enterprise coverage” in the construction industry which are not answered in published statements of
+the Department of Labor may be addressed to the Administrator of the Wage and Hour Division, Department of
+Labor, Washington, DC 20210, or assistance may be requested from any of the Regional or District Offices of the
+Division.
+[35 FR 5543, Apr. 3, 1970]
+
+INDIVIDUAL EMPLOYEE COVERAGE IN THE CONSTRUCTION INDUSTRY
+§776.22b Guiding principles.
+(a) Scope of bulletin and general coverage statement. This subpart contains the opinions of the Administrator
+of the Wage and Hour Division with respect to the applicability of the Fair Labor Standards Act to employees
+engaged in the building and construction industry. The provisions of the Act expressly make its application
+dependent on the character of an employee's activities, that is, on whether he is engaged “in commerce” or in the
+“production of goods for commerce including any closely related process or occupation directly essential to such
+production.” Under either of the two prescribed areas of covered work, coverage cannot be determined by a rigid or
+technical formula. The United States Supreme Court has said of both phases that coverage must be given “a liberal
+
+construction” determined “by practical considerations, not by technical conceptions.”1 The Court has specifically
+rejected the technical “new construction” concept, as a reliable test for determining coverage under this Act.2
+1
+Mitchell v. Vollmer & Co., 349 U.S. 427; Kirschbaum Co. v. Walling, 316 U.S. 517; Alstate Construction Co. v. Durkin,
+345 U.S. 13.
+
+2
+
+Mitchell v. Vollmer & Co., ante.
+
+So far as construction work specifically is concerned, the courts have cast the relevant tests for determining the
+scope of “in commerce” coverage in substantially similar language as they have used in construing the “production”
+phase of coverage. Thus the Act applies to construction work which is so intimately related to the functioning of
+interstate commerce as to be, in practical effect, a part of it, as well as to construction work which has a close and
+immediate tie with the process of production.3
+3
+
+Mitchell v. Vollmer & Co., ante; Cf. Armour & Co. v. Wantock, 323 U.S. 126.
+
+(b) Engagement in commerce. The United States Supreme Court has held that the “in commerce” phase of
+coverage extends “throughout the farthest reaches of the channels of interstate commerce,” and covers not only
+construction work physically in or on a channel or instrumentality of interstate commerce but also construction work
+“so directly and vitally related to the functioning of an instrumentality or facility of interstate commerce as to be, in
+practical effect, a part of it, rather than isolated, local activity.”4
+4
+Mitchell v. Vollmer & Co., ante; Walling v. Jacksonville Paper Co., 317 U.S. 564; Overstreet v. North Shore Corp., 318
+U.S. 125.
+
+(c) Production of goods for commerce. The “production” phase of coverage includes “any closely related
+process or occupation directly essential” to production of goods for commerce. An employee need not be engaged in
+activities indispensable to production in order to be covered. Conversely, even indispensable or essential activities,
+in the sense of being included in the long line of causation which ultimately results in production of finished goods,
+may not be covered. The work must be both closely related and directly essential to the covered production.5
+5
+
+Armour & Co. v. Wantock, ante; Kirschbaum v. Walling, 316 U.S. 417; Cf. 10 E. 40th St. Co. v. Callus, 325 U.S. 578.
+
+(d) State and national authority. Consideration must also be given to the relationship between state and
+national authority because Congress intended “to leave local business to the protection of the State.”6 Activities
+which superficially appear to be local in character, when isolated, may in fact have the required close or intimate
+relationship with the area of commerce to which the Act applies. The courts have stated that a project should be
+viewed as a whole in a realistic way and not broken down into its various phases so as to defeat the purposes of the
+Act.7
+6
+
+Walling v. Jacksonville Paper Co., ante; Kirschbaum v. Walling, ante; Phillips Co. v. Walling, 324 U.S. 490, 497.
+
+7
+Walling v. Jacksonville Paper Co., ante; Bennett v. V. P. Loftis Co., 167 F. (2d) 286 (C.A.4); Tobin v. Pennington-Winter
+Const. Co., 198 F. (2d) 334 (C.A.10), certiorari denied 345 U.S. 915; See General Coverage Bulletin, §§776.19 (a), (b), and
+776.21(b).
+
+(e) Interpretations. In his task of distinguishing covered from non-covered employees the Administrator will
+be guided by authoritative court decisions. To the extent that prior administrative rulings, interpretations, practices
+and enforcement policies relating to employees in the construction industry are inconsistent or in conflict with the
+principles stated in this subpart, they are hereby rescinded and withdrawn.
+[21 FR 5439, July 20, 1956. Redesignated at 35 FR 5543, Apr. 3, 1970]
+
+§776.23 Employment in the construction industry.
+
+(a) In general. The same principles for determining coverage under the Fair Labor Standards Act generally
+apply to employees in the building and construction industry. As in other situations, it is the employee's activities
+rather than the employer's business which is the important consideration, and it is immaterial if the employer is an
+independent contractor who performs the construction work for or on behalf of a firm which is engaged in interstate
+commerce or in the production of goods for such commerce.8
+8
+Mitchell v. Joyce Agency, 348 U.S. 945, affirming 110 F. Supp. 918; Fleming v. Sondeck, 132 F. (2d) 77 (C.A. 5),
+certiorari denied 318 U.S. 772; Kirschbaum v. Walling, ante; Walling v. McCrady Construction Co., 156 F. (2d) 932. certiorari
+denied 329 U.S. 785; Mitchell v. Brown Engineering Co., 224 F. (2d) 359 (C.A. 8), certiorari denied 350 U.S. 875; Chambers
+Construction Co. and L. H. Chambers v. Mitchell, decided June 5, 1965 (C.A. 8).
+
+(b) On both covered and non-covered work. If the employee is engaged in both covered and non-covered work
+during the workweek he is entitled to the benefits of the Act for the entire week regardless of the amount of covered
+activities which are involved. The covered activities must, however, be regular or recurring rather than isolated,
+sporadic or occasional.9
+9
+
+See General Coverage Bulletin, §§776.2 and 776.4
+
+(c) On covered construction projects. All employees who are employed in connection with construction work
+which is closely or intimately related to the functioning of existing instrumentalities and channels of interstate
+commerce or facilities for the production of goods for such commerce are within the scope of the Act. Closely or
+intimately related construction work includes the maintenance, repair, reconstruction, redesigning, improvement,
+replacement, enlargement or extension of a covered facility.10 If the construction project is subject to the Act, all
+employees who participate in the integrated effort are covered, including not only those who are engaged in work at
+the site of the construction such as mechanics, laborers, handymen, truckdrivers, watchmen, guards, timekeepers,
+inspectors, checkers, surveyors, payroll workers, and repair men, but also office, clerical, bookkeeping, auditing,
+promotional, drafting, engineering, custodial and stock room employees.11
+10
+Walling v. McCrady Const. Co., 156 F. (2d) 932, certiorari denied 329 U.S. 785; Chambers Construction Co. and L. H.
+Chambers v. Mitchell, decided June 5, 1956 (C.A. 8); Tobin v. Pennington-Winter Const. Co. ante; Mitchell v. Vollmer & Co.,
+ante.
+
+Mitchell v. Brown Engineering Co., ante; Chambers Construction Co. and L. H. Chambers v. Mitchell, ante; Ritch v.
+Puget Sound Bridge & Dredging Co., 156 F. (2d) 334 (C.A. 9).
+11
+
+(d) On non-covered construction projects. (1) A construction project maybe purely local and, therefore, not
+covered, but some individual employees may nonetheless be covered on independent ground by reason of their
+interstate activities. Under the principle that coverage depends upon the particular activities of the employee and not
+on the nature of the business of the employer, individual employees engaged in interstate activities are covered even
+though their activities may be performed in connection with a non-covered construction project. Thus, the Act is
+applicable to employees who are regularly engaged in ordering or procuring materials and equipment from outside
+the State or receiving, unloading, checking, watching or guarding such goods while they are still in transit. For
+example, laborers on a non-covered construction project who regularly unload materials and equipment from
+vehicles or railroad cars which are transporting such articles from other States are performing covered work.12
+Clyde v. Broderick, 144 F. (2d) 348 (C.A. 10); Durnil v. J. E. Dunn Construction Co. 186 F (2d) 27 (C.A. 8), Donahue v.
+George A. Fuller Co., 104 F. Supp. 145; Cf. Mitchell v. Royal Baking Co., 219 F. (2d) 532 (C.A. 5).
+12
+
+(2) Similarly, employees who regularly use instrumentalities of commerce, such as the telephone, telegraph
+and mails for interstate communication are within the scope of the Act, as are employees who are regularly engaged
+in preparing, handling, or otherwise working on goods which will be sent to other States. This includes the
+preparation of plans, orders, estimates, accounts, reports and letters for interstate transmittal.
+§776.24 Travel in connection with construction projects.
+
+The Act also applies to employees who regularly travel across State lines in the performance of their duties,
+even though the construction project itself is not covered.13 If an employee regularly transports persons, materials, or
+equipment between jobs across State lines, or to a covered project, even within the State, as part of his duties for the
+contractor, he would be covered. As in other situations, the Act would not apply if crossing State lines or
+transporting persons, materials or equipment by the employee was isolated or sporadic rather than regular and
+recurring. Also, ordinary home-to-work travel, even across State lines, is not covered.
+Reck v. Zarmacay, 264 App. Div. 520, 36 N.Y.S. (2d) 394; Colbeck v. Dairyland Creamery Co., 17 N.W. (2d) 262 (S. Ct.
+
+13
+
+S.D.).
+
+§776.25 Regular and recurring activities as basis of coverage.
+Regular and recurring may mean a very small amount and is not to be determined by volume or percentages.
+Coverage depends on the character rather than the volume of the employee's activities. For example, if an employee
+in the course of his duties regularly engages in covered work even though the covered work constitutes only a small
+part of his duties, he would be covered in any week when he performs such covered work.14
+Walling v. Jacksonville Paper Co., ante; Mabee v. White Plains Publishing Co., 327 U.S. 178.
+
+14
+
+§776.26 Relationship of the construction work to the covered facility.
+Unless the construction work is physically or functionally integrated or closely identified with an existing
+covered facility it is not regarded as covered construction because it is not closely enough related to or integrated
+with the production of goods for commerce or the engagement in commerce. For this reason the erection,
+maintenance or repair of dwellings, apartments, hotels, churches and schools are not covered projects.15 Similarly the
+construction of a separate, wholly new, factory building, not constructed as an integral part or as an improvement of
+an existing covered production plant, is not covered (Cf. §776.27(c)). Coverage of any construction work, whether
+new or repair work, depends upon how closely integrated it is with, and how essential it is to the functioning of,
+existing covered facilities. Neither the mere fact that the construction is “new construction” nor the fact that it is
+physically separated from an existing covered plant, is determinative. Moreover, the court decisions make it clear
+that the construction project itself need not be actually employed in commerce or in the production of goods for
+commerce during the time of its construction in order to be covered.16 Such factors may be considered in determining
+whether as a practical matter the work is directly and vitally related to the functioning of the covered facility but
+would not be decisive.
+Cf. §776.18(b).
+
+15
+
+16
+Mitchell v. Vollmer, ante; Bennett v. V. P. Loftis Co., ante; Mitchell v. Chambers Const. Co., 214 F. (2d) 515 (C.A. 10);
+Walling v. McCrady Const. Co., ante; Tobin v. Pennington-Winter Const. Co., 198 F. (2d) 334 (C.A. 5), certiorari denied, 345
+U.S. 915.
+
+§776.27 Construction which is related to covered production.
+(a) Existing production establishments. (1) Covered production facilities within the concept of the Act include
+mines, oil wells, banks, manufacturing, packing and processing plants, filtration, sewage treatment, electric power
+and water plants, shipyards, warehouses in which goods are broken down, packed or handled preparatory to being
+sent in interstate commerce, and similar establishments.
+(2) The repair or maintenance of a covered production unit is essential for its continued operation and has a
+close and immediate tie with the production of goods for commerce.17 The Act is also applicable to other
+construction which is an integral part of a covered production unit, such as the replacement, enlargement,
+reconstruction, extension or other improvement of the premises, the buildings, the machinery, tools and dies and
+other equipment. Functionally such work is like maintenance and repair and is necessary for the continued, efficient
+and effective operation of the facility as a unit. Thus the construction of new appurtenances of a covered production
+
+establishment such as parking aprons, access roads, railroad spurs, drainage ditches, storm, waste and sanitary
+sewers or adjacent integrated buildings is subject to the Act. Similarly, the Act applies to the installation of
+telephone, electric, gas and water lines, machinery and other equipment on the premises of such a facility.
+Kirschbaum Co. v. Walling, ante; Walling v. McCrady Const. Co., ante.
+
+17
+
+(3) On the other hand, the production and furnishings, within the State, of construction materials, such as sand,
+gravel, brick and other construction materials produced for general local use, is not covered even if the producer also
+supplies such materials to construction companies which use them within the State in the repair, maintenance or
+improvement of facilities for the production of goods for commerce. Employees of the materialman in such a
+situation would not have such a close and immediate tie to the production of goods for commerce as to be
+considered “closely related” and “directly essential” to such production.18
+18
+See General Coverage Bulletin, §776.19(b)(3); but see §776.19 (b) (1), (2) and (3); on coverage of furnishing materials
+“specially designed”, or meeting particular specifications, for use in production of particular kinds of goods for commerce; and
+paragraph (d) of this section, on coverage of producing and furnishing materials for use in construction work on instrumentalities
+of commerce.
+
+(b) Utilities which serve production establishments. The Act applies to employees of public utilities which
+furnish gas, electricity, water or fuel to firms engaged within the same State in manufacturing, processing,
+producing, or mining goods for commerce.19 Construction work performed upon the plant and facilities of such a
+utility is covered as in the case of any other covered production establishment.20 The extension of the lines or other
+facilities of a covered utility for the first time to the premises of an establishment which produces goods for
+commerce would be subject to the Act, because such extension is simply an improvement or enlargement of an
+existing covered utility.21 Furthermore, the maintenance or repair of the wires, pipes, or other conduits of a covered
+utility which serves business and manufacturing as well as residential areas would also be within the Act. On the
+other hand, extension or repair of lines or other facilities serving only residential areas would not be covered unless
+the electricity, gas, fuel, or water comes from out of the State.
+House Manager's Statement, 1949 Amendments.
+
+19
+
+See decisions cited in footnotes 10 and 11, of this subpart.
+
+20
+
+21
+Meeker Cooperative Light & Power Ass'n v. Phillips, 158 F. (2d) 698 (C.A. 8); Cf. New Mexico Public Service Co. v.
+Engel, 145 F. (2d) 636 (C.A. 10); Lewis v. Florida Power & Light Co., 154 F. (2d) 75 (C.A. 5).
+
+(c) New construction which is not integrated with existing production facilities. (1) Construction of a new
+factory building, even though its use for interstate production upon completion may be contemplated, will not
+ordinarily be considered covered. However, if the new building is designed as a replacement of or an addition or an
+improvement to, an existing interstate production facility, its construction will be considered subject to the Act.
+(2) If the new building, though not physically attached to an existing plant which produces goods for
+commerce, is designed to be an integral part of the improved, expanded or enlarged plant, the construction, like
+maintenance and repair, it would be subject to the Act.22
+Walling v. McCrady Const. Co., ante.
+
+22
+
+(d) Production of materials for use in construction work on interstate instrumentalities. (1) The Act applies to
+employees who are engaged, at the job site or away from it, in the production of goods to be used within the State
+for the maintenance, repair, extension, enlargement, improvement, replacement or reconstruction of an
+instrumentality of interstate commerce. The goods need not go out of the State since the Act applies to the
+production of goods “for” commerce, including for use in commerce, and is not limited to “production of goods for
+transportation in commerce,” that is, to be sent across State lines.23
+
+23
+Alstate Construction Co. v. Durkin, 345 U.S. 13; Tobin v. Johnson, 198 F. (2d) 130 (C.A. 8); Mitchell v. Emulsified
+Asphalt Products Co., 222 F. (2) 913 (C.A. 6).
+
+(2) The Act would also apply to the production of such items as electricity, fuel or water, for use in the
+operation of railroads or other instrumentalities of commerce.24 Therefore, as in the case of other production units,
+the maintenance, repair or other improvement of the premises or buildings or the appurtenances, including the
+machinery, tools and dies and equipment, of the facilities which are used to produce such goods, are subject to the
+Act.
+Sections 776.19(b)(2) and 776.21. See also paragraph (b) of this section.
+
+24
+
+(3) Coverage also extends to employees who produce sand, gravel, asphalt, cement, crushed rock, railroad ties,
+pipes, conduits, wires, concrete pilings and other materials which are to be used in the construction of
+instrumentalities which serve as the means for the interstate movement of goods or persons.
+(4) This does not mean, however, that in every case where employees produce such materials which are used
+within the State in the maintenance, repair, or reconstruction of an instrumentality of commerce, the production of
+such materials is necessarily considered as production “for” commerce. A material supply company may be engaged
+in an independent business which is essentially local in nature, selling its materials to the usual miscellany of local
+customers without any particular intent or purpose of supplying materials for the maintenance, repair, or
+reconstruction of instrumentalities of commerce, and without any substantial portion of its business being directed to
+such specific uses. Employees of such an “essentially local business” are not covered by the Act merely because as
+an incident to its essentially local business, the company, on occasion, happens to produce or supply some materials
+which are used within the State to meet the needs of instrumentalities of commerce.25
+See §§776.19 (a) and (b) and 776.21(b)(3). See also cases cited in footnote 22 of this subpart.
+
+25
+
+§776.28 Covered preparatory activities.
+(a) Before production begins. (1) The United States Supreme Court has held that the Act is applicable to
+employees of a company which was engaged in preliminary oil well drilling, even though the holes were drilled to a
+specified depth which was short of where the oil was expected to be found.26 The Act would also apply to drilling
+operations even though no oil was discovered.27 Laborers employed in erecting drilling rigs would also be covered.28
+Other preparatory work before drilling begins in an oil field, such as staking oil claims, surveying, clearing the land,
+assembling materials and equipment, erecting sheds, derricks or dikes would also be within the scope of the Act.29
+Preliminary work such as the foregoing has the requisite close and immediate tie with the production of goods for
+commerce to be within the coverage of the Act.
+Warren-Bradshaw Drilling Co. v. Hall, 317 U.S. 8.
+
+26
+
+Culver v. Bell & Loffland, 146 F. (2d) 20.
+
+27
+
+Devine v. Levy, 39 F. Supp. 44.
+
+28
+
+Straughn v. Schlumberger Well Surveying Corp., 72 F. Supp. 511.
+
+29
+
+(2) Similarly, coverage extends to employees engaged in the installation of machinery to be used in covered
+production in a new factory building, even though the construction of the building itself may not have been subject
+to the Act. Such installation is considered to be a preliminary production activity rather than simply part of the
+construction of the building.
+(3) If the construction project is subject to the Act, preliminary activities, such as surveying, clearing, draining
+and leveling the land, erecting necessary buildings to house materials and equipment, or the demolition of structures
+in order to begin building the covered facility, are subject to the Act.30
+
+Coverage of preparation of plans and designs is discussed in §776.19(b) (2).
+
+30
+
+(b) Facilities used in aid of the covered construction. The installation of facilities, and the repair and
+maintenance of trucks, tools, machinery and other equipment to be used by a contractor in the furtherance of his
+covered construction work, are activities subject to the Act.
+§776.29 Instrumentalities and channels of interstate commerce.
+(a) Typical examples. Instrumentalities and channels which serve as the media for the movement of goods and
+persons in interstate commerce or for interstate communications include railroads, highways, city streets; telephone,
+gas, electric and pipe line systems; radio and television broadcasting facilities; rivers, canals and other waterways;
+airports; railroad, bus, truck or steamship terminals; freight depots, bridges, ferries, bays, harbors, docks, wharves,
+piers; ships, vehicles and aircraft which are regularly used in interstate commerce.31
+31
+
+General coverage bulletin, §776.11.
+
+(b) General character of an instrumentality of interstate commerce. (1) An instrumentality of interstate
+commerce need not stretch across State lines but may operate within a particular State as a link in a chain or system
+of conduits through which interstate commerce moves.32 Obvious examples of such facilities are railroad terminals,
+airports which are components of a system of air transportation, bridges and canals. A facility may be used for both
+interstate and intrastate commerce but when it is so used it is nonetheless an interstate instrumentality. Such double
+use does not exclude construction employees from being engaged in commerce.
+32
+Mitchell v. Vollmer, ante; Bennett. v. V. P. Loftis, 167 F. (2d) 286 (C.A. 4); Overstreet v. North Shore Corp., ante;
+Rockton & Rion R. R. v. Walling, 146 F. (2d) 111, certiorari denied 324 U.S. 880; National Labor Relations Board v. Central
+Missouri Tel. Co., 115 F. (2d) 563 (C.A. 8).
+
+(2) The term instrumentality of interstate commerce may refer to one unit or the entire chain of facilities. An
+instrumentality such as a railroad constitutes a system or network of facilities by which the interstate movement of
+goods and persons is accomplished. Each segment of the network is integrally connected with the whole and must be
+viewed as part of the system as a whole, not as an isolated local unit.
+(3) A construction project which changes the interstate system as a whole, or any of its units, would have a
+direct bearing on the flow of interstate commerce throughout the network. Thus, the new construction of an alternate
+route or an additional unit which alters the system or any segment of it, would have such a direct and vital
+relationship to the functioning of the instrumentality of interstate commerce as to be, in practical effect, a part of
+such commerce rather than isolated local activity. For example, such construction as the maintenance, repair,
+replacement, expansion, enlargement, extension, reconstruction, redesigning, or other improvement, of a railroad
+system as a whole, or of any part of it, would have a close and intimate relationship with the movement of goods and
+persons across State lines. All such construction, therefore, is subject to the Act.
+(4) The same would be true with respect to other systems of interstate transportation or communication such
+as roads, waterways, airports, pipe, gas and electric lines, and ship, bus, truck, telephone and broadcasting facilities.
+Consequently, construction projects for lengthening, widening, deepening, relocating, redesigning, replacing and
+adding new, substitute or alternate facilities; shortening or straightening routes or lines; providing cutoffs, tunnels,
+trestles, causeways, overpasses, underpasses and bypasses are subject to the Act. Furthermore, the fact that such
+construction serves another purpose as well as the improvement of the interstate facility, or that the improvement to
+the interstate facility was incidental to other non-covered work, would not exclude it from the Act's coverage.33
+Tobin v. Pennington-Winter Const. Co., ante; Oklahoma v. Atkinson Co., 313 U.S. 508; Cuascut v. Standard Dredging
+Corp., 94 F. Supp. 197.
+33
+
+(c) Examples of construction projects which are subject to the Act. Coverage extends to employees who are
+engaged on such work as repairing or replacing abutments and superstructures on a washed out railroad bridge;34
+
+replacing an old highway bridge with a new one at a different location;35 removing an old railroad bridge and
+partially rebuilding a new one; repairing a railroad roundhouse, signal tower, and storage building; relocating
+portions of a county road; erecting new bridges with new approaches in different locations from the old ones;
+widening a city street; relocating, improving or extending interstate telephone facilities including the addition of
+new conduits and new trunk lines.36 Also within the scope of the Act are employees who are engaged in the
+construction, maintenance and repair of ships, barges and other vessels used for interstate commerce, including
+those belonging to the Government,37 and facilities used in the production and transmission of electric, fuel, water,
+steam and other powers to instrumentalities of interstate commerce.38
+Pedersen v. J. F. Fitzgerald, 318 U.S. 740.
+
+34
+
+Bennett v. V. P. Loftis Co., 167 F. (2d) 286 (C.A. 4).
+
+35
+
+Walling v. McCrady Const. Co., ante.
+
+36
+
+37
+Divins v. Hazeltine Electronics Corp., 163 F. (2d) 100 (C.A. 2); Cf. Walling v. Haile Gold Mines, Inc., 136 F. (2d) 102
+(C.A. 4).
+
+New Mexico Public Service Co. v. Engel, ante; Lewis v. Florida Light & Power Co., ante; Mitchell v. Mercer Water Co.,
+208 F. (2d) 900 (C.A. 3); Mitchell v. Brown Engineering Co., ante.
+38
+
+(d) Construction of new facilities. (1) In a case before the United States Supreme Court, the question was
+presented whether the Act applied to the construction of a new canal at some distance from the one then in use. The
+new canal was to be an alternate route for entering the Mississippi River and would relieve traffic congestion in the
+existing canal. The latter would continue in operation but could not be widened because of its location in a highly
+developed industrial section of New Orleans. The Court in holding the construction of the new canal to be within the
+coverage of the Act stated that the new construction was as intimately related to the improvement of navigation on
+the Gulf Intercoastal Waterway as dredging in the existing canal would be and that the project was “part of the
+redesigning of an existing facility of interstate commerce.”39 Thus the construction of a new facility in a network of
+instrumentalities of interstate commerce, in order to serve the system, or to function as an alternate route, or to
+relieve traffic congestion in another unit, or to replace an outmoded facility, is subject to the Act.
+Mitchell v. Vollmer & Co., ante; see also Bennett v. V. P. Loftis, ante.
+
+39
+
+(2) Similarly, the construction of a new unit, such as a new airport which is an addition to the entire interstate
+system of air transportation although not physically attached to any other unit, would, as a practical matter,
+necessarily expand, promote and facilitate the movement of interstate commerce over the airway system, and
+consequently, would be subject to the Act. In such a situation the interstate system, although composed of physically
+separate local units, is, as a whole, the instrumentality of commerce which is improved. In most cases such an
+addition would also directly enhance, improve or replace some particular nearby unit in the interstate network. The
+new addition would thus relieve traffic congestion and facilitate the interstate movement of commerce over the
+existing instrumentality as a whole, as well as at the particular nearby units. The same principle would apply to
+highways, turnpikes and similar systems of interstate facilities.
+(3) In like manner, the reconstruction, extension or expansion of a small unit in a system of interstate facilities,
+such as the enlargement of a small airport which is regularly used for interstate travel or transportation, is covered,
+regardless of the relative sizes of the original unit and the new one. The construction in such situations facilitates
+and improves the interstate commerce served by, and is directly related to the continued, efficient and effective
+operation of, both the particular original unit and the interstate system as a whole. Also, the construction of facilities
+such as hangars, repair shops and the like at a covered airport, which are “directly and vitally related to the
+functioning” of the instrumentality of commerce, would be subject to the Act.40
+Mitchell v. Vollmer & Co., ante.
+
+40
+
+(e) Construction on waterways. Courts have consistently held that the engagement in interstate commerce
+includes the maintenance, repair or improvement of navigable waterways even when the construction work is
+performed on the non-navigable parts of the instrumentality such as at the headwaters and watersheds or in tributary
+streams.41
+41
+Tobin v. Pennington-Winter Const. Co., ante; Oklahoma v. Atkinson Co., ante; United States v. Appalachian Power Co.,
+311 U.S. 426.
+
+Construction which improves rivers and waterways serving as instrumentalities of interstate commerce includes
+dredging; the building, maintenance, repair, replacement, reconstruction, improvement, or enlargement of dikes,
+revetments, levees, harbor facilities, retaining walls, channels, berths, piers, wharves, canals, dams, reservoirs and
+similar projects; also the removal of debris and other impediments in the waterway and flood control work in
+general.42
+Walling v. Patton-Tulley Transportation Co., 134 F. (2d) 945 (C.A. 6); Ritch v. Puget Sound Bridge & Dredging Co., 156
+F. (2d) 334.
+42
+
+The Act applies to construction work which increases the navigability of a waterway, protects it from floods or
+otherwise improves or maintains its use as an instrumentality of interstate commerce. The courts have held that a
+program for controlling floods is inseparably related to the stabilization and maintenance of the navigable channel of
+the river, since levees, dams, dikes and like structures, which hold back the waters in time of flood, at the same time
+confine a more efficient body of water during other periods by increasing its velocity and scouring and deepening its
+channels.43
+43
+Tobin v. Pennington-Winter Const. Co., ante; Tobin v. Ramey, 206 F. (2d) 505 (C.A. 5) certiorari denied, sub nom
+Hughes Construction Co. v. Secretary of Labor, 346 U.S. 925; Jackson v. U.S., 230 U.S. 1.
+
+(1) Flood control work in non-navigable parts of a waterway. Both Congress and the courts have considered
+that watersheds and headwaters are keys to the control of floods on navigable streams and that the control over the
+non-navigable parts of a river is essential for the prevention of overflows on the navigable portions. It is also well
+settled that in order to control floods on a navigable stream it is necessary to take flood control measures on its
+tributaries.
+(2) Basis of coverage. (i) The construction of a levee, dam or other improvement in any part of a river or its
+tributaries for the purpose of preventing floods or aiding navigation must be considered as an integral part of a single
+comprehensive project for improvement of the river system. Even though a particular levee or dike, by itself, may
+not effect an improvement, the courts have made it clear that the combined effect of a chain of such structures serves
+as the basis for determining coverage. The construction of a particular river structure may, therefore, be subject to
+the Act simply because it is part of a comprehensive system of structures, whose combined effect will achieve the
+improvement of the navigable channel. Thus, it has been held that site clearance work in the construction of a
+multiple-purpose dam on a non-navigable stream is covered by the Act where the work is an integral part of a
+comprehensive system for the control of floods and the betterment of navigation on the Arkansas and Mississippi
+Rivers.44 Similarly, the enlargement of a set-back levee, located from two to six miles from the banks of the
+Mississippi, was held to be covered because it was part of the Mississippi levee system even though the set-back
+levee, when viewed separately, was not directly related to the functioning of the Mississippi as an instrumentality of
+commerce.45
+Tobin v. Pennington-Winter Const. Co., ante.
+
+44
+
+Tobin v. Ramey, 205 F. (2d) 606, rehearing denied 206 F. (2d) 505 (C.A. 5) certiorari denied, sub nom Hughes
+Construction Co. v. Secretary of Labor, 346 U.S. 925.
+45
+
+(ii) The principle involved applies also to other instrumentalities of interstate commerce. As in the case of
+covered waterway projects, individual additions or improvements to other instrumentalities of interstate commerce
+may for coverage purposes be considered as part of a whole program rather than separately. The Act will apply to
+
+the construction in such situations if the unit, considered by itself or as part of a larger program, promotes the
+efficient or effective operation of the instrumentality of interstate commerce.
+(3) Construction of wharves, piers and docks. The Act also applies to the construction of new piers, wharves,
+docks and other facilities if they are integrated with the interstate commerce functions of an existing harbor.
+Similarly, the new construction of such facilities in other locations along the waterway is subject to the Act if they
+are regularly used by vessels carrying goods or persons in interstate commerce.
+(f) Highways, county roads and city streets—(1) Typical examples. As a generic term highways includes
+bridges, underpasses, overpasses, bypasses, county roads, access roads, city streets and alternate roads, draw
+bridges, toll bridges, toll roads and turnpikes, but does not include roads or parking facilities on privately owned
+land and which are not for use by the general public for interstate traffic.
+(2) Basis of coverage. The general rules for determining the coverage of employees engaged in the
+construction of other instrumentalities of interstate commerce apply to highway construction work. The United
+States Supreme Court has stated that in applying the Act to highway construction as to other coverage problems,
+practical rather than technical constructions are decisive.46 After the Court remanded the Overstreet case to the
+district court, the latter held that the employees engaged in maintaining and repairing the facilities regularly used
+and available for interstate commerce were engaged in commerce, regardless of the extent of the interstate traffic.47
+The court recognized that although the amount of the interstate commerce in the Overstreet case was very small it
+was regular and recurring and not occasional nor incidental. Thus, under the authoritative decision a percentage test
+is not regarded as a practical guide for ascertaining whether a particular facility is an instrumentality of interstate
+commerce.48 Employees who are engaged in the repair, maintenance, extension, enlargement, replacement,
+reconstruction, redesigning or other improvement of such a road are subject to the Act. The fact that the road is
+owned or controlled by the State or Federal Government or by any subdivision thereof would not affect the
+applicability of the Act. The same would be true if State or Federal funds were used to finance the construction. It
+should be noted, however, that if the employees are actually employees of a State, or a political subdivision thereof,
+they are excepted from coverage of the Act under section 3(d).
+Overstreet v. North Shore Corp., ante.
+
+46
+
+52 F. Supp. 503.
+
+47
+
+48
+North Shore Corp. v. Barnett, 143 F. (2d) 172 (C.A. 5); Schmidt v. Peoples Telephone Union of Maryville, Mo., 138 F.
+(2d) 13 (C.A. 8).
+
+(3) City streets. The construction, reconstruction or repair of a city street, whether residential or not, which is
+part of an interstate highway or which directly connects with any interstate highway is so closely related to the
+interstate commerce moving on the existing highway as to be a part of it. Construction of other streets, which are not
+a part of a public road building program and are constructed on private property as a part of a new residential
+development, will not be considered covered until further clarification from the courts.
+(4) New highway construction. Although a number of appellate court decisions have held that the construction
+of new highways is not within the coverage of the Act, these decisions relied upon the technical “new construction”
+concept which the United States Supreme Court has subsequently held to be inapplicable as the basis for
+determining coverage under this Act.49 Under the principles now established by that Court's decision, which require
+determination of coverage on the basis of realistic, practical considerations, the construction of new expressways
+and highways that will connect with an interstate highway system is so “related to the functioning of an
+instrumentality or facility of interstate commerce as to be, in practical effect, a part of it, rather than isolated, local
+activity.”50 Such highways and expressways not only are so designed as necessarily to become a part of or additions
+to an existing interstate highway system, but their construction is plainly of a national rather than a local character,
+as evidenced by the Federal financial contribution to their construction. And neither the fact that they are not
+dedicated to interstate use during their construction, nor the fact that they will constitute alternate routes rather than
+replacement of existing road, constitute sufficient basis, under the controlling court decisions, for excluding them
+
+from the coverage of the Act.51 Accordingly, unless and until authoritative court decision in the future hold
+otherwise, the construction of such new highways and expressways will be regarded as covered.
+49
+Compare Mitchell v. Vollmer, ante, with Koepfie v. Garavaglia, 200 F. (2d) 191 (C.A. 6); Moss v. Gillioz Const. Co., 206
+F. (2d) 819 (C.A. 10); and Van Klaveren v. Killian House, 210 F. (2d) 510 (C.A. 5). The Vollmer decision specifically rejected
+the applicability of the decision construing the Federal Employer's Liability Act, on which the cited appellate court decision
+relied.
+
+Mitchell v. Vollmer, ante; Walling v. Jacksonville Paper Co., ante; and Overstreet v. North Shore Corp., ante.
+
+50
+
+51
+Mitchell v. Vollmer & Co., ante; Tobin v. Pennington-Winter Const. Co., 198 F. (2d) 334, certiorari denied 345 U.S. 915;
+and Bennett v. V. P. Loftis Co., 167 F. (2d) 286.
+
+§776.30 Construction performed on temporarily idle facilities.
+The Act applies to work on a covered interstate instrumentality or production facility even though performed
+during periods of temporary non-use or idleness.52 The courts have held the Act applicable to performance of
+construction work upon a covered facility even though the use of the facility was temporarily interrupted or
+discontinued.53 It is equally clear that the repair or maintenance of a covered facility (including its machinery, tools,
+dies, and other equipment) though performed during the inactive or dead season, is subject to the Acts.54
+52
+Walton v. Southern Package Corp., 320 U.S. 540; Slover v. Wathen & Co., 140 F. (2d) 258 (C.A. 4); Bodden v.
+McCormick Shipping Corp., 188 F. (2d) 733; and Russell Co. v. McComb, 187 F. (2d) 524 (C.A. 5).
+
+53
+Pedersen v. J. F. Fitzgerald Construction Co., ante; Bennett v. V. P. Loftis, ante; Walling v. McCrady Const. Co., ante;
+and Bodden v. McCormick Shipping Corp., 188 F. (2d) 733.
+
+Maneja v. Waialua Agricultural Co., 349 U.S. 254; Bowie v. Gonzalez, 117 F. (2d) 11; Weaver v. Pittsburgh Steamship
+Co., 153 F. (2d) 597, certiorari denied 328 U.S. 858; Walling v. Keensburg Steamship Co., 462 F. (2d) 405.
+54
+
+

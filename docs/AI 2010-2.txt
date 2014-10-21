@@ -1,0 +1,186 @@
+Administrator's Interpretation No. 2010-2
+June 16, 2010
+Issued by DEPUTY ADMINISTRATOR NANCY J. LEPPINK
+
+SUBJECT: Section 3(o) of the Fair Labor Standards Act, 29 U.S.C. § 203(o), and the definition of “clothes.”
+
+Section 3(o) of the Fair Labor Standards Act (FLSA) provides that time spent “changing clothes or washing at
+the beginning or end of each workday” is excluded from compensable time under the FLSA if the time is
+excluded from compensable time pursuant to “the express terms or by custom or practice” under a collective
+bargaining agreement. 29 U.S.C. § 203(o). After a careful analysis of the statutory provision and a thorough
+review of the legislative history and case law, the Administrator is issuing this interpretation of the term
+“clothes” in § 203(o), and of whether clothes changing covered by § 203(o) is a principal activity, to provide
+needed guidance on these important and frequently litigated issues.
+The Meaning of Clothes Changing Under Section 3(o)
+The Administrator first considered whether protective equipment could be “clothes” under the § 203(o)
+exemption in a 1997 opinion letter. In that opinion letter the Administrator concluded that the time spent
+putting on, taking off and cleaning the protective equipment utilized in the meat packing industry was
+compensable and that the protective equipment did not constitute “clothes” under § 203(o). Wage and Hour
+Opinion Letter December 3, 1997. Recognizing that § 203(o) was an exemption that must be read narrowly,
+the 1997 opinion letter explained that the “plain meaning” of “clothes” as used in § 203(o) did not encompass
+protective equipment (e.g., mesh aprons, plastic belly guards, mesh sleeves or plastic arm guards, wrist wraps,
+mesh gloves, rubber gloves, polar sleeves, rubber boots, shin guards and weight belts). Id. Instead, “common
+usage dictate[d] that ‘clothes’ refer to apparel, not to protective safety equipment which is generally worn over
+such apparel and may be cumbersome in nature.” Id. In 1998 and 2001, the Wage and Hour Division (WHD)
+reaffirmed this interpretation in two subsequent opinion letters. Wage and Hour Opinion Letter February 18,
+1998; Wage and Hour Opinion Letter January 15, 2001.
+In 2002, departing from the previous interpretations, the Administrator opined that “clothes” under § 203(o)
+included the protective equipment typically worn by meat packing employees. Wage and Hour Opinion Letter
+FLSA2002-2. The opinion letter relied primarily on, inter alia, the definition of “clothes” in 1982 editions of two
+dictionaries in support of this view. In 2007, the Administrator reaffirmed this position. Wage and Hour Opinion
+Letter FLSA2007-10.
+Since 2002, courts have aptly noted the vastly divergent definitions of “clothes” that appear in a single
+dictionary, in different editions of a dictionary, and in different publishers’ dictionaries. Alvarez v. IBP, Inc., 339
+F.3d 894, 904-05 n.9 (9th Cir. 2003) (single 1939 dictionary source supported both defendant’s and plaintiffs’
+opposite positions on definition of “clothes” vis-à-vis § 203(o)), aff’d on other grounds, 546 U.S. 21 (2005);
+Sandifer v. United States Steel Corp., 2009 WL 3430222, at *5-6 (N.D. Ind. Oct. 15, 2009) (juxtaposing
+defendant’s reliance on 1986 dictionary for one definition of “clothes” under § 203(o), against plaintiffs’
+reliance on 1957 dictionary for opposite view). The Administrator shares these concerns about reliance on
+dictionary definitions of the term “clothes.” [1]
+
+[1]
+
+The Administrator retains the view expressed in the 1997 and 2002 opinion letters that the term “washing”
+in section 3(o) refers only to washing one’s person. The Conference Report on § 203(o) “limit[ed] this
+exclusion to time spent by the employee in changing clothes and cleaning his person at the beginning or at
+the end of each workday.” S. Rep. No. 81-640, at 2255 (1949) (Conf. Rep.), reprinted in 1949 U.S.C.C.A.N.
+
+Dictionary definitions offer little useful guidance here. Such definitions are, by design, a collection of a word’s
+various meanings depending on the context in which it is used. With regard to § 203(o), the coupling of the
+term “clothes” with the verb “changing,” the phrase “at the beginning or end of each workday,” and the
+statute’s legislative history provide a specific context within which to define the term “clothes.” [2]
+The legislative history surrounding § 203(o) is sparse but instructive. In explaining his reasons for introducing
+the amendment, Rep. Christian A. Herter posited a discrete example of discord that he intended the
+amendment to resolve; namely, the variance in baking industry collective bargaining agreements (CBAs) as to
+what constituted a work day. While debating § 203(o) on the House floor, Rep. Herter stated: “Let me be
+specific. In the bakery industry, for instance, . . . there are [CBAs] . . . . In some of those [CBAs], the time
+taken to change clothes and to take off clothes at the end of the day is considered a part of the working day.
+In other [CBAs] it is not so considered. But, in either case the matter has been carefully threshed out between
+the employer and the employee and apparently both are completely satisfied with respect to their bargaining
+agreements.” 95 Cong. Rec. H11210 (Aug. 10, 1949) (statement of Rep. Herter) (emphasis added).
+Congress inserted the phrase “changing clothes” to limit the bill’s original breadth. The original House bill
+permitted an employer and employee to “bargain away” any activity performed by an employee provided the
+activity was contained in the express terms, or was a custom or practice of, a collective bargaining agreement.
+See S. Rep. No. 640 (1949), reprinted in 1949 U.S.C.C.A.N. 2241, 2255. The corresponding Senate version (S.
+Bill 653) was not debated. When it was reported out of the Conference Committee, the provision did not retain
+its expansive application to all activity performed under a CBA. Instead, the Conference Committee narrowed
+the scope of § 203(o) by “limit[ing] this exclusion to time spent by the employee in changing clothes and
+cleaning [the employee’s] person at the beginning or at the end of the workday.” 95 Cong. Rec. 8, 14929 (Oct.
+17, 1949) (emphasis added). The “clothes” that Congress had in mind in 1949 when it narrowed the scope of §
+203(o)—those “clothes” that workers in the bakery industry changed into and “took off” in the 1940s—hardly
+resemble the modern-day protective equipment commonly donned and doffed by workers in today’s meat
+packing industry, and other industries where protective equipment is required by law, the employer, or the
+nature of the job.
+In recent years, several courts have adopted a “plain meaning” of the term “clothes”—one that is more faithful
+to the legislative intent behind the Fair Labor Standards Act and consistent with the 1997, 1998 and 2001
+Wage and Hour opinion letters. In 2005, the Supreme Court held that time spent walking between the locker
+rooms where meat processing workers donned their protective equipment and the production area was
+compensable. IBP v. Alvarez, 546 U.S. 21 (2005). While the parties did not appeal the issue to the Supreme
+Court, the Ninth Circuit concluded in Alvarez v. IBP, Inc., 339 F.3d 894, 905 n.9 (9th Cir. 2003), aff’d on other
+grounds, 546 U.S. 21 (2005), that protective equipment does not fit within the definition of “clothes” under §
+203(o), thereby making compensable the time workers spend donning and doffing that equipment.
+Recognizing the “doctrinal, statutory, and legislative lacunae” that surrounded § 203(o)’s interpretation, the
+Ninth Circuit rejected the 2002 opinion letter and instead “[gave] the relevant language its ‘ordinary,
+contemporary, common meaning.’” Id. at 904; accord Reich v. IBP, Inc., 38 F.3d 1123, 1126 (10th Cir. 1994).
+Following Alvarez’s lead, three district courts have concluded that time spent donning and doffing protective
+equipment worn by meat packing employees is a compensable activity. See In re Cargill Meat Solutions Wage
+2241, 2243 (emphasis added). See Johnson v. Koch Foods, Inc., 2009 WL 3817447, at *9-10 (E.D. Tenn.
+Sep. 25, 2009); Burks v. Equity Group-Eufala Division, LLC, 571 F. Supp. 2d 1235, 1243-44 (M.D. Ala. 2008);
+Saunders v. John Morrell & Co. , 1991 WL 529542, at *4 (N.D. Iowa Dec. 24, 1991); contra Sepulveda v.
+Allen Family Foods, Inc., No. 08-2256 (4th Cir. Dec. 29, 2009).
+[2]
+
+Legislative history is often instructive in understanding the meaning Congress intended to give specific
+statutory language. When construing labor legislation, the Supreme Court has noted that “its proper
+construction frequently requires consideration of its working against the background of its legislative history
+and in light of the general objectives Congress sought to achieve.” Wirtz v. Bottle Blowers Ass’n, 389 U.S.
+463, 468 (1968).
+
+& Hour Litig., 2008 WL 6206795 (M.D. Pa. Apr. 10, 2008) (protective equipment worn by meat processing
+employees was not clothing under § 203(o)); Spoerle v. Kraft Foods Global, Inc., 527 F. Supp. 2d 860, 868
+
+(W.D. Wis. 2007) (“donning and doffing of safety and sanitation equipment on the work site” not covered by §
+203(o)); Gonzalez v. Farmington Foods, Inc., 296 F. Supp. 2d 912 (N.D. Ill. 2003) (donning and doffing of
+“sanitary and safety equipment,” including helmet, smock, plastic apron, arm guard, belly guard, plastic arm
+sleeve, a variety of gloves, a hook, knife holder, a piece of steel to straighten the edge of a knife blade, and
+knives, does not constitute “changing clothes” under § 203(o)); see also Spoerle v. Kraft Foods Global, Inc.,
+626 F. Supp. 2d 913 (W.D. Wis. 2009). [3] It is the opinion of the Administrator that it is the analysis set out in
+these court decisions that is most consistent with the statutory language and adheres most closely to the
+guidance provided by the legislative history.
+Finally, the 2002 opinion letter further supported its determination that the equipment worn by meat packing
+employees is clothing by referring to cases and regulations that include “face shields” and “impermeable
+gloves” as “protective clothing.” Insofar as § 203(o) and its legislative history refer only to “clothes”—and not
+to “protective clothing”—these references shed little light on the statutory meaning of the term “clothes” other
+than to illustrate that “clothes” and “protective clothing” are different.
+Based on its statutory language and legislative history, it is the Administrator’s interpretation that the § 203(o)
+exemption does not extend to protective equipment worn by employees that is required by law, by the
+employer, or due to the nature of the job. This interpretation reaffirms the interpretations set out in the 1997,
+1998 and 2001 opinion letters and is consistent with the “plain meaning” analysis of the Ninth Circuit in
+Alvarez. Those portions of the 2002 opinion letter that address the phrase “changing clothes” and the 2007
+opinion letter in its entirety, which are inconsistent with this interpretation, should no longer be relied upon.
+Section 3(o) Clothes Changing can be a Principal Activity
+Generally, donning and doffing, which may include clothes changing, can be a “principal activity” under the
+Portal to Portal Act, 29 U.S.C. § 254. IBP v. Alvarez, 546 U.S. 21, 30 (2005). The Supreme Court in Alvarez
+explicitly held that activities that are integral and indispensable are principal activities, and activities occurring
+after the first principal activity and before the last principal activity, are compensable. Alvarez, 546 U.S. at 37.
+Thus time spent in donning and doffing activities, as well as any walking and waiting time that occurs after the
+employee engages in his first principal activity and before he finishes his last principal activity, is part of the
+“continuous workday” and is compensable under the FLSA. Id. at 37. We now consider whether changing
+clothing that is made non-compensable by § 203(o), remains a principal activity that may start the continuous
+workday.
+The leading case, which addresses this issue, is Figas v. Horsehead Corp., 2008 WL 4170043 (W.D. Pa.). The
+Figas court looked to the plain language of § 203(o). It noted that the section excludes “any time spent in
+clothes changing or washing at the beginning or end of each workday.” Id. at *19, quoting 29 U.S.C. § 203(o)
+(emphasis in original). The court explained that under this statutory language “the excluded time is considered
+to be a part of the workday.” Id. (emphasis in original). Because activities that are within the workday are
+compensable under the Portal Act, the language of § 203(o) supports the compensability of the activities that
+follow clothes changing. The Figas court observed that § 203(o) “does not make donning and doffing activities
+any less ‘integral and indispensable’ to the employees’ performance of their daily tasks. In other words, the
+[3]
+
+Since 2002, two appellate courts have concluded that the word “clothes” under § 203(o) includes the
+equipment donned and doffed by workers in poultry processing plants. See Sepulveda v. Allen Family Foods,
+Inc., No. 08-2256 (4th Cir. Dec. 29, 2009) and Anderson v. Cagle’s, Inc., 488 F.3d 945 (11th Cir. 2007); see
+also Allen v. McWane Inc., 593 F.3d 449, 2010 WL 47919 (5th Cir. Jan. 8, 2010) (protective gear worn in
+manufacturing plant constitutes “clothes” under section 3(o)). Although the rationale on which these opinions
+are based may not be consistent with the views expressed here, and we do not agree that all of the gear
+worn by the workers in those cases qualifies as clothes under § 203(o), those decisions were rendered in the
+context of the donning and doffing of lighter gear which was, in large part, different from the protective
+equipment that was the subject of the 1997, 1998, and 2001 opinion letters.
+
+character of donning and doffing activities is not dependent upon whether such activities are excluded
+pursuant to a collective-bargaining agreement.” Figas, 2008 WL 4170043 at * 20 (emphasis in original). To
+hold otherwise would expand the § 203(o) exclusion well beyond the language of the statute. Id.
+The 2007 opinion letter, however, stated that § 203(o) activities cannot be principal activities. Wage and Hour
+Opinion Letter FLSA2007-10. The Tennessee district court in Sisk v. Sara Lee Corp. agreed, relying mainly on
+that opinion. Sisk v. Sara Lee Corp., 590 F. Supp. 2d 1001, 1011 (W.D. Tenn. 2008). The court observed that it
+might be considered odd to trigger the continuous workday with a non-compensable act, where, for example,
+it might take 30 minutes to travel from the locker room to a worksite. Another district court concluded that
+because clothes changing covered by § 203(o) is excluded from hours worked, it is not a principal activity.
+Hudson v. Butterball, LLC, 2009 WL 3486780, *4 (W.D. Mo.).
+The weight of authority is to the contrary, with the majority of district courts rejecting the opinion letter. The
+Figas court noted that the “conclusory” 2007 opinion letter “provides no basis for concluding that a ‘principal
+activity’ somehow becomes ‘preliminary’ or ‘postliminary’ merely because employees need not be compensated
+for the time taken to perform it.” Id. at *19. Other courts are in agreement with Figas. In Re Tyson Foods,
+Inc., 2010 WL 935595 *10 (M.D. Ga.) (“§ 203(o) only relates to the compensability of time spent donning,
+doffing, and washing of the person and that does not mean that 203(o) tasks cannot be considered principal
+activities that start the continuous workday.”); Arnold v. Schreiber Foods, Inc., 2010 WL 455248 at * 15, n.15
+(M. D. Tenn.) (“§ 203(o), by its terms, applies only to clothes changing that occurs ‘at the beginning or end of
+each workday.’ This implies that such activities are work and that the continuous-work-day clock has already
+started to run.”); Sandifer v. United States Steel Corp., 2009 WL 3430222 at *40 (N.D. Ind.) (“The court can’t
+conclude as a matter of law that the non-compensability . . . under [§ 203(o)] excludes consideration of
+whether, pursuant to [the Portal Act], those activities are an integral and indispensable part of the employees’
+principal activities . . . .”); Andrako v. United States Steel Corp., 632 F. Supp. 2d 398, 412-413 (W.D. Pa. 2009)
+(“Section 203(o) relates to the compensability of time spent donning, doffing and washing in the collectivebargaining process. It does not render such time any more or less integral or indispensable to an employee’s
+job.”); Johnson v. Koch Foods Inc., 2009 WL 3817447, * 32 (E.D. Tenn.) (“[I]f the donning, doffing, and
+washing excluded by 203(o) are determined by the trier of fact to be integral and indispensable, those
+activities could commence the workday.”); Gatewood v. Koch Foods of Mississippi, LLC, 569 F. Supp. 2d 687,
+702 (S.D. Miss. 2008) (“Although the statute precludes recovery for time spent washing and ‘changing clothes,’
+it does not affect the fact that these activities could be the first ‘integral and indispensable’ act that triggers the
+start of the continuous workday rule for subsequent activities . . .”).
+Consistent with the weight of authority, it is the Administrator’s interpretation that clothes changing covered by
+§ 203(o) may be a principal activity. Where that is the case, subsequent activities, including walking and
+waiting, are compensable. The Administrator issues this interpretation to assist employees and employers in all
+industries to better understand the scope of the § 203(o) exemption.
+
+

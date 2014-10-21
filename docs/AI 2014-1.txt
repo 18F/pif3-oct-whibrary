@@ -1,0 +1,664 @@
+Administrator's Interpretation No. 2014-1
+March 27, 2014
+Issued by PRINCIPAL DEPUTY ADMINISTRATOR LAURA A. FORTMAN
+
+SUBJECT: The application of the Fair Labor Standards Act to home care services provided through shared living
+arrangements, including adult foster care and paid roommate situations.
+
+In the course of promulgating Application of the Fair Labor Standards Act to Domestic Service; Final Rule, 78
+Fed. Reg. 60,454 (Oct. 1, 2013), the Department received comments regarding “shared living” and “adult
+foster care” arrangements. These terms are used to refer to particular types of innovative home care
+programs—funded through Medicaid, other public programs, private pay, or other sources—in which people
+with disabilities or older adults and the people who provide home care services to them live together in order
+to allow the service recipients to live in their own homes or with families in their communities rather than living
+in congregate community settings (such as group homes) or in institutions.
+Although the Final Rule contains a discussion of the application of the domestic service employment regulations
+to circumstances in which a consumer receives services from a live-in roommate, the Department noted in the
+preamble that it could not “address all shared living arrangements raised in the comments because the
+circumstances are different under countless factual scenarios.” 78 Fed. Reg. 60,476. As the Department began
+outreach to the regulated community, in particular to state representatives who administer Medicaid-funded
+and other home care programs, it became clear that additional guidance about the application of the Fair Labor
+Standards Act (“FLSA” or “the Act”), 29 U.S.C. § 201 et seq., to innovative shared living programs, much of
+which was not affected by the Final Rule, would be useful. To that end, this document discusses how
+longstanding FLSA principles apply to the particular facts of shared living arrangements.1
+Part I of this document defines the set of arrangements it is intended to address. Part II explains how to
+determine whether the FLSA applies to a particular set of circumstances, addressing first whether an
+employment relationship exists, second whether an employer is covered under the Act, and third whether an
+employee is exempt from the Act’s requirements. Part III explains how to comply with the FLSA if it does
+apply. It addresses first how to determine the number of hours for which a particular employee must be paid,
+with an emphasis on the special rules for employees who live where they work. Second, it describes how to
+pay employees for their hours worked in accordance with the Act’s requirements.
+I. Introduction
+Because the Department understands that states use the terms “shared living” and “adult foster care” (as well
+as other terms, such as “host home,” “paid roommate,” “supported living,” or “life sharing”) to refer to
+programs with a variety of structures, it is necessary to describe the types of programs to which the analysis
+provided in this document applies. For purposes of the FLSA, what a program is called or how it is categorized
+by Medicaid or a state is not significant. Instead, the particular facts of the arrangement between a consumer,
+provider, and public and/or private agency administering the program control whether and how the Act
+applies.2
+The types of arrangements this document addresses are those in which a consumer and provider share a
+home in order to allow the consumer to remain in his home and community. The shared home may have been
+the preexisting residence of the consumer (typically called a “paid roommate” situation) or of the provider
+(typically called “adult foster care” or a “host home”), or it may be a new, joint residence. Shared living
+arrangements may also occur in the family home of the consumer with a family member serving as the
+provider. Although some shared living arrangements may involve more than one consumer (for example, if a
+
+single provider shares a three-bedroom house with two consumers), shared living arrangements are to be
+distinguished from group homes that are designed to offer services to multiple consumers, have shifts of
+workers, and do not offer the same level of community integration or autonomy as shared living.3 Examples of
+shared living scenarios include:
+A high-needs consumer moves into the home of the provider and becomes part of the provider’s family,
+sharing in family meals and activities. The consumer goes to a day program during weekdays, but at other
+times, the provider provides constant care and attention to the consumer, including by transporting him to his
+doctor’s appointments and other engagements. The provider hires respite staff to stay with the consumer
+when she cannot be with him.
+A consumer’s father becomes the consumer’s adult foster care provider, meaning that the consumer remains in
+her family home and the father receives a daily stipend as compensation for providing care to his daughter. To
+participate in the program, the father must ensure that the family home complies with the host home
+qualifications set by the program, so he installs a wheelchair-accessible ramp for access to the front door.
+A provider trained in providing care to individuals with significant disabilities moves into the home of a
+consumer who needs constant assistance in her home and community when not at her day program. The
+provider does not pay room and board and receives a monthly stipend as compensation for her services.
+A friend from church agrees to move together into a two-bedroom apartment with a consumer who previously
+lived with her family; the friend is required to sleep at the residence to be available for nighttime emergencies
+but otherwise has no responsibilities with respect to the consumer. The friend and consumer often go to social
+or community events together, though no such interactions are mandated by the agency that facilitates the
+arrangement. The consumer’s family rents the apartment; the friend does not contribute to the rent.
+A college student moves into the extra bedroom in a home owned by an 80-year-old man who needs
+assistance with bathing and dressing in the mornings and preparing for sleep at night. She is also required to
+sleep at the residence so she is available if the consumer needs assistance during the night. The student does
+not pay rent and receives an hourly wage for the time she spends providing assistance to the consumer.
+A provider lives in an apartment in the same complex as two adults with developmental disabilities who can
+live on their own but need someone to check in on them daily and be available in case of emergencies. The
+provider’s rent is paid through a Medicaid program in the state that has helped organize this arrangement for
+the two consumers.
+II. Whether the FLSA Applies
+Assessing whether the FLSA’s requirements apply to a given work situation calls for making several
+determinations about the particular circumstances at issue. Specifically, the FLSA applies if there is (1) an
+employment relationship between (2) a covered employer and (3) a nonexempt employee.
+1. Employment Relationship
+The FLSA mandates that, unless an exemption applies, an “employer” pay its “employees” in compliance with
+the Act’s minimum wage and overtime requirements. 29 U.S.C. §§ 206, 207. The statute’s definitions of these
+terms are expansive and meant to indicate that the law applies to a broad range of employment relationships.
+29 U.S.C. §§ 203(d), (e)(1), (g); Nationwide Mut. Ins. Co. v. Darden, 503 U.S. 318, 326 (1992) (citing
+Rutherford Food Corp. v. McComb, 331 U.S. 722, 728 (1947)); United States v. Rosenwasser, 323 U.S. 360,
+362 (1945). Therefore, an employment relationship exists where a worker is, “as a matter of economic reality,
+... economically dependent upon the alleged employer.” Hopkins v. Cornerstone Am., 545 F.3d 338, 343 (5th
+Cir. 2008) (citing Darden, 503 U.S. at 326; Herman v. Express Sixty-Minutes Delivery Serv., Inc., 161 F.3d 299,
+303 (5th Cir. 1998)). Only a worker who is instead “in business for himself” is an independent contractor to
+whom the Act does not apply. Brock v. Superior Care, Inc., 840 F.2d 1054, 1059 (2d Cir. 1988) (citing Bartels
+v. Birmingham, 332 U.S. 126, 130 (1947); Donovan v. Tehco, Inc., 642 F.2d 141, 143 (5th Cir. 1981)).
+To determine whether an employment relationship exists, the Department and courts apply the “economic
+realities” test, which calls for consideration of various factors. See, e.g., Scantland v. Jeffry Knight, Inc., 721
+
+F.3d 1308, 1311-12 (11th Cir. 2013). One factor in considering whether a worker is an employee or an
+independent contractor is the degree of control exercised or retained by the potential employer, such as
+whether the employer determines the worker’s schedule and the order in which she will complete tasks. See
+id.; Baker v. Flint Eng’g & Constr. Co., 137 F.3d 1436, 1441 (10th Cir. 1998). Additional factors include: the
+extent of the relative investments of the employer and the individual, the individual’s opportunity for profit and
+loss depending on her managerial skill, whether the work performed requires any special skills, the
+permanency of the relationship, and the extent to which the work performed is an integral part of the
+employer’s business. See, e.g., Scantland, 721 F.3d at 1312. No single factor is determinative; rather, each is
+meant to aid in an overall assessment of whether the worker is economically dependent on the potential
+employer. Id. (citing Usery v. Pilgrim Equip. Co., 527 F.2d 1308, 1311-12 (5th Cir. 1976)).
+In the home care context, a provider could be in an employment relationship with the consumer (or the
+consumer’s family, household member, or other representative), a third party such as a public or private
+agency administering the home care program, both, or neither. As a preliminary note, the provider’s status as
+a family member of the consumer does not change the analysis of the economic realities factors described
+here; a provider could be the employee of a consumer to whom she is related, a third party, both, or neither.4
+a. Is the provider an employee of the consumer?5
+The fact-specific nature of the economic dependence inquiry makes absolute categorical assessments of the
+status of home care providers impossible. It appears, however, that in most circumstances, a provider who
+brings a consumer into her existing home—through what will often be called an adult foster care6 or host home
+program—will not be an employee of the consumer or the consumer’s representative and, if the provider is
+also not the employee of a third party (see below), he or she may be considered an independent contractor.
+Typically, if a consumer has moved into the existing home of a provider, the provider will determine (with
+consideration of the consumer’s needs and preferences) much of the way daily life proceeds, such as the
+routines and schedules within the home. In other words, although the provider will take the consumer’s
+preferences into account, on the whole, adult foster care providers often integrate the consumer into an
+existing set of circumstances rather than taking direction from the consumer. Furthermore, in such
+arrangements, the provider makes investments in order to take on the role, whereas the consumer has not.
+Specifically, the provider has obtained and maintains the home in which the services are provided and may
+have made modifications to the home, such as making a bathroom wheelchair accessible or transforming a
+first-floor room into a bedroom, in order to be permitted to become the consumer’s provider. In situations in
+which the provider exercises control over the conditions of the work rather than taking direction from the
+consumer and has invested in the arrangement, the provider is more like an independent business than an
+employee of the consumer.7
+Conversely, it will often, though not always, be the case that a provider who moves into the home of a
+consumer is the consumer’s employee. In these types of shared living arrangements, the consumer is more
+likely to set his own schedule, direct the provider how and when to perform certain tasks, and otherwise
+exercise control over the conditions of the provider’s work. Additionally but less significantly, the provider is
+unlikely to have invested in the arrangement, whereas the consumer has acquired a home in which there is
+sufficient space for the provider to also reside.
+The Department recognizes that a spectrum of shared living arrangements exist, and it will not always be the
+case that either the provider or the consumer previously occupied the residence in which the arrangement
+occurs; the two may move in together, for instance, because neither previously lived in a residence that would
+accommodate them both. Similarly, it will not always be the case that only the provider or only the consumer
+has some ownership interest in the residence; for example, both individuals may be named on the lease, or the
+consumer and provider may have an agreement that the individual who does not own or lease the residence
+may have some protections from eviction. Although these facts may be relevant to assessing whether an
+employment relationship exists, none alone is determinative. The circumstances as a whole are significant, and
+all facts that go to who controls the residence and relationship—such as who identified the residence, arranged
+to buy or lease it, furnished common areas, maintains the residence (for example, by cleaning it and making
+repairs), and pays the mortgage or rent—are relevant to the control factor of the economic realities analysis.
+
+For example, if in order to become an adult foster care provider, an individual moves from a one-bedroom to a
+two-bedroom apartment, furnishing the apartment except for the second bedroom and arranging for certain
+upgrades so that it meets program requirements, and then a consumer moves in and his name is added to the
+lease, the provider is likely not an employee of the consumer. On the other hand, if a provider and consumer
+agree to become roommates, together identify and rent an apartment they like, jointly furnish the apartment,
+and share responsibility for keeping the apartment clean and purchasing food, assuming the consumer
+exercises control over the residence, the consumer is likely the employer of the provider.
+b. Is the provider an employee of a third party?
+The question whether a third party that administers the shared living arrangement is in an employment
+relationship with a provider, either as the sole employer or a joint employer, calls for a separate economic
+realities analysis.8 In the shared living context, the third party may be a public agency, a private entity that
+acts as an intermediary for the state, or a private company or non-profit organization that facilitates privately
+funded arrangements. Again, the outcome of the economic realities test depends on the particular facts of
+each scenario, so the Department cannot broadly state whether shared living providers will be employees of
+third party program administrators. The extent to which the third party is involved in determining a provider’s
+conditions of employment or influencing the manner in which the provider performs services will distinguish
+those providers who are not employed by a third party from those who are.9
+In most shared living arrangements that occur in the existing home of the provider, the involvement of the
+state or intermediary agency primarily includes limited oversight of the provider. The third party will make an
+initial determination that the provider meets the program’s qualifications, facilitate matching the provider and
+consumer, and perform follow-up visits to ensure that the arrangement is satisfactory. In other words,
+although the third party oversees quality management and monitors compliance with licensing and other
+requirements, the management of the residence and day-to-day provision of services is left to the provider and
+occurs without the involvement of the third party. The third party will also set the amount the adult foster care
+provider is paid. In these circumstances, the provider, who for the reasons explained above is likely not an
+employee of the consumer, will properly be deemed an independent contractor rather than an employee of the
+third party. If, however, the case manager or other representative of the third party is so involved in the
+provider’s relationship with the consumer that the third party’s role becomes one of direction and
+management, the provider may instead be an employee of the third party (even if she is not the employee of
+the consumer). For example, if the third party finds and rents a residence in which the arrangement can occur,
+or if the case manager makes frequent visits or phone calls to the home to specifically instruct the provider
+about particular tasks to perform or ways to or not to fulfill duties, the provider will likely be an employee of
+the third party. Furthermore, in some circumstances, adult foster care providers may be part of a collective
+bargaining agreement with a state. In those cases, the economic realities analysis must take into account
+whether the terms of the agreement reflect sufficient involvement by the state with the providers’ conditions of
+employment to demonstrate that an employment relationship exists.
+Similarly, in shared living arrangements that occur in the consumer’s home, the determination of whether a
+third party is a joint employer along with the consumer will depend on the role of the third party viewed in
+light of the economic realities test.10 If the third party is involved in determining what tasks a provider will
+perform and when those tasks will occur, or if it otherwise controls the manner in which the provider performs
+her work, the provider is likely to be an employee of the third party. For instance, if a provider must ask
+permission of the third party to be away from the residence or to make a change to the consumer’s daily
+schedule, those facts weigh in favor of a finding of employee status. On the other hand, if a provider whose
+responsibility as a roommate is to sleep at the home must notify a third party that she will need to be away
+from the residence overnight but the third party cannot refuse to grant her request or sanction her for not
+being at the residence at certain times, those facts would not weigh in favor of a determination that the
+provider is an employee of the third party. Additionally, if a third party collectively bargains with providers or is
+otherwise involved in determining providers’ conditions of employment—such as, but not limited to, wage
+rates, vacation or sick time, health insurance, or other benefits—the third party will likely be a joint employer
+of the provider.
+
+2. Covered Employer
+If an employment relationship exists, the FLSA applies if the employer is covered and the employee is not
+exempt from the Act. The facts relevant to a determination of whether an employer is FLSA-covered depend
+on whether services are provided in the consumer’s “private home” because under the FLSA, services of a
+household nature provided in or about the private home of the person receiving the services constitute
+“domestic service employment,” 29 C.F.R. § 552.3,11 as to which special coverage rules apply.
+a. In a provider’s home
+An adult foster care program or other arrangement in which a consumer moves into the existing home of a
+provider almost certainly does not involve services provided in the consumer’s private home,12 and therefore
+the provider’s work does not constitute domestic service employment. Accordingly, the general coverage rules
+apply to these circumstances.
+Under the FLSA, an employer that is a “public agency” is covered. 29 U.S.C. § 203(s)(1)(C). A “public agency”
+includes “the Government of the United States; the government of a State or political subdivision thereof; [or]
+any agency of the United States …, a State, or a political subdivision of a State.” Id. § 203(x). Therefore, any
+state or state agency that employs a home care provider is an FLSA-covered employer.
+Additionally, a company or organization that is an enterprise with an annual gross volume of business of
+$500,000 or more is an FLSA-covered employer. 29 U.S.C. § 203(s)(1)(A)(ii). Therefore, if a private agency
+that acts as an intermediary between a state and providers is in an employment relationship with those
+providers and handles the requisite dollar volume of business, it is a covered employer.
+Finally, FLSA coverage exists if an employee is engaged in interstate commerce, even if the employer—such as
+a consumer or a private agency with a small dollar volume of business—would not otherwise meet the
+coverage requirements. See 29 U.S.C. §§ 206, 207. An employee is engaged in interstate commerce if, for
+example, she regularly travels between states in the course of her job; isolated, insubstantial engagement in
+interstate commerce does not meet this threshold. Wage & Hour Division Field Operations Handbook § 11a01;
+see also Bowrin v. Catholic Guardian Soc., 417 F. Supp. 2d 449, 470, 471 (S.D.N.Y. 2006) (holding that
+employees of group homes for children were individually covered based on regular trips transporting the
+children across state lines). Therefore, for example, a provider who transported a consumer to doctor’s
+appointments or family visits in a neighboring state each week would be individually covered regardless of the
+identity of her employer.
+b. In the consumer’s private home
+Shared living arrangements that occur in the consumer’s private home, such as those in a residence in which
+the consumer lived before the provider moved in and/or in which the consumer could continue to live even
+were the arrangement to end,13 involve domestic service employment. The FLSA provides that it applies to
+domestic service employment if the employee earns at least $1,900 in annual wages14 or performs domestic
+service in one or more households for more than eight hours in a workweek. 29 U.S.C. § 206(f). Based on the
+time a shared living provider performs services for the consumer or is required to be at the residence
+(including overnight hours), the employer of a provider-employee in a shared living arrangement that occurs in
+the consumer’s private home will essentially always be covered.
+3. Nonexempt Employee
+Even if an employment relationship exists and the employer is covered, the FLSA creates certain exemptions
+that, if satisfied, mean the Act does not apply. Many of these exemptions are inapplicable to home care work,
+but two exemptions are relevant to certain home care providers whose work constitutes domestic service
+employment, i.e., occurs in or about the private home of the individual receiving services. Specifically,
+domestic service employees performing “companionship services” need not be paid in compliance with the
+
+Act’s minimum wage and overtime protections, 29 U.S.C. § 213(a)(15), and domestic service employees who
+“reside[]” in the households in which they work need not be paid in compliance with the Act’s overtime
+requirement, id. § 213(b)(21). Importantly, under the Final Rule, only a consumer, or the consumer’s family or
+household, may claim these exemptions; any third party employer may not even if the exemptions would
+otherwise be applicable. 78 Fed. Reg. 60,480-83.15
+a. Companionship services
+The Final Rule narrowed the definition of “companionship services” to ensure that FLSA protections apply to
+most workers who provide home care services. 78 Fed. Reg. 60,459, 60,463-73. As of the effective date of the
+Final Rule, January 1, 2015, “companionship services” means the provision of “fellowship” and “protection.” 78
+Fed. Reg. 60,557 (to be codified at 29 C.F.R. § 552.6). “Fellowship” means “to engage the person in social,
+physical, and mental activities, such as conversation, reading, games, crafts, or accompanying the person on
+walks, on errands, to appointments, or to social events.” Id. “Protection” means “to be present with the person
+in his or her home or to accompany the person when outside of the home to monitor the person’s safety and
+well-being.” Id. Companionship services can also include the provision of “care” if the care is provided
+“attendant to and in conjunction with the provision of fellowship and protection and if it does not exceed 20
+percent of the total hours worked per person and per workweek.” Id. In this context, “care” means assistance
+with activities of daily living (ADLs), “such as dressing, grooming, feeding, bathing, toileting, and transferring”
+and instrumental activities of daily living (IADLs), “such as meal preparation, driving, light housework,
+managing finances, assistance with the physical taking of medications, and arranging medical care.” Id.
+Companionship services do not include “domestic services performed primarily for the benefit of other
+members of the household,” nor “the performance of medically related services” for the consumer. Id.
+“Medically related services” are services that “typically require and are performed by trained personnel, such as
+registered nurses, licensed practical nurses, or certified nursing assistants” regardless of the actual training or
+occupational title of the provider. Id.16
+Therefore, whether a provider employed solely by a consumer in a shared living arrangement that occurs in
+the consumer’s private home is entitled to FLSA protections will depend on the tasks she performs for the
+consumer. For example, a provider who helps a consumer bathe and dress each morning, prepares the
+consumer’s meals, and assists the consumer with preparing for bed in the evening and does not provide other
+services is not providing companionship services and therefore is performing domestic service employment that
+is subject to FLSA protections. Similarly, a provider who provides daily assistance with tube feeding is providing
+medically related services, and therefore, regardless of her other duties, her work does not fall within the
+companionship services exemption. On the other hand, a provider whose only responsibility is to spend nights
+at the residence in case of emergencies is providing companionship services in a given workweek if: (1) the
+provider does not spend more than 20 percent of her work hours assisting the consumer with ADLs and IADLs
+and does not perform medically related services and (2) the provider is not an employee of a third-party entity,
+such as a public or private agency administering the program through which the shared living arrangement
+was developed. If those two conditions are met, the provider need not be paid in compliance with the FLSA.
+b. Live-in domestic service employee
+A live-in domestic service employee is one who resides in the private home of the person receiving services. 29
+C.F.R. § 552.102. For this purpose, “reside” means to live in the home on a “permanent basis,” i.e., to stay
+there seven nights a week and have no other home, or for “extended periods of time,” i.e., to work and sleep
+there for five days a week (120 hours or more) or five consecutive days or nights (regardless of the total
+number of hours). 78 Fed. Reg. 60,474.17
+In shared living arrangements that occur in the consumer’s private home, the provider will most often “reside”
+in the consumer’s home. In most circumstances, the provider will permanently reside in the home of the
+consumer because he or she has no other home.18 A provider who resides in the consumer’s private home is a
+live-in domestic service employee, and if she is not an employee of a third party, she need not be paid
+overtime compensation for any hours she works over 40 in a workweek.19
+
+III. How to Apply the FLSA
+To the extent it applies, the FLSA requires that an employee receive, for all hours worked, at least the
+minimum wage, and for all hours worked over 40 in a workweek, one and a half times the hourly wage.
+1. Hours Worked
+Proper payment under the FLSA’s minimum wage and overtime requirements requires a determination of how
+many hours an employee has worked in a workweek. The Department has issued guidance regarding how to
+make such a determination for employees generally and for live-in employees in particular.
+a. General principles
+As a general matter, under the FLSA, hours worked includes all time spent performing tasks for the benefit of
+the employer or waiting to perform such tasks (i.e., being “engaged to wait”). 29 C.F.R. § 785.6; IBP, Inc. v.
+Alvarez, 546 U.S. 21, 25 (2005). For example, in the shared living context, time a provider spends bathing a
+consumer is hours worked, as is time the provider waits at a doctor’s office to drive the consumer home from
+an appointment. Work performed outside of assigned work hours is hours worked if the employer knew or had
+reason to know the work tasks were occurring. 29 C.F.R. § 785.11. For example, if a provider usually assists a
+consumer with physical therapy exercises for an hour each day but on one day the exercises take an hour and
+half, the additional half hour is hours worked.
+On the other hand, “[p]eriods during which an employee is completely relieved from duty and which are long
+enough to enable him to use the time effectively for his own purposes,” as well as periods when an employee
+is “completely relieved from duty for the purposes of eating regular meals” for 30 minutes or longer, are not
+hours worked. 29 C.F.R. § 785.16, .19. For example, if a provider leaves the consumer’s home on her own to
+spend several hours shopping for herself and meeting friends, that time is off-duty rather than hours worked.
+The vast majority of shared living providers will be live-in employees,20 but for a shared living provider who is
+not a live-in employee, such as a provider who lives in a separate apartment in the same complex as the
+consumer, hours worked are determined based solely on these principles.
+b. Special live-in principles: Reasonable agreement
+The Department has recognized that “[a]n employee who resides on his employer’s premises on a permanent
+basis or for extended periods of time is not considered as working all the time he is on the premises.” 29 C.F.R.
+§ 785.23. This principle applies to all live-in employees, including live-in domestic service employees
+(regardless of whether there is a third party employer who may not claim the live-in domestic service
+employee exemption). See id. § 552.102.
+Because of the intertwined nature of a live-in provider’s work and personal activities, what constitutes hours
+worked for an employee who lives on her employer’s premises, such as a provider in a shared living
+arrangement, is often “difficult to determine.” 29 C.F.R. § 785.23. Accordingly, “any reasonable agreement of
+the parties which takes into consideration all of the pertinent facts will be accepted.” Id. Such a reasonable
+agreement may exclude from paid time “normal private pursuits” such as “eating, sleeping, entertaining, and
+other periods of complete freedom from all duties when he may leave the premises for purposes of his own.”
+Id.; see also id. § 552.102 (explaining that a live-in domestic service “employee and the employer may
+exclude, by agreement between themselves, the amount of sleeping time, meal time and other periods of
+complete freedom from all duties when the employee may either leave the premises or stay on the premises
+for purely personal pursuits”; noting that to exclude off-duty time other than meal and sleep time, it must be
+“of sufficient duration to enable the employee to make effective use of the time”; and citing 29 C.F.R. §
+785.23).
+
+Courts discussing how to determine the hours worked by live-in employees have indicated that where an
+employer and employee have agreed to an approximate number of hours worked each week that reasonably
+takes into account what is known about the requirements of the position and circumstances of living on the
+premises at issue, that agreement is an acceptable proxy for more precisely counting hours worked. See, e.g.,
+Garofolo v. Donald B. Heslep Assocs., 405 F.3d 194, 199-201 (4th Cir. 2005) (holding that an agreement to
+pay for 40 hours of work was reasonable where the employer had provided guidance regarding the time
+necessary to complete assigned tasks and asked that the employees alert the employer if 40 hours was
+insufficient and the employees had not provided evidence that the agreement was unreasonable); Leever v.
+City of Carson, 360 F.3d 1014, 1018-21 (9th Cir. 2004) (holding that “an agreement under § 785.23 must take
+into account some approximation of the hours actually worked, or reasonably required to be worked, by the
+employee” and finding to be unreasonable payment for approximately one hour of work each week when the
+evidence showed that the tasks at issue took roughly 28 hours each week). The Department made clear in the
+Final Rule, however, that the reasonable agreement can no longer replace a record of actual hours worked; if a
+provider spends more time performing work tasks than anticipated by the agreement, she is entitled to be
+compensated for the additional work time. 78 Fed. Reg. 60,477, 60,557 (to be codified at 29 C.F.R. §§
+552.102(b), .110(b)).
+To create a reasonable agreement in the context of a shared living arrangement, it is necessary to determine
+what activities constitute “purely personal pursuits” and therefore may be excluded from hours worked and
+what activities are instead primarily for the benefit of the consumer or other employer and therefore may not.
+Whether activities are required or the provider is or could be engaged in personal activities of her choosing is
+significant. Some activities are easy to assess: If a provider helps the consumer bathe, take medication, or eat,
+or if the provider transports the consumer to a doctor’s appointment, that time is hours worked. If a provider is
+at the home while the consumer is elsewhere for several hours, and she makes herself lunch, tidies her private
+room, and reads a book, she is completely relieved from duty and has spent the time for her own purposes, so
+that time does not constitute hours worked even though the provider is at her worksite. But other activities,
+such as eating lunch with the consumer (if the consumer does not require assistance eating) or watching a
+movie with the consumer, do not necessarily always constitute either on- or off-duty time. As to those
+activities, the parties’ understanding of the provider’s responsibilities, in part as reflected in the written
+agreement they may create, will be fundamental to determining whether the provider is performing services as
+part of her employment or engaging in personal pursuits based on personal choice.21
+Because the mutual understanding of what tasks are required parts of the job is crucial to this potentially
+complicated analysis, it is in the best interest of all parties involved to create a clear and specific reasonable
+agreement describing the tasks the provider is to perform. For example, an agreement might state that the
+provider will assist the consumer in the mornings and evenings with bathing and dressing and have no further
+responsibilities with respect to the consumer. In that case, if the consumer and provider go together to dinner
+at the home of the consumer’s family at a time when the provider could otherwise occupy herself with any
+activity of her choosing (such as staying home to read a book or going out to dinner without the consumer),
+that time is a social outing rather than hours worked. If, on the other hand, an agreement states that the
+provider will assist a high-needs consumer with ADLs and IADLs including eating and toileting and that the
+provider will transport the consumer when she leaves home, then a trip to the consumer’s family’s home with
+the provider would constitute hours worked. As another example, a reasonable agreement could set the
+expectation that the provider will ensure that the consumer gets ready for her job each morning and will
+transport the consumer to that job each weekday and to church on weekends but not call for taking the
+consumer to other specific community events. In that case, if the provider brings the consumer along to dinner
+at her neighbor’s home and to a movie on a weekend day because the provider wants to eat outside the home
+or see a movie and enjoys taking the consumer with her, though she is not required to do so and could instead
+chose to spend the time on her own, the additional time spent with the consumer does not constitute hours
+worked. On the other hand, if an agreement states that a provider’s role is to help the consumer be integrated
+into the community, time spent making informal visits to neighbors or going to a community event in order to
+fulfill that goal would constitute hours worked (though the provider may be providing companionship services
+exempt from the FLSA’s requirements). Reasonable agreements entered into by a live-in employee and an
+employer must accurately reflect the work that is required to be performed and cannot be used to improperly
+limit the number of hours that will be paid.
+
+c. Special live-in principles: Sleep time
+For employees who reside on the employer’s premises permanently (i.e., have no other home),22 sleep time
+may be excluded even if the employees are obligated to remain on the premises overnight if the employees
+“[t]ypically work some hours during non-sleep time, such as, but not limited to, during early morning hours
+and on weekends.” Wage & Hour Division Opinion Letter FLSA 2004-7 at 3 (July 27, 2004).23
+Although the Department has not set a specific number of hours that must be compensated in order to permit
+the exclusion of the sleep time of an employee who resides on the premises permanently, the circumstances
+must be such that the agreement regarding work and non-work time is reasonable. A variety of agreements
+might meet this standard; providers’ schedules will vary based on the particular arrangement and needs of the
+consumer, and there is no particular schedule necessary to make an agreement reasonable. For example, if a
+shared living provider and her employer to agree to exclude eight hours of sleep time per night and the
+provider is paid an hourly rate for services she performs between the hours of 8:00pm and 10:00pm each
+evening and 6:00am and 8:00am each morning, that agreement would typically be reasonable. Or if a
+provider’s sole responsibility is to be at the residence five nights a week from 10:00pm to 8:00am, it will likely
+be reasonable to agree to treat two of those ten hours as hours worked and exclude the remaining eight hours
+as sleep time. Similarly, it will typically be reasonable to exclude sleep time during weeknights if the provider
+and employer agree that four hours per day spent in the residence on two weekdays and each weekend day
+are hours worked that must be compensated. On the other hand, if a provider’s sole responsibility is to be at
+the residence for eight hours each night, an agreement to exclude all time the provider is required to be on the
+premises will not be reasonable, nor would an agreement to consider one hour per day to be hours worked.
+The Department notes that the exclusion of time when an employee is required to be on the premises is
+permissible only when that time is during normal sleeping hours, i.e., overnight rather than during the daytime,
+and that in all circumstances, no more than eight hours per night of sleep time may be excluded.
+As with other off-duty time, any interruption to sleep time “by a call to duty” constitutes hours worked
+regardless of an agreement to exclude the time. 29 C.F.R. § 552.102.
+2. Compliance
+If the FLSA’s minimum wage requirement applies, an employee must be paid at least the minimum wage for all
+hours worked. 29 U.S.C. § 206(a). If its overtime compensation requirement applies, an employee must
+receive one and a half times her regular rate of pay for all hours worked over 40 in the workweek. 29 U.S.C. §
+207(a).
+In shared living arrangements, a provider may receive compensation in the form of hourly wages, a daily or
+monthly stipend, room and board, or as some combination of such payments. The FLSA allows an employer to
+take credit for these various types of compensation as described below.
+a. Minimum wage
+The federal minimum wage is currently $7.25 per hour. An hourly wage of that much or more satisfies the
+minimum wage requirement. If an employee receives a daily stipend, the total amount of the stipends received
+in a workweek divided by the number of hours worked that week is the hourly rate, which must be equal to or
+greater than minimum wage. For example, if a provider receives $68 per day and works seven hours each day
+five days per week, she has received $9.71 (($68 x 5) / (7 x 5)) per hour, and the federal minimum wage
+requirement has therefore been met. If an employee receives a monthly stipend, that amount is multiplied by
+12 and divided by 52 to determine the weekly rate, which is then divided by the number of hours worked each
+week to calculate the hourly rate. So a provider who receives $1750 per month has earned a $403.85 ($1750 x
+12 / 52) weekly rate, and if she works 40 hours in a particular workweek, she has earned $10.10 ($403.85 /
+40) per hour.
+
+Under section 3(m) of the FLSA, 29 U.S.C. § 203(m), an employer may take credit toward minimum wage for
+the reasonable cost or fair value of lodging and food, provided certain conditions are met. Specifically, this
+credit is permissible if: (1) the employee has voluntarily accepted the lodging; (2) the lodging is furnished in
+compliance with applicable federal, state, or local law; (3) the lodging is provided primarily for the benefit of
+the employee and not the employer; (4) the employer maintains accurate records of the costs incurred in
+furnishing the lodging; and (5) the cost claimed does not exceed the reasonable cost or fair value of the
+lodging furnished. A separate guidance document providing further detail about these requirements is
+forthcoming.
+To calculate an hourly rate including the section 3(m) credit, the value of the room and board is added to cash
+wages and divided by the hours worked in a given week. For example, assume a provider receives $6 per hour
+as well as room and board the fair value of which is $100 per week. If the provider works 30 hours in a
+workweek, the $180 ($6 x 30) cash wages is added to the $100 for a total of $280 received in the week, which
+amounts to $9.33 ($280 / 30) per hour. Assuming the room and board credit is properly taken, this payment
+structure complies with the federal minimum wage requirement. If the following week the same provider
+worked for 50 hours, the employer’s minimum wage obligation would still be met, but the provider would be
+due overtime compensation. Specifically, she would receive $300 ($6 x 50) in cash wages plus $100 in section
+3(m) credit for a total of $400, or $8 ($400 / 50) per hour. Her employer would then owe her an additional $40
+($8 x .5 x 10) in overtime compensation.
+The section 3(m) credit may also be the sole payment a live-in employee receives, provided it is sufficient to
+cover the employer’s minimum wage obligation. For example, a provider whose reasonable agreement
+anticipates 12 hours per week of paid work (with the remaining time she is on the premises excluded as offduty time or sleep time) could be compensated entirely by not paying rent. If the fair value of her lodging is
+$500 per month (or $115.38 per week), her arrangement complies with the FLSA because she receives $9.62
+per hour ($115.38 / 12).
+b. Overtime
+Where the FLSA’s overtime compensation requirement applies, an employee must receive one and half times
+her regular hourly rate of pay for all hours worked over 40 in a workweek. For example, if a provider receives
+$57 as a daily rate and works seven hours for each of seven days in a particular workweek, she would be owed
+an additional $36.63 for that week because her hourly rate is $8.14 ($57 / 7), one half of that is $4.07, and
+she must receive overtime compensation for 9 hours (the number over 40 worked in the week).
+c. Recordkeeping
+In addition to its minimum wage and overtime requirements, the FLSA mandates that employers keep records
+regarding its employees, their hours worked, and their compensation. 29 U.S.C. § 211(c); see also 29 C.F.R.
+Part 516. The recordkeeping requirements apply to employers of domestic service employees. 29 C.F.R. §
+552.110(a). In particular, an employer of a live-in domestic service employee must maintain the reasonable
+agreement with the employee regarding hours worked and, as of the effective date of the Final Rule, will also
+be responsible for keeping records of the actual hours worked by that employee rather than merely relying on
+the reasonable agreement. 78 Fed. Reg. 60,557 (to be codified at 29 C.F.R. § 552.110(b)).
+
+[1]
+
+The Department notes that the FLSA does not preempt more stringent state wage and hour statutes.
+Employers of providers in shared living arrangements must separately assess whether any state laws impose
+requirements beyond those described in this document with which they are obligated to comply.
+
+[2]
+
+Throughout this document, the term “consumer” refers to an individual receiving services, and the term
+“provider” refers to an individual providing them.
+[3]
+
+Shared living arrangements are also to be distinguished from personal arrangements in which there is plainly
+no employment relationship, such as a parent who provides care for a child with a disability without the
+expectation of compensation or an individual who shares an apartment with an individual with disabilities
+based on friendship or mutual convenience without providing any formal services to the individual and without
+any expectation of compensation.
+[4]
+
+In the preamble to the Final Rule, the Department explained that under the FLSA, a home care provider who
+is a family member of the consumer can be an employee of that consumer and/or a third party administering
+the provision of services. 78 Fed. Reg. 60,487. The creation of an employment relationship does not, however,
+mean that all support a family member provides to a consumer is within that relationship; some supports may
+remain part of the unpaid familial relationship provided that the administrator of the home care program treats
+the family member in the same way it would treat a non-relative paid provider, most importantly by including
+in the plan of care the same number of paid hours of services regardless of whether the provider is a family
+member or not. Id. at 60,487-90. This special, bifurcated analysis of the employment relationship applies to
+household members, such as a domestic partner to whom the consumer is not married, as well as to family
+members, but only if the household relationship existed before any employment relationship came into being.
+78 Fed. Reg. 60,487. In other words, although a shared living provider who is a family member of the
+consumer could provide supports to the consumer both through a paid employment relationship and an unpaid
+familial relationship, a shared living provider who lives with the consumer because of the shared living
+arrangement is subject to the standard FLSA analysis of an employment relationship, i.e., all time spent
+providing services to the consumer must be paid.
+[5]
+
+Although this document uses the shorthand of referring to the consumer as the potential employer, the
+Department considers the consumer and her family, household, or other representative to be the relevant
+entities for this analysis.
+[6]
+
+Because questions about adult foster care arose during the rulemaking process, the Department touched on
+the issue in the preamble to the Final Rule, “recogniz[ing] that it is possible that certain shared living
+arrangements may fall within the Department’s exception for foster care parents, provided specific criteria are
+met.” 78 Fed. Reg. 60,477 (citing Field Operations Handbook § 10b29). Specifically, the preamble noted that
+situations in which the Department has considered child foster care to be outside the application of the FLSA
+are those in which payment to the foster care parents “is primarily a reimbursement of expenses for rearing
+the child.” Id. (citing Wage and Hour Opinion Letter WH-298, 1974 WL 38737 (Nov. 13, 1974)); see also Wage
+and Hour Opinion Letter, 1996 WL 1005226 (Sept. 13, 1996) (opining on state foster care program for adults
+with developmental disabilities, stating that “where a State or licensed private agency selects individuals who
+voluntarily agree to become foster parents in accordance with State standards, where the State agency either
+directly or indirectly finances the care services, and where the services are provided in the foster parent’s
+home, an employment relationship does not exist under FLSA between the individuals providing foster care
+services and the governmental or private agency); Wage and Hour Opinion Letter (March 11, 1996) (“[W]here
+a husband and wife agree to become foster parents on a voluntary basis and take a child into their home to
+raise as one of their own, the prerequisite employer-employee relationship would not exist as between the
+parents and the sponsoring agency where the payments are primarily a reimbursement of expenses for rearing
+the child.”). Upon further review, however, the Department does not believe it is in the best interest of
+consumers, home care providers, or shared living program administrators to analogize to this special analysis
+for child foster care. The focus on the reimbursement of expenses is an indication that the analysis relies on
+the principle that foster parents are volunteers. See 29 U.S.C. § 203(e)(4)(A) (excluding from the definition of
+“employee” “any individual who volunteers to perform services for a public agency” if “the individual receives
+no compensation or is paid expenses, reasonable benefits, or a nominal fee”). Although adult foster care
+providers may well choose to take on that role in part out of generosity and kindness, they are not volunteers
+reimbursed for expenses, but rather—like teachers, child care providers, and others whose talents at their jobs
+may be enhanced by a personal enjoyment and commitment to their students or charges—workers who are
+paid for providing services. Indeed, Medicaid funds the services provided in many state adult foster care
+
+programs. And as a reflection of the important and often difficult work they do, home care providers are paid
+more than “nominal fees,” which precludes them from being considered volunteers under the FLSA. See AARP
+Public Policy Institute, “Building Adult Foster Care: What States Can Do,” available at
+http://assets.aarp.org/rgcenter/ppi/ltc/2009_13_building_adult_foster_care.pdf, Appendix C (including
+information about reimbursement rates for adult foster care providers in various states); see also Wage & Hour
+Opinion Letter FLSA2005-51 at 3-4 (Nov. 10, 2005) (explaining that a “nominal fee” is no more than 20 percent
+of the amount a worker paid for the service would otherwise receive).
+[7]
+
+This analysis goes to the status of an adult foster care provider, not any worker hired by the provider or a
+third party to provide assistance when the adult foster care provider is unavailable or otherwise needs relief
+from her responsibilities. Under the FLSA, such a relief worker is likely an employee of the provider and/or a
+third party administering the arrangement and thus is likely entitled to the protections of the Act; in any case,
+that determination requires a separate assessment of the circumstances of the individual’s work arrangement.
+[8]
+
+If a provider is not an employee of the consumer, the question will be whether she is an independent
+contractor or instead an employee of a third party; if she is an employee of the consumer, the question will be
+whether she is jointly employed by a third party. See 29 C.F.R. 791.2(a); Baystate Alternative Staffing, Inc. v.
+Herman, 163 F.3d 668, 675 (1st Cir. 1998) (“The FLSA contemplates several simultaneous employers, each
+responsible for compliance with the Act.”). In either case, the economic realities test controls whether she is an
+employee of the relevant third party. See, e.g., Goldberg v. Whitaker House Cooperative, Inc., 366 U.S. 28, 33
+(1961) (explaining that the “‘economic reality’” is the “test of employment”); Zheng v. Liberty Apparel Co. Inc.,
+355 F.3d 61, 72 (2d Cir. 2003) (instructing that the test for joint employment requires considering the
+“‘economic reality’”).
+[9]
+
+Other facts about the relationship are, of course, relevant. See, e.g., Rutherford Food Corp. v. McComb, 331
+U.S. 722 (1947) (explaining that the determination whether an employer-employee relationship exists does not
+depend on “isolated factors but rather upon the circumstances of the whole activity”). For instance, the
+comparative investment of the third party entity and an individual provider and whether the work is integral to
+the third party’s business will likely weigh in favor of employee status in essentially all circumstances.
+[10]
+
+The Final Rule discusses the application of longstanding joint employment principles to the home care
+context. 78 Fed. Reg. 60,483-85.
+[11]
+
+This regulatory definition was updated but not substantively changed by the Final Rule. 78 Fed. Reg.
+60,460-61.
+[12]
+
+The meaning of “private home,” a concept discussed in the Final Rule, has been established by courts and
+was unchanged by the Rule. 78 Fed. Reg. at 60,461-63 (citing, inter alia, Welding v. Bios Corp., 353 F.3d 1214
+(10th Cir. 2004)). Although determining whether a residence is a private home calls for a fact-intensive
+analysis, a residence to which the consumer has moved for the purpose of receiving services, in which he
+would not remain were he to stop receiving services, and where the provider rather than consumer owns,
+manages, and maintains the dwelling, is not the consumer’s private home. See Welding, 353 F.3d at 1219-20
+(explaining that the factors to be considered in determining whether a residence is a private home are: (1)
+“whether the client lived in the living unit as his or her private home before beginning to receive the services,”
+(2) “who owns the living unit,” (3) “who manages and maintains the residence,” (4) “whether the client would
+be allowed to live in the unit if the client were not contracting with the provider for services,” (5) “the relative
+difference in the cost/value of the services provided and the total cost of maintaining the living unit,” and (6)
+“whether the service provider uses any part of the residence for the provider’s own business purposes”).
+[13]
+
+Again, the private home analysis is longstanding. If a consumer or her representative owns or rents the
+residence solely in her name, it will essentially always be the consumer’s private home. If a residence is jointly
+owned or rented, the specific circumstances, such as how and by whom the rent is paid, who maintains the
+residence, and what would occur if the shared living arrangement were terminated, must be assessed under
+the multi-factor test described above.
+
+[14]
+
+This amount is equal to the threshold set in section 209(a)(6) of the Social Security Act, 42 U.S.C. §
+409(a)(6), for 2014, and may rise in subsequent years.
+[15]
+
+If a consumer and a third party jointly employ a worker who provides companionship services or is a live-in
+
+domestic service employee, the consumer (or the consumer’s family or household) may claim the applicable
+exemption; it is only the third party employer that is responsible for payment to the provider in compliance
+with FLSA requirements. 78 Fed. Reg. 60,484-85.
+[16]
+
+If a provider performs medically related services only in isolated, sporadic situations, such as in response to
+an emergency incident requiring the provider to perform the Heimlich maneuver or CPR, she would not for that
+reason be excluded from the exemption. 78 Fed. Reg. 60,473.
+[17]
+
+The Final Rule set out these definitions but did nothing to alter them. 78 Fed. Reg. 60,474.
+
+[18]
+
+A provider who spends regular nights away from the home may nevertheless be a live-in domestic service
+employee if he or she lives in the consumer’s private home for “extended periods of time.” For example, a
+provider who spends Sunday through Thursday nights in the consumer’s home but spends the weekend at the
+home of a family member where she has a bedroom does not live permanently with the consumer but does,
+because she sleeps at the consumer’s home for five consecutive nights each week, live with the consumer for
+extended periods of time.
+[19]
+
+This overtime exemption applies only to certain live-in domestic service employees. Special rules that apply
+to all live-in employees, including those who must receive overtime compensation, are described below.
+[20]
+
+Adult foster care providers who are employees (rather than independent contractors) under the FLSA are
+also subject to the special rules for live-in employees. See 29 C.F.R. § 785.23 (applying to employees residing
+on the employer’s premises as well as those “working at home”).
+[21]
+
+In addition, in the case of a provider who is a family member of the consumer, some unpaid services, often
+called “natural supports” in the context of Medicaid programs, may be outside the scope of the reasonable
+agreement. If the reasonable agreement does not treat the provider unequally because she is a family
+member, such differentiation between the employment relationship and familial relationship is permitted. 78
+Fed. Reg. 60,487-90.
+[22]
+
+An employee who lives on the employer’s premises for extended periods of time rather than permanently
+(i.e., for five days a week (120 hours or more) or five consecutive days or nights (regardless of the total
+number of hours)) is subject to a different analysis. In these circumstances, which are rare in the shared living
+context, in order for eight hours of sleep time per night to be excluded from hours worked, the employee must
+be compensated for eight hours in each 24-hour period. Wage & Hour Division Opinion Letter FLSA-1120 at 1
+(June 25, 1990); Wage & Hour Memorandum – 88.48 (June 30, 1988). In other words, if the employee is on
+duty only for eight hours, even if those hours are overnight and the employee usually sleeps during the shift,
+the employer may not exclude those eight sleep time hours from hours worked. Id.
+[23]
+
+Consistent with requirements set forth elsewhere, the sleep time may only be excluded if the employees
+also: “[a]re completely free to leave the premises for their own purposes and engage in normal private
+pursuits during all non-duty time other than the sleep time,” “[a]re paid for all time called to duty during the
+sleep time,” “[a]re paid for all the sleep time if such time is interrupted for duty calls to the extent that the
+employees cannot get at least five hours of sleep during the period,” and “[a]re paid for all work performed
+during non-sleep time, i.e., duty hours in the mornings, afternoons, evenings, and on weekends.” Wage &
+Hour Division Opinion Letter FLSA 2004-7 at 3.
+
+

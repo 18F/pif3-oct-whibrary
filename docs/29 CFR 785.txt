@@ -1,0 +1,589 @@
+Title 29: Labor
+
+PART 785—HOURS WORKED
+Contents
+Subpart A—General Considerations
+§785.1 Introductory statement.
+§785.2 Decisions on interpretations; use of interpretations.
+§785.3 Period of effectiveness of interpretations.
+§785.4 Application to Walsh-Healey Public Contracts Act.
+Subpart B—Principles for Determination of Hours Worked
+§785.5 General requirements of sections 6 and 7 of the Fair Labor Standards Act.
+§785.6 Definition of “employ” and partial definition of “hours worked”.
+§785.7 Judicial construction.
+§785.8 Effect of custom, contract, or agreement.
+§785.9 Statutory exemptions.
+Subpart C—Application of Principles
+§785.10 Scope of subpart.
+EMPLOYEES “SUFFERED OR PERMITTED” TO WORK
+§785.11 General.
+§785.12 Work performed away from the premises or job site.
+§785.13 Duty of management.
+WAITING TIME
+§785.14 General.
+§785.15 On duty.
+§785.16 Off duty.
+§785.17 On-call time.
+REST AND MEAL PERIODS
+§785.18 Rest.
+§785.19 Meal.
+SLEEPING TIME AND CERTAIN OTHER ACTIVITIES
+§785.20 General.
+§785.21 Less than 24-hour duty.
+§785.22 Duty of 24 hours or more.
+§785.23 Employees residing on employer's premises or working at home.
+PREPARATORY AND CONCLUDING ACTIVITIES
+§785.24 Principles noted in Portal-to-Portal Bulletin.
+§785.25 Illustrative U.S. Supreme Court decisions.
+§785.26 Section 3(o) of the Fair Labor Standards Act.
+LECTURES, MEETINGS AND TRAINING PROGRAMS
+§785.27 General.
+§785.28 Involuntary attendance.
+§785.29 Training directly related to employee's job.
+§785.30 Independent training.
+§785.31 Special situations.
+§785.32 Apprenticeship training.
+TRAVELTIME
+
+§785.33 General.
+§785.34 Effect of section 4 of the Portal-to-Portal Act.
+§785.35 Home to work; ordinary situation.
+§785.36 Home to work in emergency situations.
+§785.37 Home to work on special one-day assignment in another city.
+§785.38 Travel that is all in the day's work.
+§785.39 Travel away from home community.
+§785.40 When private automobile is used in travel away from home community.
+§785.41 Work performed while traveling.
+ADJUSTING GRIEVANCES, MEDICAL ATTENTION, CIVIC AND CHARITABLE WORK, AND SUGGESTION SYSTEMS
+§785.42 Adjusting grievances.
+§785.43 Medical attention.
+§785.44 Civic and charitable work.
+§785.45 Suggestion systems.
+Subpart D—Recording Working Time
+§785.46 Applicable regulations governing keeping of records.
+§785.47 Where records show insubstantial or insignificant periods of time.
+§785.48 Use of time clocks.
+Subpart E—Miscellaneous Provisions
+§785.49 Applicable provisions of the Fair Labor Standards Act.
+§785.50 Section 4 of the Portal-to-Portal Act.
+
+AUTHORITY: 52 Stat. 1060; 29 U.S.C. 201-219; 29 U.S.C. 254. Pub. L. 104-188, 100 Stat. 1755.
+SOURCE: 26 FR 190, Jan. 11, 1961, unless otherwise noted.
+
+Subpart A—General Considerations
+§785.1 Introductory statement.
+Section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206) requires that each employee, not
+specifically exempted, who is engaged in commerce, or in the production of goods for commerce, or who is
+employed in an enterprise engaged in commerce, or in the production of goods for commerce receive a specified
+minimum wage. Section 7 of the Act (29 U.S.C. 207) provides that persons may not be employed for more than a
+stated number of hours a week without receiving at least one and one-half times their regular rate of pay for the
+overtime hours. The amount of money an employee should receive cannot be determined without knowing the
+number of hours worked. This part discusses the principles involved in determining what constitutes working time.
+It also seeks to apply these principles to situations that frequently arise. It cannot include every possible situation.
+No inference should be drawn from the fact that a subject or an illustration is omitted. If doubt arises inquiries
+should be sent to the Administrator of the Wage and Hour Division, U.S. Department of Labor, Washington, DC
+20210, or to any area or Regional Office of the Division.
+[35 FR 15289, Oct. 1, 1970]
+
+§785.2 Decisions on interpretations; use of interpretations.
+The ultimate decisions on interpretations of the act are made by the courts. The Administrator must determine
+in the first instance the positions he will take in the enforcement of the Act. The regulations in this part seek to
+inform the public of such positions. It should thus provide a “practical guide for employers and employees as to how
+the office representing the public interest in its enforcement will seek to apply it.” (Skidmore v. Swift, 323 U.S. 134,
+138 (1944).)
+§785.3 Period of effectiveness of interpretations.
+
+These interpretations will remain in effect until they are rescinded, modified or withdrawn. This will be done
+when and if the Administrator concludes upon reexamination, or in the light of judicial decision, that a particular
+interpretation, ruling or enforcement policy is incorrect or unwarranted. All other rulings, interpretations or
+enforcement policies inconsistent with any portion of this part are superseded by it. The Portal-to-Portal Bulletin
+(part 790 of this chapter) is still in effect except insofar as it may not be consistent with any portion hereof. The
+applicable statutory provisions are set forth in §785.50.
+§785.4 Application to Walsh-Healey Public Contracts Act.
+The principles set forth in this part are also followed by the Administrator of the Wage and Hour Division in
+determining hours worked by employees performing work subject to the provisions of the Walsh-Healey Public
+Contracts Act.
+[35 FR 15289, Oct. 1, 1970]
+
+Subpart B—Principles for Determination of Hours Worked
+§785.5 General requirements of sections 6 and 7 of the Fair Labor Standards Act.
+Section 6 requires the payment of a minimum wage by an employer to his employees who are subject to the
+Act. Section 7 prohibits their employment for more than a specified number of hours per week without proper
+overtime compensation.
+[26 FR 7732, Aug. 18, 1961]
+
+§785.6 Definition of “employ” and partial definition of “hours worked”.
+By statutory definition the term “employ” includes (section 3(g)) “to suffer or permit to work.” The act,
+however, contains no definition of “work”. Section 3(o) of the Fair Labor Standards Act contains a partial definition
+of “hours worked” in the form of a limited exception for clothes-changing and wash-up time.
+§785.7 Judicial construction.
+The United States Supreme Court originally stated that employees subject to the act must be paid for all time
+spent in “physical or mental exertion (whether burdensome or not) controlled or required by the employer and
+pursued necessarily and primarily for the benefit of the employer and his business.” (Tennessee Coal, Iron &
+Railroad Co. v. Muscoda Local No. 123, 321 U. S. 590 (1944)) Subsequently, the Court ruled that there need be no
+exertion at all and that all hours are hours worked which the employee is required to give his employer, that “an
+employer, if he chooses, may hire a man to do nothing, or to do nothing but wait for something to happen.
+Refraining from other activity often is a factor of instant readiness to serve, and idleness plays a part in all
+employments in a stand-by capacity. Readiness to serve may be hired, quite as much as service itself, and time spent
+lying in wait for threats to the safety of the employer's property may be treated by the parties as a benefit to the
+employer.” (Armour & Co. v. Wantock, 323 U.S. 126 (1944); Skidmore v. Swift, 323 U.S. 134 (1944)) The
+workweek ordinarily includes “all the time during which an employee is necessarily required to be on the employer's
+premises, on duty or at a prescribed work place”. (Anderson v. Mt. Clemens Pottery Co., 328 U.S. 680 (1946)) The
+Portal-to-Portal Act did not change the rule except to provide an exception for preliminary and postliminary
+activities. See §785.34.
+[26 FR 190, Jan. 11, 1961, as amended at 76 FR 18859, Apr. 5, 2011]
+
+§785.8 Effect of custom, contract, or agreement.
+
+The principles are applicable, even though there may be a custom, contract, or agreement not to pay for the
+time so spent with special statutory exceptions discussed in §§785.9 and 785.26.
+[35 FR 15289, Oct. 1, 1970]
+
+§785.9 Statutory exemptions.
+(a) The Portal-to-Portal Act. The Portal-to-Portal Act (secs. 1-13, 61 Stat. 84-89, 29 U.S.C. 251-262)
+eliminates from working time certain travel and walking time and other similar “preliminary” and “postliminary”
+activities performed “prior” or “subsequent” to the “workday” that are not made compensable by contract, custom,
+or practice. It should be noted that “preliminary” activities do not include “principal” activities. See §§790.6 to
+790.8 of this chapter. The use of an employer's vehicle for travel by an employee and activities that are incidental to
+the use of such vehicle for commuting are not considered “principal” activities when meeting the following
+conditions: The use of the employer's vehicle for travel is within the normal commuting area for the employer's
+business or establishment and the use of the employer's vehicle is subject to an agreement on the part of the
+employer and the employee or the representative of such employee. Section 4 of the Portal-to-Portal Act does not
+affect the computation of hours worked within the “workday”. “Workday” in general, means the period between
+“the time on any particular workday at which such employee commences (his) principal activity or activities” and
+“the time on any particular workday at which he ceases such principal activity or activities.” The “workday” may
+thus be longer than the employee's scheduled shift, hours, tour of duty, or time on the production line. Also, its
+duration may vary from day to day depending upon when the employee commences or ceases his “principal”
+activities. With respect to time spent in any “preliminary” or “postliminary” activity compensable by contract,
+custom, or practice, the Portal-to-Portal Act requires that such time must also be counted for purposes of the Fair
+Labor Standards Act. There are, however, limitations on this requirement. The “preliminary” or “postliminary”
+activity in question must be engaged in during the portion of the day with respect to which it is made compensable
+by the contract, custom, or practice. Also, only the amount of time allowed by the contract or under the custom or
+practice is required to be counted. If, for example, the time allowed is 15 minutes but the activity takes 25 minutes,
+the time to be added to other working time would be limited to 15 minutes. (Galvin v. National Biscuit Co., 82 F.
+Supp. 535 (S.D.N.Y. 1949) appeal dismissed, 177 F. 2d 963 (C.A. 2, 1949))
+(b) Section 3(o) of the Fair Labor Standards Act. Section 3(o) gives statutory effect, as explained in §785.26,
+to the exclusion from measured working time of certain clothes-changing and washing time at the beginning or the
+end of the workday by the parties to collective bargaining agreements.
+[26 FR 190, Jan. 11, 1961, as amended at 30 FR 9912, Aug. 10, 1965; 76 FR 18859, Apr. 5, 2011]
+
+Subpart C—Application of Principles
+§785.10 Scope of subpart.
+This subpart applies the principles to the problems which arise frequently.
+
+EMPLOYEES “SUFFERED OR PERMITTED” TO WORK
+§785.11 General.
+Work not requested but suffered or permitted is work time. For example, an employee may voluntarily
+continue to work at the end of the shift. He may be a pieceworker, he may desire to finish an assigned task or he
+may wish to correct errors, paste work tickets, prepare time reports or other records. The reason is immaterial. The
+employer knows or has reason to believe that he is continuing to work and the time is working time. (Handler v.
+Thrasher, 191, F. 2d 120 (C.A. 10, 1951); Republican Publishing Co. v. American Newspaper Guild, 172 F. 2d 943
+(C.A. 1, 1949; Kappler v. Republic Pictures Corp., 59 F. Supp. 112 (S.D. Iowa 1945), aff'd 151 F. 2d 543 (C.A. 8,
+1945); 327 U.S. 757 (1946); Hogue v. National Automotive Parts Ass'n. 87 F. Supp. 816 (E.D. Mich. 1949); Barker
+
+v. Georgia Power & Light Co., 2 W.H. Cases 486; 5 CCH Labor Cases, para. 61,095 (M.D. Ga. 1942); Steger v.
+Beard & Stone Electric Co., Inc., 1 W.H. Cases 593; 4 Labor Cases 60,643 (N.D. Texas, 1941))
+§785.12 Work performed away from the premises or job site.
+The rule is also applicable to work performed away from the premises or the job site, or even at home. If the
+employer knows or has reason to believe that the work is being performed, he must count the time as hours worked.
+§785.13 Duty of management.
+In all such cases it is the duty of the management to exercise its control and see that the work is not performed
+if it does not want it to be performed. It cannot sit back and accept the benefits without compensating for them. The
+mere promulgation of a rule against such work is not enough. Management has the power to enforce the rule and
+must make every effort to do so.
+
+WAITING TIME
+§785.14 General.
+Whether waiting time is time worked under the Act depends upon particular circumstances. The determination
+involves “scrutiny and construction of the agreements between particular parties, appraisal of their practical
+construction of the working agreement by conduct, consideration of the nature of the service, and its relation to the
+waiting time, and all of the circumstances. Facts may show that the employee was engaged to wait or they may show
+that he waited to be engaged.” (Skidmore v. Swift, 323 U.S. 134 (1944)) Such questions “must be determined in
+accordance with common sense and the general concept of work or employment.” (Central Mo. Tel. Co. v. Conwell,
+170 F. 2d 641 (C.A. 8, 1948))
+§785.15 On duty.
+A stenographer who reads a book while waiting for dictation, a messenger who works a crossword puzzle
+while awaiting assignments, fireman who plays checkers while waiting for alarms and a factory worker who talks to
+his fellow employees while waiting for machinery to be repaired are all working during their periods of inactivity.
+The rule also applies to employees who work away from the plant. For example, a repair man is working while he
+waits for his employer's customer to get the premises in readiness. The time is worktime even though the employee
+is allowed to leave the premises or the job site during such periods of inactivity. The periods during which these
+occur are unpredictable. They are usually of short duration. In either event the employee is unable to use the time
+effectively for his own purposes. It belongs to and is controlled by the employer. In all of these cases waiting is an
+integral part of the job. The employee is engaged to wait. (See: Skidmore v. Swift, 323 U.S. 134, 137 (1944); Wright
+v. Carrigg, 275 F. 2d 448, 14 W.H. Cases (C.A. 4, 1960); Mitchell v. Wigger, 39 Labor Cases, para. 66,278, 14
+W.H. Cases 534 (D.N.M. 1960); Mitchell v. Nicholson, 179 F. Supp, 292,14 W.H. Cases 487 (W.D.N.C. 1959))
+§785.16 Off duty.
+(a) General. Periods during which an employee is completely relieved from duty and which are long enough
+to enable him to use the time effectively for his own purposes are not hours worked. He is not completely relieved
+from duty and cannot use the time effectively for his own purposes unless he is definitely told in advance that he
+may leave the job and that he will not have to commence work until a definitely specified hour has arrived. Whether
+the time is long enough to enable him to use the time effectively for his own purposes depends upon all of the facts
+and circumstances of the case.
+(b) Truck drivers; specific examples. A truck driver who has to wait at or near the job site for goods to be
+loaded is working during the loading period. If the driver reaches his destination and while awaiting the return trip is
+required to take care of his employer's property, he is also working while waiting. In both cases the employee is
+
+engaged to wait. Waiting is an integral part of the job. On the other hand, for example, if the truck driver is sent
+from Washingtion, DC to New York City, leaving at 6 a.m. and arriving at 12 noon, and is completely and
+specifically relieved from all duty until 6 p.m. when he again goes on duty for the return trip the idle time is not
+working time. He is waiting to be engaged. (Skidmore v. Swift, 323 U.S. 134, 137 (1944); Walling v. Dunbar
+Transfer & Storage, 3 W.H. Cases 284; 7 Labor Cases para. 61,565 (W.D. Tenn. 1943); Gifford v. Chapman, 6
+W.H. Cases 806; 12 Labor Cases para. 63,661 (W.D. Okla., 1947); Thompson v. Daugherty, 40 Supp. 279 (D. Md.
+1941))
+§785.17 On-call time.
+An employee who is required to remain on call on the employer's premises or so close thereto that he cannot
+use the time effectively for his own purposes is working while “on call”. An employee who is not required to remain
+on the employer's premises but is merely required to leave word at his home or with company officials where he
+may be reached is not working while on call. (Armour & Co. v. Wantock, 323 U.S. 126 (1944); Handler v.
+Thrasher, 191 F. 2d 120 (C.A. 10, 1951); Walling v. Bank of Waynesboro, Georgia, 61 F. Supp. 384 (S.D. Ga.
+1945))
+
+REST AND MEAL PERIODS
+§785.18 Rest.
+Rest periods of short duration, running from 5 minutes to about 20 minutes, are common in industry. They
+promote the efficiency of the employee and are customarily paid for as working time. They must be counted as
+hours worked. Compensable time of rest periods may not be offset against other working time such as compensable
+waiting time or on-call time. (Mitchell v. Greinetz, 235 F. 2d 621, 13 W.H. Cases 3 (C.A. 10, 1956); Ballard v.
+Consolidated Steel Corp., Ltd., 61 F. Supp. 996 (S.D. Cal. 1945))
+§785.19 Meal.
+(a) Bona fide meal periods. Bona fide meal periods are not worktime. Bona fide meal periods do not include
+coffee breaks or time for snacks. These are rest periods. The employee must be completely relieved from duty for
+the purposes of eating regular meals. Ordinarily 30 minutes or more is long enough for a bona fide meal period. A
+shorter period may be long enough under special conditions. The employee is not relieved if he is required to
+perform any duties, whether active or inactive, while eating. For example, an office employee who is required to eat
+at his desk or a factory worker who is required to be at his machine is working while eating. (Culkin v. Glenn L.
+Martin, Nebraska Co., 97 F. Supp. 661 (D. Neb. 1951), aff'd 197 F. 2d 981 (C.A. 8, 1952), cert. denied 344 U.S. 888
+(1952); Thompson v. Stock & Sons, Inc., 93 F. Supp. 213 (E.D. Mich 1950), aff'd 194 F. 2d 493 (C.A. 6, 1952);
+Biggs v. Joshua Hendy Corp., 183 F. 2d 515 (C. A. 9, 1950), 187 F. 2d 447 (C.A. 9, 1951); Walling v. Dunbar
+Transfer & Storage Co., 3 W.H. Cases 284; 7 Labor Cases para. 61.565 (W.D. Tenn. 1943); Lofton v. Seneca Coal
+and Coke Co., 2 W.H. Cases 669; 6 Labor Cases para. 61,271 (N.D. Okla. 1942); aff'd 136 F. 2d 359 (C.A. 10,
+1943); cert. denied 320 U.S. 772 (1943); Mitchell v. Tampa Cigar Co., 36 Labor Cases para. 65, 198, 14 W.H. Cases
+38 (S.D. Fla. 1959); Douglass v. Hurwitz Co., 145 F. Supp. 29, 13 W.H. Cases (E.D. Pa. 1956))
+(b) Where no permission to leave premises. It is not necessary that an employee be permitted to leave the
+premises if he is otherwise completely freed from duties during the meal period.
+
+SLEEPING TIME AND CERTAIN OTHER ACTIVITIES
+§785.20 General.
+Under certain conditions an employee is considered to be working even though some of his time is spent in
+sleeping or in certain other activities.
+
+§785.21 Less than 24-hour duty.
+An employee who is required to be on duty for less than 24 hours is working even though he is permitted to
+sleep or engage in other personal activities when not busy. A telephone operator, for example, who is required to be
+on duty for specified hours is working even though she is permitted to sleep when not busy answering calls. It makes
+no difference that she is furnished facilities for sleeping. Her time is given to her employer. She is required to be on
+duty and the time is worktime. (Central Mo. Telephone Co. v. Conwell, 170 F. 2d 641 (C.A. 8, 1948); Strand v.
+Garden Valley Telephone Co., 51 F. Supp. 898 (D. Minn. 1943); Whitsitt v. Enid Ice & Fuel Co., 2 W. H. Cases
+584; 6 Labor Cases para. 61,226 (W.D. Okla. 1942).)
+§785.22 Duty of 24 hours or more.
+(a) General. Where an employee is required to be on duty for 24 hours or more, the employer and the
+employee may agree to exclude bona fide meal periods and a bona fide regularly scheduled sleeping period of not
+more than 8 hours from hours worked, provided adequate sleeping facilities are furnished by the employer and the
+employee can usually enjoy an uninterrupted night's sleep. If sleeping period is of more than 8 hours, only 8 hours
+will be credited. Where no expressed or implied agreement to the contrary is present, the 8 hours of sleeping time
+and lunch periods constitute hours worked. (Armour v. Wantock, 323 U.S. 126 (1944); Skidmore v. Swift, 323 U.S.
+134 (1944); General Electric Co. v. Porter, 208 F. 2d 805 (C.A. 9, 1953), cert. denied, 347 U.S. 951, 975 (1954);
+Bowers v. Remington Rand, 64 F. Supp. 620 (S.D. Ill, 1946), aff'd 159 F. 2d 114 (C.A. 7, 1946) cert. denied 330
+U.S. 843 (1947); Bell v. Porter, 159 F. 2d 117 (C.A. 7, 1946) cert. denied 330 U.S. 813 (1947); Bridgeman v. Ford,
+Bacon & Davis, 161 F. 2d 962 (C.A. 8, 1947); Rokey v. Day & Zimmerman, 157 F. 2d 736 (C.A. 8, 1946);
+McLaughlin v. Todd & Brown, Inc., 7 W.H. Cases 1014; 15 Labor Cases para. 64,606 (N.D. Ind. 1948); Campbell v.
+Jones & Laughlin, 70 F. Supp. 996 (W.D. Pa. 1947).)
+(b) Interruptions of sleep. If the sleeping period is interrupted by a call to duty, the interruption must be
+counted as hours worked. If the period is interrupted to such an extent that the employee cannot get a reasonable
+night's sleep, the entire period must be counted. For enforcement purposes, the Divisons have adopted the rule that if
+the employee cannot get at least 5 hours' sleep during the scheduled period the entire time is working time. (See
+Eustice v. Federal Cartridge Corp., 66 F. Supp. 55 (D. Minn. 1946).)
+§785.23 Employees residing on employer's premises or working at home.
+An employee who resides on his employer's premises on a permanent basis or for extended periods of time is
+not considered as working all the time he is on the premises. Ordinarily, he may engage in normal private pursuits
+and thus have enough time for eating, sleeping, entertaining, and other periods of complete freedom from all duties
+when he may leave the premises for purposes of his own. It is, of course, difficult to determine the exact hours
+worked under these circumstances and any reasonable agreement of the parties which takes into consideration all of
+the pertinent facts will be accepted. This rule would apply, for example, to the pumper of a stripper well who resides
+on the premises of his employer and also to a telephone operator who has the switchboard in her own home. (Skelly
+Oil Co. v. Jackson, 194 Okla. 183, 148 P. 2d 182 (Okla. Sup. Ct. 1944; Thompson v. Loring Oil Co., 50 F. Supp.
+213 (W.D. La. 1943).)
+
+PREPARATORY AND CONCLUDING ACTIVITIES
+§785.24 Principles noted in Portal-to-Portal Bulletin.
+In November, 1947, the Administrator issued the Portal-to-Portal Bulletin (part 790 of this chapter). In dealing
+with this subject, §790.8 (b) and (c) of this chapter said:
+(b) The term “principal activities” includes all activities which are an integral part of a principal activity. Two examples of
+what is meant by an integral part of a principal activity are found in the report of the Judiciary Committee of the Senate on the
+Portal-to-Portal bill. They are the following:
+
+(1) In connection with the operation of a lathe, an employee will frequently, at the commencement of his workday, oil,
+grease, or clean his machine, or install a new cutting tool. Such activities are an integral part of the principal activity, and are
+included within such term.
+(2) In the case of a garment worker in a textile mill, who is required to report 30 minutes before other employees report to
+commence their principal activities, and who during such 30 minutes distributes clothing or parts of clothing at the workbenches
+of other employees and gets machines in readiness for operation by other employees, such activities are among the principal
+activities of such employee.
+Such preparatory activities, which the Administrator has always regarded as work and as compensable under the Fair Labor
+Standards Act, remain so under the Portal Act, regardless of contrary custom or contract.
+(c) Among the activities included as an integral part of a principal activity are those closely related activities which are
+indispensable to its performance. If an employee in a chemical plant, for example, cannot perform his principal activities without
+putting on certain clothes, changing clothes on the employer's premises at the beginning and end of the workday would be an
+integral part of the employee's principal activity. On the other hand, if changing clothes is merely a convenience to the employee
+and not directly related to his principal activities, it would be considered as a “preliminary” or “postliminary” activity rather than
+a principal part of the activity. However, activities such as checking in and out and waiting in line to do so would not ordinarily
+be regarded as integral parts of the principal activity or activities.
+
+§785.25 Illustrative U.S. Supreme Court decisions.
+These principles have guided the Administrator in the enforcement of the Act. Two cases decided by the U.S.
+Supreme Court further illustrate the types of activities which are considered an integral part of the employees' jobs.
+In one, employees changed their clothes and took showers in a battery plant where the manufacturing process
+involved the extensive use of caustic and toxic materials. (Steiner v. Mitchell, 350 U.S. 247 (1956).) In another case,
+knifemen in a meatpacking plant sharpened their knives before and after their scheduled workday (Mitchell v. King
+Packing Co., 350 U.S. 260 (1956)). In both cases the Supreme Court held that these activities are an integral and
+indispensable part of the employees' principal activities.
+§785.26 Section 3(o) of the Fair Labor Standards Act.
+Section 3(o) of the Act provides an exception to the general rule for employees under collective bargaining
+agreements. This section provides for the exclusion from hours worked of time spent by an employee in changing
+clothes or washing at the beginning or end of each workday which was excluded from measured working time
+during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining
+agreement applicable to the particular employee. During any week in which such clothes-changing or washing time
+was not so excluded, it must be counted as hours worked if the changing of clothes or washing is indispensable to
+the performance of the employee's work or is required by law or by the rules of the employer. The same would be
+true if the changing of clothes or washing was a preliminary or postliminary activity compensable by contract,
+custom, or practice as provided by section 4 of the Portal-to-Portal Act, and as discussed in §785.9 and part 790 of
+this chapter.
+[30 FR 9912, Aug. 10, 1965]
+
+LECTURES, MEETINGS AND TRAINING PROGRAMS
+§785.27 General.
+Attendance at lectures, meetings, training programs and similar activities need not be counted as working time
+if the following four criteria are met:
+(a) Attendance is outside of the employee's regular working hours;
+(b) Attendance is in fact voluntary;
+
+(c) The course, lecture, or meeting is not directly related to the employee's job; and
+(d) The employee does not perform any productive work during such attendance.
+§785.28 Involuntary attendance.
+Attendance is not voluntary, of course, if it is required by the employer. It is not voluntary in fact if the
+employee is given to understand or led to believe that his present working conditions or the continuance of his
+employment would be adversely affected by nonattendance.
+§785.29 Training directly related to employee's job.
+The training is directly related to the employee's job if it is designed to make the employee handle his job
+more effectively as distinguished from training him for another job, or to a new or additional skill. For example, a
+stenographer who is given a course in stenography is engaged in an activity to make her a better stenographer. Time
+spent in such a course given by the employer or under his auspices is hours worked. However, if the stenographer
+takes a course in bookkeeping, it may not be directly related to her job. Thus, the time she spends voluntarily in
+taking such a bookkeeping course, outside of regular working hours, need not be counted as working time. Where a
+training course is instituted for the bona fide purpose of preparing for advancement through upgrading the employee
+to a higher skill, and is not intended to make the employee more efficient in his present job, the training is not
+considered directly related to the employee's job even though the course incidentally improves his skill in doing his
+regular work.
+[30 FR 9912, Aug, 10, 1965]
+
+§785.30 Independent training.
+Of course, if an employee on his own initiative attends an independent school, college or independent trade
+school after hours, the time is not hours worked for his employer even if the courses are related to his job.
+§785.31 Special situations.
+There are some special situations where the time spent in attending lectures, training sessions and courses of
+instruction is not regarded as hours worked. For example, an employer may establish for the benefit of his
+employees a program of instruction which corresponds to courses offered by independent bona fide institutions of
+learning. Voluntary attendance by an employee at such courses outside of working hours would not be hours worked
+even if they are directly related to his job, or paid for by the employer.
+§785.32 Apprenticeship training.
+As an enforcement policy, time spent in an organized program of related, supplemental instruction by
+employees working under bona fide apprenticeship programs may be excluded from working time if the following
+criteria are met:
+(a) The apprentice is employed under a written apprenticeship agreement or program which substantially
+meets the fundamental standards of the Bureau of Apprenticeship and Training of the U.S. Department of Labor;
+and
+(b) Such time does not involve productive work or performance of the apprentice's regular duties. If the above
+criteria are met the time spent in such related supplemental training shall not be counted as hours worked unless the
+written agreement specifically provides that it is hours worked. The mere payment or agreement to pay for time
+spent in related instruction does not constitute an agreement that such time is hours worked.
+
+TRAVELTIME
+§785.33 General.
+The principles which apply in determining whether or not time spent in travel is working time depend upon
+the kind of travel involved. The subject is discussed in §§785.35 to 785.41, which are preceded by a brief discussion
+in §785.34 of the Portal-to-Portal Act as it applies to traveltime.
+§785.34 Effect of section 4 of the Portal-to-Portal Act.
+The Portal Act provides in section 4(a) that except as provided in subsection (b) no employer shall be liable
+for the failure to pay the minimum wage or overtime compensation for time spent in “walking, riding, or traveling to
+and from the actual place of performance of the principal activity or activities which such employee is employed to
+perform either prior to the time on any particular workday at which such employee commences, or subsequent to the
+time on any particular workday at which he ceases, such principal activity or activities.” Section 4(a) further
+provides that the use of an employer's vehicle for travel by an employee and activities that are incidental to the use
+of such vehicle for commuting are not considered principal activities when the use of such vehicle is within the
+normal commuting area for the employer's business or establishment and is subject to an agreement on the part of
+the employer and the employee or the representative of such employee. Subsection (b) provides that the employer
+shall not be relieved from liability if the activity is compensable by express contract or by custom or practice not
+inconsistent with an express contract. Thus traveltime at the commencement or cessation of the workday which was
+originally considered as working time under the Fair Labor Standards Act (such as underground travel in mines or
+walking from time clock to work-bench) need not be counted as working time unless it is compensable by contract,
+custom or practice. If compensable by express contract or by custom or practice not inconsistent with an express
+contract, such traveltime must be counted in computing hours worked. However, ordinary travel from home to work
+(see §785.35) need not be counted as hours worked even if the employer agrees to pay for it. (See Tennessee Coal,
+Iron & RR. Co. v. Musecoda Local, 321 U.S. 590 (1946); Anderson v. Mt. Clemens Pottery Co., 328 U.S. 690
+(1946); Walling v. Anaconda Copper Mining Co., 66 F. Supp. 913 (D. Mont. (1946).)
+[26 FR 190, Jan. 11, 1961, as amended at 76 FR 18860, Apr. 5, 2011]
+
+§785.35 Home to work; ordinary situation.
+An employee who travels from home before his regular workday and returns to his home at the end of the
+workday is engaged in ordinary home to work travel which is a normal incident of employment. This is true whether
+he works at a fixed location or at different job sites. Normal travel from home to work is not worktime.
+§785.36 Home to work in emergency situations.
+There may be instances when travel from home to work is overtime. For example, if an employee who has
+gone home after completing his day's work is subsequently called out at night to travel a substantial distance to
+perform an emergency job for one of his employer's customers all time spent on such travel is working time. The
+Divisions are taking no position on whether travel to the job and back home by an employee who receives an
+emergency call outside of his regular hours to report back to his regular place of business to do a job is working
+time.
+§785.37 Home to work on special one-day assignment in another city.
+A problem arises when an employee who regularly works at a fixed location in one city is given a special 1day work assignment in another city. For example, an employee who works in Washington, DC, with regular
+working hours from 9 a.m. to 5 p.m. may be given a special assignment in New York City, with instructions to leave
+Washington at 8 a.m. He arrives in New York at 12 noon, ready for work. The special assignment is completed at 3
+p.m., and the employee arrives back in Washington at 7 p.m. Such travel cannot be regarded as ordinary home-towork travel occasioned merely by the fact of employment. It was performed for the employer's benefit and at his
+
+special request to meet the needs of the particular and unusual assignment. It would thus qualify as an integral part
+of the “principal” activity which the employee was hired to perform on the workday in question; it is like travel
+involved in an emergency call (described in §785.36), or like travel that is all in the day's work (see §785.38). All
+the time involved, however, need not be counted. Since, except for the special assignment, the employee would have
+had to report to his regular work site, the travel between his home and the railroad depot may be deducted, it being
+in the “home-to-work” category. Also, of course, the usual meal time would be deductible.
+§785.38 Travel that is all in the day's work.
+Time spent by an employee in travel as part of his principal activity, such as travel from job site to job site
+during the workday, must be counted as hours worked. Where an employee is required to report at a meeting place
+to receive instructions or to perform other work there, or to pick up and to carry tools, the travel from the designated
+place to the work place is part of the day's work, and must be counted as hours worked regardless of contract,
+custom, or practice. If an employee normally finishes his work on the premises at 5 p.m. and is sent to another job
+which he finishes at 8 p.m. and is required to return to his employer's premises arriving at 9 p.m., all of the time is
+working time. However, if the employee goes home instead of returning to his employer's premises, the travel after
+8 p.m. is home-to-work travel and is not hours worked. (Walling v. Mid-Continent Pipe Line Co., 143 F. 2d 308 (C.
+A. 10, 1944))
+§785.39 Travel away from home community.
+Travel that keeps an employee away from home overnight is travel away from home. Travel away from home
+is clearly worktime when it cuts across the employee's workday. The employee is simply substituting travel for other
+duties. The time is not only hours worked on regular working days during normal working hours but also during the
+corresponding hours on nonworking days. Thus, if an employee regularly works from 9 a.m. to 5 p.m. from Monday
+through Friday the travel time during these hours is worktime on Saturday and Sunday as well as on the other days.
+Regular meal period time is not counted. As an enforcement policy the Divisions will not consider as worktime that
+time spent in travel away from home outside of regular working hours as a passenger on an airplane, train, boat, bus,
+or automobile.
+§785.40 When private automobile is used in travel away from home community.
+If an employee is offered public transporation but requests permission to drive his car instead, the employer
+may count as hours worked either the time spent driving the car or the time he would have had to count as hours
+worked during working hours if the employee had used the public conveyance.
+§785.41 Work performed while traveling.
+Any work which an employee is required to perform while traveling must, of course, be counted as hours
+worked. An employee who drives a truck, bus, automobile, boat or airplane, or an employee who is required to ride
+therein as an assistant or helper, is working while riding, except during bona fide meal periods or when he is
+permitted to sleep in adequate facilities furnished by the employer.
+
+ADJUSTING GRIEVANCES, MEDICAL ATTENTION, CIVIC AND CHARITABLE WORK,
+AND SUGGESTION SYSTEMS
+§785.42 Adjusting grievances.
+Time spent in adjusting grievances between an employer and employees during the time the employees are
+required to be on the premises is hours worked, but in the event a bona fide union is involved the counting of such
+time will, as a matter of enforcement policy, be left to the process of collective bargaining or to the custom or
+practice under the collective bargaining agreement.
+
+§785.43 Medical attention.
+Time spent by an employee in waiting for and receiving medical attention on the premises or at the direction
+of the employer during the employee's normal working hours on days when he is working constitutes hours worked.
+§785.44 Civic and charitable work.
+Time spent in work for public or charitable purposes at the employer's request, or under his direction or
+control, or while the employee is required to be on the premises, is working time. However, time spent voluntarily in
+such activities outside of the employee's normal working hours is not hours worked.
+§785.45 Suggestion systems.
+Generally, time spent by employees outside of their regular working hours in developing suggestions under a
+general suggestion system is not working time, but if employees are permitted to work on suggestions during regular
+working hours the time spent must be counted as hours worked. Where an employee is assigned to work on the
+development of a suggestion, the time is considered hours worked.
+
+Subpart D—Recording Working Time
+§785.46 Applicable regulations governing keeping of records.
+Section 11(c) of the Act authorizes the Secretary to promulgate regulations requiring the keeping of records of
+hours worked, wages paid and other conditions of employment. These regulations are published in part 516 of this
+chapter. Copies of the regulations may be obtained on request.
+§785.47 Where records show insubstantial or insignificant periods of time.
+In recording working time under the Act, insubstantial or insignificant periods of time beyond the scheduled
+working hours, which cannot as a practical administrative matter be precisely recorded for payroll purposes, may be
+disregarded. The courts have held that such trifles are de minimis. (Anderson v. Mt. Clemens Pottery Co., 328 U.S.
+680 (1946)) This rule applies only where there are uncertain and indefinite periods of time involved of a few
+seconds or minutes duration, and where the failure to count such time is due to considerations justified by industrial
+realities. An employer may not arbitrarily fail to count as hours worked any part, however small, of the employee's
+fixed or regular working time or practically ascertainable period of time he is regularly required to spend on duties
+assigned to him. See Glenn L. Martin Nebraska Co. v. Culkin, 197 F. 2d 981, 987 (C.A. 8, 1952), cert. denied, 344
+U.S. 866 (1952), rehearing denied, 344 U.S. 888 (1952), holding that working time amounting to $1 of additional
+compensation a week is “not a trivial matter to a workingman,” and was not de minimis; Addison v. Huron
+Stevedoring Corp., 204 F. 2d 88, 95 (C.A. 2, 1953), cert. denied 346 U.S. 877, holding that “To disregard
+workweeks for which less than a dollar is due will produce capricious and unfair results.” Hawkins v. E. I. du Pont
+de Nemours & Co., 12 W.H. Cases 448, 27 Labor Cases, para. 69,094 (E.D. Va., 1955), holding that 10 minutes a
+day is not de minimis.
+§785.48 Use of time clocks.
+(a) Differences between clock records and actual hours worked. Time clocks are not required. In those cases
+where time clocks are used, employees who voluntarily come in before their regular starting time or remain after
+their closing time, do not have to be paid for such periods provided, of course, that they do not engage in any work.
+Their early or late clock punching may be disregarded. Minor differences between the clock records and actual
+hours worked cannot ordinarily be avoided, but major discrepancies should be discouraged since they raise a doubt
+as to the accuracy of the records of the hours actually worked.
+
+(b) “Rounding” practices. It has been found that in some industries, particularly where time clocks are used,
+there has been the practice for many years of recording the employees' starting time and stopping time to the nearest
+5 minutes, or to the nearest one-tenth or quarter of an hour. Presumably, this arrangement averages out so that the
+employees are fully compensated for all the time they actually work. For enforcement purposes this practice of
+computing working time will be accepted, provided that it is used in such a manner that it will not result, over a
+period of time, in failure to compensate the employees properly for all the time they have actually worked.
+
+Subpart E—Miscellaneous Provisions
+§785.49 Applicable provisions of the Fair Labor Standards Act.
+(a) Section 6. Section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206) requires that each employee,
+not specifically exempted, who is engaged in commerce, or in the production of goods for commerce, or who is
+employed in an enterprise engaged in commerce, or in the production of goods for commerce receive a specified
+minimum wage.
+(b) Section 7. Section 7(a) of the Act (29 U.S.C. 207) provides that persons may not be employed for more
+than a stated number of hours a week without receiving at least one and one-half times their regular rate of pay for
+the overtime hours.
+(c) Section 3(g). Section 3(g) of this act provides that: “‘Employ’ includes to suffer or permit to work.”
+(d) Section 3(o). Section 3(o) of this act provides that: “Hours worked—in determining for the purposes of
+sections 6 and 7 the hours for which an employee is employed, there shall be excluded any time spent in changing
+clothes or washing at the beginning or end of each workday which was excluded from the measured working time
+during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining
+agreement applicable to the particular employees.”
+[26 FR 190, Jan. 11, 1961, as amended at 26 FR 7732, Aug. 18, 1961]
+
+§785.50 Section 4 of the Portal-to-Portal Act.
+Section 4 of this Act provides that:
+(a) Except as provided in paragraph (b), of this section, no employer shall be subject to any liability or
+punishment under the Fair Labor Standards Act of 1938, as amended, the Walsh-Healey Act, or the Davis-Bacon
+Act, on account of the failure of such employer to pay an employee minimum wages, or to pay an employee
+overtime compensation, for or on account of any of the following activities of such employee engaged in, on, or
+after May 14, 1947:
+(1) Walking, riding, or traveling to and from the actual place of performance of the principal activity or
+activities which such employee is employed to perform, and
+(2) Activities which are preliminary to or postliminary to said principal activity or activities, which occur
+either prior to the time on any particular workday at which such employee commences, or subsequent to the time on
+any particular workday which he ceases, such principal activity or activities. For purposes of this subsection, the use
+of an employer's vehicle for travel by an employee and activities performed by an employee which are incidental to
+the use of such vehicle for commuting shall not be considered part of the employee's principal activities if the use of
+such vehicle for travel is within the normal commuting area for the employer's business or establishment and the use
+of the employer's vehicle is subject to an agreement on the part of the employer and the employee or representative
+of such employee.
+
+(b) Notwithstanding the provisions of paragraph (a) of this section which relieve an employer from liability
+and punishment with respect to an activity the employer shall not be so relieved if such activity is compensable by
+either:
+(1) An express provision of a written or nonwritten contract in effect, at the time of such activity, between
+such employee, his agent, or collective-bargaining representative and his employer; or
+(2) A custom or practice in effect, at the time of such activity, at the establishment or other place where such
+employee is employed, covering such activity, not inconsistent with a written or nonwritten contract, in effect at the
+time of such activity, between such employee, his agent, or collective-bargaining representative and his employer.
+(c) For the purposes of paragraph (b) of this section, an activity shall be considered as compensable, under
+such contract provision or such custom or practice only when it is engaged in during the portion of the day with
+respect to which it is so made compensable.
+(d) In the application of the minimum wage and overtime compensation provisions of the Fair Labor
+Standards Act of 1938, as amended, of the Walsh-Healey Act, or of the Davis-Bacon Act, in determining the time
+for which an employer employs an employee with respect to walking, riding, traveling, or other preliminary or
+postliminary activities described in paragraph (a) of this section, there shall be counted all that time, but only that
+time, during which the employee engages in any such activity which is compensable within the meaning of
+paragraphs (b) and (c) of this section.
+[26 FR 190, Jan. 11, 1961, as amended at 76 FR 18860, Apr. 5, 2011]
+
+
