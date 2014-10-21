@@ -2,6 +2,7 @@ require 'docsplit'
 require 'pathname'
 require 'sequel'
 require 'yaml'
+require 'csv'
 
 require './lib/search/table'
 
