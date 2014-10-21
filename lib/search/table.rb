@@ -6,7 +6,7 @@ module Search
           create table docs (
             id serial primary key,
             name varchar not null,
-            doctype varchar not null,
+            doctype varchar,
             content text not null,
             terms tsvector not null
           );
@@ -27,21 +27,20 @@ module Search
         SQL
       end
 
-      def init_doctypes!
-        doctypes = {}
-        CSV.foreach("./metadata/doctypes.txt", :headers => false, :converters => :all) do |row|
-          doctypes[row.fields[0]] = row.fields[1..-1]
-        end
-      end
-
-
       def load!
+        doctypes = {}
+          CSV.foreach("./metadata/doctypes.txt", :headers => false, :converters => :all) do |(filename, type)|
+          doctypes[filename] = type
+        end
+
         Dir['./docs/*.txt'].each do |name|
           path = Pathname(name)
 
+          good_name = Pathname(name).basename.to_s
+
           DB[:docs].insert({
             name: name,
-            doctype: doctypes[name],
+            doctype: doctypes[good_name],
             content: path.read
           })
         end

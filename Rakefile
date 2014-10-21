@@ -13,7 +13,6 @@ namespace :search do
     end
 
     task :load do
-      Search::Table.init_doctypes!
       Search::Table.load!
     end
   end

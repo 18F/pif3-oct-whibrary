@@ -3,6 +3,7 @@ require 'pathname'
 require 'sequel'
 require 'yaml'
 require 'csv'
+require 'pry'
 
 require './lib/search/table'
 require './lib/search/query'

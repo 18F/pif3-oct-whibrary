@@ -1,0 +1,20 @@
+<html>
+<head>
+  <title>Search Stuff</title>
+</head>
+
+<body>
+  <form action="search" method="get">
+    <input name="q" value="<%= q %>" />
+    <input type="submit" value="Search!" />
+  </form>
+
+  <ol>
+    <% results.each do |result| %>
+      <% name = Pathname(result[:name]).basename; ext = name.extname; realname = name.to_s.gsub(ext, '') %>
+
+      <li><a href="http://localhost:8000/<%= realname %>.pdf"><%= realname %></a> - <%= result[:doctype] %></li>
+    <% end %>
+  </ol>
+</body>
+</html>

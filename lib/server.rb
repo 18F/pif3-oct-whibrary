@@ -7,7 +7,9 @@ class Server < Sinatra::Base
   get '/search' do
     query = Search::Query.new(params[:q])
 
-    query.dataset.all.map { |i| i[:name] }.join(', ')
+    results = query.dataset.all
+
+    erb :search, locals: {query: query, results: results, q: params[:q]}
   end
 
   # start the server if ruby file executed directly
