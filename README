@@ -11,8 +11,11 @@ Second, build the software.
 
 1. Go to the project's directory
 2. run `bundle install`
-3. run `ruby lib/server.rb`
-4. in the "docs" folder, run `python -m SimpleHTTPServer`
+3. run `bundle rake search:split`
+4. run `bundle rake search:table:create`
+5. run `bundle rake search:table:load`
+6. run `ruby lib/server.rb`
+7. in the "docs" folder, run `python -m SimpleHTTPServer`
 
 Third, use the software.
 

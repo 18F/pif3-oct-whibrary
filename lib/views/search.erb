@@ -16,7 +16,7 @@
       <% reduced[key].each do |result| %>
         <% name = Pathname(result[:name]).basename; ext = name.extname; realname = name.to_s.gsub(ext, '') %>
 
-        <li><a href="http://localhost:8000/<%= realname %>.pdf"><%= realname %></a> - <%= result[:doctype] %></li>
+        <li><a href="http://localhost:8000/<%= realname %>.pdf"><%= realname %></a></li>
       <% end %>
     </ol>
 
